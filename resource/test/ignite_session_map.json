@@ -3,17 +3,17 @@
     {
       "HubbId": 6,
       "SessionTypeName": "TEF",
-      "SessionSets": [ "Scheduler-TEF" ]
+      "SessionSets": [ "Scheduler-TEF", "My Schedule - TEF" ]
     },
     {
       "HubbId": 7,
       "SessionTypeName": "Keynote",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 8,
       "SessionTypeName": "Theater: Microsoft",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 9,
@@ -23,62 +23,62 @@
     {
       "HubbId": 10,
       "SessionTypeName": "Pre-Day Training",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 31,
       "SessionTypeName": "General Session",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 32,
       "SessionTypeName": "Partner Led Session",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 111,
       "SessionTypeName": "Breakout: 45 minutes",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 112,
       "SessionTypeName": "Breakout: 75 minutes",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 134,
       "SessionTypeName": "Women in Technology",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 208,
       "SessionTypeName": "Theater: Community",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF"  ]
     },
     {
       "HubbId": 209,
       "SessionTypeName": "Theater: Partner",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard", "Scheduler-TEF" ]
     },
     {
       "HubbId": 232,
       "SessionTypeName": "AMA",
-      "SessionSets": [ "Scheduler-Standard" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "Scheduler-Standard" ]
     },
     {
       "HubbId": 230,
       "SessionTypeName": "Agenda - non-TEF",
-      "SessionSets": [ "Scheduler-Standard" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "Scheduler-Standard" ]
     },
     {
       "HubbId": 229,
       "SessionTypeName": "Agenda - TEF",
-      "SessionSets": [ "Scheduler-TEF" ]
+      "SessionSets": [ "My Schedule - TEF", "Scheduler-TEF" ]
     },
     {
       "HubbId": 228,
       "SessionTypeName": "Agenda - All",
-      "SessionSets": [ "Scheduler-Standard", "Scheduler-TEF" ]
+      "SessionSets": [ "Schedule Builder - Attendee", "My Schedule - TEF" , "Scheduler-Standard", "Scheduler-TEF"]
     },
     {
       "HubbId": 231,
