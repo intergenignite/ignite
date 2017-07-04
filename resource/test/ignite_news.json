@@ -27,8 +27,7 @@
          "linkText": "View Personas",
          "link":"/personas",
          "tileWidth":"2",
-         "tileHeight":"2",
-         "image": "https://people-mozilla.org/~smartell/persona/assets/persona-logo.png"
+         "tileHeight":"2"
       }
    ]
 }
