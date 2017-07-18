@@ -18,13 +18,14 @@ namespace Ignite.Rules
             .SelectMany(access => access.Identifiers.Select(identifier => new ProfileDto
             {
                 Identifier = identifier,
+                Identifiers = access.Identifiers ?? new string[] {},
                 Access = access.Access,
                 EvalAccess = access.EvalAccess,
                 Reporting = access.Reporting,
                 SessionSetAccess = access.SessionSetAccess,
                 VisibleAttendeeTypes = access.VisibleAttendeeTypes
             }))
-            .Union(rules.UserAccess.Where(access => !string.IsNullOrEmpty(access.Identifier) && access.Identifiers == null)));
+            .Union(rules.UserAccess.Where(access => !string.IsNullOrEmpty(access.Identifier))));
             _permission = new Lazy<Dictionary<string, ProfileDto>>(() => rules.UserAccess.ToDictionary(rule => rule.Identifier.ToLowerInvariant()));
         }
 

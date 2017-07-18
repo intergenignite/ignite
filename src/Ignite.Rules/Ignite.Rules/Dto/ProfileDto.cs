@@ -5,7 +5,7 @@ namespace Ignite.Rules.Dto
     public class ProfileDto
     {
         [JsonProperty("Identifiers")]
-        public string[] Identifiers { get; set; }
+        public string[] Identifiers { get; set; } = {};
         public string Identifier { get; set; }
         [JsonProperty("Access")]
         public AccessDto Access { get; set; }

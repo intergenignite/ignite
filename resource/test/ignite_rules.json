@@ -1,6 +1,6 @@
 {
     "UserAccess": [{
-            "Identifier": "Anonymous",
+            "Identifiers": ["Anonymous"],
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": false,
@@ -221,7 +221,7 @@
             ]
         },
         {
-            "Identifier": "Crew",
+            "Identifiers": ["Crew"],
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
