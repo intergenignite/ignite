@@ -19,8 +19,8 @@ namespace Ignite.Rules.Test
 //            var repos = new SecurityRepository(webLoader, settings);
             var fileLoader = new FileLoader();
             var settings = new SettingsStub()
-                .WithRulesPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\resource\test\ignite_rules.json"))
-                .WithSessionMapPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\resource\test\ignite_session_map.json"));
+                .WithRulesPath(Path.Combine(Directory.GetCurrentDirectory(), @"../../../../../resource/test/ignite_rules.json"))
+                .WithSessionMapPath(Path.Combine(Directory.GetCurrentDirectory(), @"../../../../../resource/test/ignite_session_map.json"));
             var repos = new SecurityRepository(fileLoader, settings);
 
             var useraccessDto = repos.LoadAccessLevel().Result;
