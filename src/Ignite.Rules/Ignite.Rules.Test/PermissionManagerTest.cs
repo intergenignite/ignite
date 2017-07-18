@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using NUnit.Framework;
 
@@ -13,13 +14,14 @@ namespace Ignite.Rules.Test
         [TestFixtureSetUp]
         public void Setup()
         {
-            var webLoader = new WebLoader();
-            var settings = new SettingsStub();
-            var repos = new SecurityRepository(webLoader, settings);
-//            var fileLoader = new FileLoader();
-//            var settings = new SettingsStub()
-//                .WithRulesPath(@"C:\dev\ignite\ignite\resource\test\ignite_rules.json").WithSessionMapPath(@"D:\DEV\ignite\resource\test\ignite_session_map.json");
-//            var repos = new SecurityRepository(fileLoader, settings);
+//            var webLoader = new WebLoader();
+//            var settings = new SettingsStub();
+//            var repos = new SecurityRepository(webLoader, settings);
+            var fileLoader = new FileLoader();
+            var settings = new SettingsStub()
+                .WithRulesPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\resource\test\ignite_rules.json"))
+                .WithSessionMapPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\..\..\resource\test\ignite_session_map.json"));
+            var repos = new SecurityRepository(fileLoader, settings);
 
             var useraccessDto = repos.LoadAccessLevel().Result;
             _permissionManager = new PermissionManager(useraccessDto);
