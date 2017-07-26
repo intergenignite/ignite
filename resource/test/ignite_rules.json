@@ -1,6 +1,10 @@
 {
     "UserAccess": [{
+<<<<<<< HEAD
             "Identifier": "Anonymous",
+=======
+            "Identifiers": ["Anonymous"],
+>>>>>>> upstream/master
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": false,
@@ -28,7 +32,10 @@
             ]
         },
         {
+<<<<<<< HEAD
             "Identifier": "Attendee Customer & Partner",
+=======
+>>>>>>> upstream/master
             "Identifiers": [
                 "Attendee Customer & Partner",
                 "Attendee Sponsor",
@@ -108,6 +115,7 @@
             ]
         },
         {
+<<<<<<< HEAD
             "Identifier": "Attendee Sponsor",
             "Access": {
                 "SessionCatalog": true,
@@ -180,6 +188,18 @@
         },
         {
             "Identifier": "Attendee Exhibitor",
+=======
+            "Identifiers": ["Staff External",
+                "Staff Microsoft",
+                "Staff External - GA converted",
+                "Staff External - Sponsor/Exhibitor converted",
+                "Staff Microsoft - GA converted",
+                "Booth Staff Sponsor",
+                "Booth Staff Exhibitor",
+                "Booth Staff Microsoft",
+                "Expo Only"
+            ],
+>>>>>>> upstream/master
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -209,6 +229,7 @@
                 "Day Pass Attendee Customer & Partner"
             ],
             "Reporting": {
+<<<<<<< HEAD
                 "SessionCounts": true
             },
             "EvalAccess": [{
@@ -232,6 +253,11 @@
                 "Mobile": true,
                 "WebSite": true
             }],
+=======
+                "SessionCounts": false
+            },
+            "EvalAccess": [],
+>>>>>>> upstream/master
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
@@ -250,6 +276,7 @@
             ]
         },
         {
+<<<<<<< HEAD
             "Identifier": "Attendee Microsoft",
             "Access": {
                 "SessionCatalog": true,
@@ -322,6 +349,12 @@
         },
         {
             "Identifier": "Attendee Student",
+=======
+            "Identifiers": ["Speaker External",
+                "Speaker Microsoft",
+                "Media"
+            ],
+>>>>>>> upstream/master
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -353,6 +386,7 @@
             "Reporting": {
                 "SessionCounts": true
             },
+<<<<<<< HEAD
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
                 "SessionTypes": [null],
@@ -374,6 +408,9 @@
                 "Mobile": true,
                 "WebSite": true
             }],
+=======
+            "EvalAccess": [],
+>>>>>>> upstream/master
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
@@ -392,7 +429,11 @@
             ]
         },
         {
+<<<<<<< HEAD
             "Identifier": "Attendee Academic Faculty/Staff",
+=======
+            "Identifiers": ["Crew"],
+>>>>>>> upstream/master
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -422,7 +463,11 @@
                 "Day Pass Attendee Customer & Partner"
             ],
             "Reporting": {
+<<<<<<< HEAD
                 "SessionCounts": true
+=======
+                "SessionCounts": false
+>>>>>>> upstream/master
             },
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
@@ -463,6 +508,7 @@
             ]
         },
         {
+<<<<<<< HEAD
             "Identifier": "Staff External",
             "Access": {
                 "SessionCatalog": true,
@@ -1432,6 +1478,14 @@
         },
         {
             "Identifier": "Attendee TEF Microsoft",
+=======
+            "Identifiers": [
+                "Attendee TEF",
+                "Speaker TEF",
+                "Crew TEF",
+                "Attendee TEF Microsoft"
+            ],
+>>>>>>> upstream/master
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
