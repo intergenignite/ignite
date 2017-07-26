@@ -2,35 +2,35 @@
     "NewsItems": [
         {
             "title": "Personas",
-            "tileNumber": "1",
+            "tileNumber": 1,
             "description": "Nec etiam placerat vivamus sem adipiscing mi per vivamus consectetur ullamcorper risus sollicitudin.",
             "link": "/personas",
             "image": "images/news/personas.png"
         },
         {
             "title": "Personalization",
-            "tileNumber": "2",
+            "tileNumber": 2,
             "description": "Nec etiam placerat vivamus sem adipiscing mi per vivamus consectetur ullamcorper risus sollicitudin.",
             "link": "/personalize",
             "image": "images/news/personalization.png"
         },
         {
             "title": "Women in Technology",
-            "tileNumber": "3",
+            "tileNumber": 3,
             "description": "Nec etiam placerat vivamus sem adipiscing mi per vivamus consectetur ullamcorper risus sollicitudin.",
             "link": "//www.microsoft.com/en-us/diversity/inside-microsoft/women-at-microsoft/default.aspx",
             "image": "images/news/women-in-technology.png"
         },
         {
             "title": "Featured Speakers",
-            "tileNumber": "4",
+            "tileNumber": 4,
             "description": "Nec etiam placerat vivamus sem adipiscing mi per vivamus consectetur ullamcorper risus sollicitudin.",
             "link": "//www.microsoft.com/en-us/ignite/speakers",
             "image": "images/news/featured-speakers.png"
         },
         {
             "title": "Tech Community",
-            "tileNumber": "5",
+            "tileNumber": 5,
             "description": "Nec etiam placerat vivamus sem adipiscing mi per vivamus consectetur ullamcorper risus sollicitudin.",
             "link": "//techcommunity.microsoft.com/",
             "image": "images/news/tech-community.png"
