@@ -43,7 +43,8 @@
                 "Attendee Microsoft",
                 "Attendee Student",
                 "Attendee Academic Faculty/Staff",
-                "Day Pass Attendee Customer & Partner"
+                "Day Pass Attendee Customer & Partner",
+                "Microsoft Envision Attendee"
             ],
             "Access": {
                 "SessionCatalog": true,
@@ -71,7 +72,8 @@
                 "Media",
                 "Crew",
                 "Expo Only",
-                "Day Pass Attendee Customer & Partner"
+                "Day Pass Attendee Customer & Partner",
+                "Microsoft Envision Attendee"
             ],
             "Reporting": {
                 "SessionCounts": true
