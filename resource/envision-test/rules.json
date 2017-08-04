@@ -1083,7 +1083,7 @@
                 "LocationBasedMessaging": true
             },
             "VisibleAttendeeTypes": [
-                "Attendee Customer & Partner",
+                "Microsoft Envision Attendee",
                 "Attendee Sponsor",
                 "Attendee Exhibitor",
                 "Attendee Microsoft",
@@ -1102,7 +1102,7 @@
                 "Day Pass Attendee Customer & Partner"
             ],
             "Reporting": {
-                "SessionCounts": false
+                "SessionCounts": true
             },
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
@@ -1139,6 +1139,11 @@
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
                     "Identifier": "My Schedule - Attendee"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Session Catalog"
                 }
             ]
         },
