@@ -47,7 +47,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -181,7 +181,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -252,7 +252,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -323,7 +323,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -394,7 +394,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -465,7 +465,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -536,7 +536,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -587,7 +587,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -638,7 +638,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -689,7 +689,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -740,7 +740,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -791,7 +791,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -842,7 +842,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -893,7 +893,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -944,7 +944,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -995,7 +995,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -1046,7 +1046,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -1072,7 +1072,7 @@
             ]
         },
         {
-            "Identifier": "Crew",
+            "Identifier": "Envision Crew",
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -1097,7 +1097,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -1168,7 +1168,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -1219,7 +1219,7 @@
                 "Speaker External",
                 "Speaker Microsoft",
                 "Media",
-                "Crew",
+                "Envision Crew",
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner"
             ],
@@ -1408,7 +1408,7 @@
             ]
         },
         {
-            "Identifier": "Crew TEF",
+            "Identifier": "Envision Crew TEF",
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
