@@ -52,8 +52,12 @@
                 "Microsoft Envision Media",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
+<<<<<<< HEAD
                 "Staff Day Pass Microsoft",
                 "Microsoft Envision Plus"
+=======
+                "Staff Day Pass Microsoft"
+>>>>>>> upstream/master
             ],
             "Access": {
                 "SessionCatalog": true,
@@ -101,8 +105,12 @@
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
+<<<<<<< HEAD
                 "Staff Day Pass Microsoft",
                 "Microsoft Envision Plus"
+=======
+                "Staff Day Pass Microsoft"
+>>>>>>> upstream/master
             ],
             "Reporting": {
                 "SessionCounts": true
@@ -215,8 +223,12 @@
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
+<<<<<<< HEAD
                 "Staff Day Pass Microsoft",
                 "Microsoft Envision Plus"
+=======
+                "Staff Day Pass Microsoft"
+>>>>>>> upstream/master
             ],
             "Reporting": {
                 "SessionCounts": false
