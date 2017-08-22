@@ -17,12 +17,12 @@
         {
             "HubbId": 1795,
             "SessionTypeName": "Hands-on Lab",
-            "SessionSets": ["Lab", "My Schedule - Attendee", "Session Catalog (Mktg Site)"]
+            "SessionSets": ["Schedule Builder - Attendee", "Lab", "My Schedule - Attendee", "Session Catalog (Mktg Site)"]
         },
         {
             "HubbId": 1797,
             "SessionTypeName": "Pre-Day Training",
-            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+            "SessionSets": ["Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1673,
