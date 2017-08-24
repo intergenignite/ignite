@@ -31,6 +31,14 @@
             "linkText": "Join a conversation",
             "linkTarget": "_blank",
             "image": "images/news/tech-community.png"
+        },
+        {
+            "title": "Your guide to Microsoft Ignite",
+            "tileNumber": 5,
+            "description": "The Microsoft Ignite app has everything you need for an unforgettable experience: agendas, sessions, maps, and more.",
+            "link": "/mobileapp",
+            "linkText": "Download the app",
+            "image": "images/news/ignite-mobile-app.png"
         }
     ]
 }
