@@ -3,11 +3,7 @@
         {
             "Id": "1",
             "DisplayName": "Office 365 Application Admin",
-<<<<<<< HEAD
             "Description": "I administer various applications at my company from in-house Line of Business apps, to some of our standardized Office 365 workloads, including Exchange and SharePoint.  I’m responsible for LOB security and managing all of our Office 365 users.
-=======
-            "Description": ":  I administer various applications at my company from in-house Line of Business apps, to some of our standardized Office 365 workloads, including Exchange and SharePoint.  I’m responsible for LOB security and managing all of our Office 365 users.
->>>>>>> origin/master
             Topics of interest:
             Office 365 Administration
             Office 365 Admin Center
