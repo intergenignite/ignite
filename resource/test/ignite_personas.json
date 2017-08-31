@@ -14,8 +14,6 @@
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application%20Admin.png?raw=true",
             "SessionsAttending" : [
                 "56715","53191","53331","53520","53258","53654","55795","53285","53805","53332","55796","53450","53446","53452","53732","53729"
-<<<<<<< HEAD
-=======
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -1408,7 +1406,6 @@ Microsoft insights
                 "39132","20691","1285","2934","20530","13803","22108","3112",
                 "2635","37004","15847","2953","1241","15845",
                 "5942","2997","3053"
->>>>>>> origin/master
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
