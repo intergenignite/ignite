@@ -286,7 +286,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
                         </li>
                     </ul>
                 </div>
@@ -350,22 +350,20 @@ Topics of interest:
         },
         {
             "Id": "4",
-            "DisplayName": "Database Developer",
-            "Description" : "As a Database Developer I develop and maintain on-premises and cloud databases across the organization, while ensuring high levels of data availability. I evaluate and advise on all technology components, such as software, hardware, and networking capabilities, for database management systems and applications. As part of my role I am also responsible for implementing data dashboards to all levels of the organization.
+            "DisplayName": "UC Lead",
+            "Description" : "I’m a veteran UC IT Pro and support my company’s Skype for Business Enterprise Voice infrastructure.  I’ve been tasked with learning how we can better leverage the cloud for our voice/communications needs and am looking forward to learning more about the direction of communications at Microsoft.
 
-Content that I am interested in at Ignite
-•	The latest SQL developments and roadmap
-•	How I can leverage PowerBi to gain even more value from the all the data in my company
-•	Building scalable applications with Azure
-
+Topics of interest:
+•	Skype for Business Server/Hybrid
+•	Cloud PBX
+•	PSTN Calling and Conferencing
+•	Meeting Broadcast
+•	Microsoft Teams
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Database Developer.png?raw=true",
             "SessionsAttending" : [
-                "15873","20700","39172","39171",
-                "3064","2654","2901","2887","36902","2998",
-                "14817","20691","2633","20665","2990",
-                "4094","22117","5938","5937",
-                "5931","3053"
+                "56715","56548","53229","56297","53578","53241","53552","53166","53165","54671","53489","53538",
+                "55346","55896","53211","53245","53252","53221","53247","53248","53551"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -375,38 +373,38 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"labs/56514\" class=\"c-hyperlink\">Configure PSTN conferencing</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"labs/56515\" class=\"c-hyperlink\">Configuring Cloud PBX with on-premises connectivity</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
+                            <a href=\"labs/56516\" class=\"c-hyperlink\">Configuring Cloud PBX with PSTN calling</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56518\" class=\"c-hyperlink\">Schedule and produce broadcast meetings</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" >
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -425,7 +423,7 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
@@ -445,11 +443,11 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"#\" class=\"c-hyperlink\">70-333</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                            <a href=\"#\" class=\"c-hyperlink\">70-334</a>
                         </li>
                     </ul>
                 </div>
