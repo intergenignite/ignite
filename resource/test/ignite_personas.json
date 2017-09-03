@@ -455,21 +455,19 @@ Topics of interest:
         },
         {
             "Id": "5",
-            "DisplayName": "End User Support",
-            "Description" : "I am responsible for the end user support at my company. I am the point of contact for troubleshooting applications, but also support them when they are looking for new products or features to perform their work. Besides providing general IT support I am an advocate towards the business to improve end-user productivity
+            "DisplayName": "Office Developer",
+            "Description" : "I work for a large enterprise and focus on developing internal apps that improve our business process.  I have built several LOB add-ins across the Office application suite including SharePoint Server and SharePoint Online.
 
-Content that I am interested in at Ignite
-•	Tips and tricks about troubleshooting our IT workplace from Desktop to the Exchange server
-•	Latest developments in end-user productivity: New products, new features and what’s coming
-
+Topics of interest:
+•	Office Add-ins
+•	SharePoint Framework
+•	Microsoft Graph
+•	Visual Studio
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/End User Support.png?raw=true",
             "SessionsAttending" : [
-                "20582","2730","39172","39171",
-                "4077","1300","20703","13777","20602",
-                "20691","2809","1278","20577","4996","5001","4071",
-                "4083","1276","39135","20670","1239","2806",
-                "2997","15846"
+                "56715","56547","55142","54720","54774","55144","55145","54718","55411","54702","55110","55045",
+                "54684","54973","55180","55112","54713","55057","54708","54999","53866"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -479,24 +477,32 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"labs/56409\" class=\"c-hyperlink\">Build your first Microsoft Office Add-in with Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"labs/56411\" class=\"c-hyperlink\">Connect to applications within Microsoft Outlook</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
+                            <a href=\"labs/56413\" class=\"c-hyperlink\">Build a connected mobile app with Microsoft Graph</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56414\" class=\"c-hyperlink\">Build your first SharePoint Framework part</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"labs/56415\" class=\"c-hyperlink\">Advanced SharePoint Framework: Connect and customize your parts to data</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"labs/56423\" class=\"c-hyperlink\">Connect to Microsoft Graph from Office Add-ins</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -507,7 +513,7 @@ Content that I am interested in at Ignite
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -529,7 +535,7 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area – Office Dev</a>
                         </li>
                     </ul>
                 </div>
