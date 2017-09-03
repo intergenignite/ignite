@@ -5,15 +5,16 @@
             "DisplayName": "Office 365 Application Admin",
             "Description": "I administer various applications at my company from in-house Line of Business apps, to some of our standardized Office 365 workloads, including Exchange and SharePoint.  I’m responsible for LOB security and managing all of our Office 365 users.
             Topics of interest:
-            Office 365 Administration
-            Office 365 Admin Center
-            Office 365 Security
-            SharePoint Online Administration
-            Office Pro Plus Administration and Deployment
+            •	Office 365 Administration
+            •	Office 365 Admin Center
+            •	Office 365 Security
+            •	SharePoint Online Administration
+            •	Office Pro Plus Administration and Deployment
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application%20Admin.png?raw=true",
             "SessionsAttending" : [
-                "56715","53191","53331","53520","53258","53654","55795","53285","53805","53332","55796","53450","53446","53452","53732","53729"
+                "56715","56547","54835","53331","53520","53333","55100","55162","56302","53258","53654","53863","53285",
+                "53805","53445","55963","53450","53446","53202","53452","53732","53731"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -23,35 +24,31 @@
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"/labs/56492\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"/labs/56500\" class=\"c-hyperlink\">Using the Office 365 Power BI Content Pack</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"/labs/56505\" class=\"c-hyperlink\">Troubleshooting Microsoft Office 365</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -73,12 +70,12 @@
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -91,13 +88,21 @@
                 <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
-                    <ul class=\"persona-detail-sidebar__link-list\">
+                    <ul class=\"persona-detail-sidebar__link-list\" hidden>
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\" >
+                            <a href=\"/sessions/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: Exam 70-346: Managing Office 365 Identities and Requirements</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\" >
+                            <a href=\"/sessions/55029\" class=\"c-hyperlink\">BRK3160: Cert Exam Prep: Exam 70-347: Enabling Office 365 Services</a>
                         </li>
                     </ul>
                 </div>
