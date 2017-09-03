@@ -4,12 +4,12 @@
             "Id": "1",
             "DisplayName": "Office 365 Application Admin",
             "Description": "I administer various applications at my company from in-house Line of Business apps, to some of our standardized Office 365 workloads, including Exchange and SharePoint.  I’m responsible for LOB security and managing all of our Office 365 users.
-            Topics of interest:
-            •	Office 365 Administration
-            •	Office 365 Admin Center
-            •	Office 365 Security
-            •	SharePoint Online Administration
-            •	Office Pro Plus Administration and Deployment
+Topics of interest:
+•	Office 365 Administration
+•	Office 365 Admin Center
+•	Office 365 Security
+•	SharePoint Online Administration
+•	Office Pro Plus Administration and Deployment
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application%20Admin.png?raw=true",
             "SessionsAttending" : [
@@ -65,7 +65,7 @@
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -88,8 +88,8 @@
                 <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
-                    <ul class=\"persona-detail-sidebar__link-list\" hidden>
-                        <li class=\"persona-detail-sidebar__link\">
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
