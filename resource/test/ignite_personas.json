@@ -843,7 +843,7 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
