@@ -796,21 +796,19 @@ Topics of interest:
         },
         {
             "Id": "9",
-            "DisplayName": "IT Hybrid Infrastructure",
-            "Description" : "At my company we run a hybrid environment, with some of our core services running in the Microsoft cloud and some still in our own datacenter. I am attending Ignite to find out about the newest developments of Microsoft’s on-premises server products and how I can best integrate them with everything we have running in the cloud.
+            "DisplayName": "DevOps Engineer",
+            "Description" : "I want to explore and learn about best-in-class tools and practices for DevOps, including DevOps scenarios with Visual Studio Team Services, Team Foundation Server, Visual Studio Mobile Center and Azure.  
 
-Content that I am interested in at Ignite
-Office 365 hybrid options
-Creating seamless hybrid environments leveraging ExpressRoute
-Managing identities
+Topics of interest:
+•	Visual Studio Team Services  
+•	Team Foundation Server  
+•	Visual Studio Mobile Center  
+•	Azure 
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Hybrid Infrastructure.png?raw=true",
             "SessionsAttending" : [
-                "20537","2870","1380","39172","39171",
-                "2841","1376","2920","2908","20646",
-                "3114","4086","20690","2757","2539","3013",
-                "2862","2878","22117","20671","2858",
-                "2965","4087","2722"
+                "56716","56552","53674","53674","53625","53587","53677","53678",
+                "53644","55960","53602","53675","55487","55299","55306"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -820,24 +818,20 @@ Managing identities
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"labs/56569\" class=\"c-hyperlink\">Build & Test, See how Mobile Center helps you ship apps faster /a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"labs/56574\" class=\"c-hyperlink\">Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56585\" class=\"c-hyperlink\">Getting Started with Git in Visual Studio</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -851,7 +845,7 @@ Managing identities
             <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -865,17 +859,21 @@ Managing identities
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio Team Services & DevOps Booth</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio and Visual Studio Mobile Center Booth</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -885,7 +883,7 @@ Managing identities
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -895,6 +893,32 @@ Managing identities
 
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
+                            <a href=\"#\" class=\"c-hyperlink\">Get started for free with Visual Studio Team Services</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://mobile.azure.com/signup\" class=\"c-hyperlink\">Get started for free with Visual Studio Mobile Center</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
                         </li>
                     </ul>
                 </div>
