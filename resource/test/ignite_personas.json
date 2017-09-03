@@ -211,35 +211,35 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://www.visualstudio.com/\" class=\"c-hyperlink\">Download Visual Studio</a>
+                            <a href=\"https://www.visualstudio.com\" class=\"c-hyperlink\">Download Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://www.microsoft.com/net/\" class=\"c-hyperlink\">Download .NET</a>
+                            <a href=\"https://www.microsoft.com/net\" class=\"c-hyperlink\">Download .NET</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://www.xamarin.com/university/\" class=\"c-hyperlink\">Check out Xamarin University</a>
+                            <a href=\"https://www.xamarin.com/university\" class=\"c-hyperlink\">Check out Xamarin University</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet/\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://aka.ms/ignitelp-devtools-alpnodejs/\" class=\"c-hyperlink\">Check out the Node.js Developer on Azure learning path</a>
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpnodejs\" class=\"c-hyperlink\">Check out the Node.js Developer on Azure learning path</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://www.visualstudio.com/dev-essentials/\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://azure.microsoft.com/en-us/free/\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"www.Azure.Microsoft.com/Essentials/\" class=\"c-hyperlink\">Azure Essentials</a>
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
                         </li>
                     </ul>
                 </div>
@@ -247,22 +247,18 @@ Topics of interest:
         },
         {
             "Id": "3",
-            "DisplayName": "Database Administrator",
-            "Description" : "As a database admin my core responsibilities include and cloud-based database capacity planning, installation, database design, performance monitoring, as well as backup and data recovery. I am also expanding into creating Business Intelligence solutions at my company.
+            "DisplayName": "Desktop and Device Manager",
+            "Description" : "I am a desktop and device administrator, in charge of my company’s client workstations, BYOD and corporate provided devices.  I am deeply involved in the management, maintenance, processes and security across all devices. Our desktops currently run Windows 7 and Office 2013 and we’re looking to upgrade.  We have Windows, Android and IOS devices connecting to corporate resources, including email and a custom LOB app.
 
-Content that I am interested in at Ignite
-•	Latest information on SQL and roadmap
-•	Machine learning
-•	Leveraging Azure for high performance database management
-•	BI solutions
+Topics of interest:
+•	Microsoft 365 deployment and management
+•	Device Management and security
+•	Windows Updates
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Database Administrator.png?raw=true",
             "SessionsAttending" : [
-                "15873","2548","39172","39171",
-                "20550","2685","15874","2822","2975",
-                "2987","3001","2990",
-                "3095","5928","20553","2988",
-                "2781","5942","15846"
+                "56715","56549","53408","53477","53475","53665","53493","53196","53746","55428","55414","53195","53370","53372",
+                "53536","56307","53445","53379","53701","53202","53422","56608","53425","53373","53315"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -272,24 +268,20 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"labs/56517\" class=\"c-hyperlink\">Deploy Microsoft Office as a service</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"labs/56485\" class=\"c-hyperlink\">Microsoft Intune automation with Microsoft Graph API and PowerShell</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56523\" class=\"c-hyperlink\">Deploy and manage Windows as a service</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -300,7 +292,7 @@ Content that I am interested in at Ignite
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -342,11 +334,15 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"#\" class=\"c-hyperlink\">70-398: Planning for and Managing Devices in the Enterprise</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                            <a href=\"#\" class=\"c-hyperlink\">70-697: Configuring Windows Devices</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">70-698: Installing and Configuring Windows 10</a>
                         </li>
                     </ul>
                 </div>
