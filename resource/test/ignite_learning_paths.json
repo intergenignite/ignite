@@ -13,7 +13,7 @@
         "name": "Applications & Infrastructure",
         "slug": "applications-infrastructure",
         "personas": [
-            // "2", "3", "4", "5", "6"
+            "2"// , "3", "4", "5", "6"
         ]
     }, {
         "id": "3",

@@ -110,10 +110,10 @@ Topics of interest:
         },
         {
             "Id": "2",
-            "DisplayName": "Application Developer",
-            "Description" : "I am focused on translating software requirements into workable programming code and maintaining and developing programs for use in our business.
+            "DisplayName": "Modern Application Developer",
+            "Description" : "I am a Web, Cloud, Mobile or Desktop developer who would like to drive app innovation and supercharge my apps.
 
-Content that I am interested in at Ignite
+Topics of interest:
 •	UX design for Windows store apps
 •	Developing for Office 365
 •	Leveraging Azure as a development platform
@@ -122,8 +122,8 @@ Content that I am interested in at Ignite
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application Developer.png?raw=true",
             "SessionsAttending" : [
-                "55287", "55311", "53137", "53151", "53254",
-                "53267", "53281", "53384", "53407", "53461"
+                "56716","56552","55300","53630","53601","53625","53633","55760",
+                "55432","53483","53641","53622","53615","55303","55297","55487","55298"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -133,24 +133,16 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"/labs/56574\" class=\"c-hyperlink\">Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56580\" class=\"c-hyperlink\">Deploying Docker Container Apps to Azure App Services</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -164,7 +156,7 @@ Content that I am interested in at Ignite
             <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -178,17 +170,19 @@ Content that I am interested in at Ignite
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">.NET, Developer Tools for Azure Booth
+                                Visual Studio, Visual Studio Code, Xamarin Booths
+                            </a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -198,7 +192,7 @@ Content that I am interested in at Ignite
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -208,6 +202,44 @@ Content that I am interested in at Ignite
 
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/\" class=\"c-hyperlink\">Download Visual Studio</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.microsoft.com/net/\" class=\"c-hyperlink\">Download .NET</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.xamarin.com/university/\" class=\"c-hyperlink\">Check out Xamarin University</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet/\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpnodejs/\" class=\"c-hyperlink\">Check out the Node.js Developer on Azure learning path</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials/\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free/\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"www.Azure.Microsoft.com/Essentials/\" class=\"c-hyperlink\">Azure Essentials</a>
                         </li>
                     </ul>
                 </div>
