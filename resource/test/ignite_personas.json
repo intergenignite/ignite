@@ -1057,24 +1057,22 @@ Topics of interest:
         },
         {
             "Id": "11",
-            "DisplayName": "IT Power User",
-            "Description" : "I enjoy knowing about every last feature in applications like Excel, Visio or our Line of Business apps. People come to me when they have a question about features and how to do things in the latest Office applications or on Windows.
+            "DisplayName": "Virtual Machine Manager",
+            "Description" : "Wish to learn how to best secure and manage our migrated Azure Virtual Machine workloads and want to explore best practices for efficiently creating new Virtual Machines.
 
-Content that I am interested in at Ignite
-•	Latest feature releases across Office 365 and the Office suite
-•	Dynamics developments
-•	Improving productivity in the workplace
-
+Topics of interest:
+•	Azure  IaaS
+•	Azure Security Center
+•	Containers
+•	Azure Stack 
+•	Hybrid
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Power User.png?raw=true",
             "SessionsAttending" : [
-                "36927","2730","5008","1305","39172","39171",
-                "20647","1351","4078","20604","1297","20703","1313","3225",
-                "22112","1298","1307","1394","20566","20631","1306","4071","4078",
-                "1286","5927","20563","20670","1239","20626",
-                "2658","3212","1363"
+                "56716","56551","54926","55113","54864","55090","53264","54804","54783","54781","54806","54863",
+                "54798","54865","54866","55081","54779","53430","55078","55256"
             ],
-            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
+            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -1082,7 +1080,7 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Secure and manage your Azure resources</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1104,7 +1102,7 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Azure Customer Immersion Experience</a>
                         </li>
                     </ul>
                 </div>
@@ -1113,7 +1111,7 @@ Content that I am interested in at Ignite
             <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1127,17 +1125,21 @@ Content that I am interested in at Ignite
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Monitoring & Analytics</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">Azure Migration</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1152,11 +1154,33 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"https://aka.ms/ignitelp-infra-cert534\" class=\"c-hyperlink\">Exam 70-534: Architecting Microsoft Azure Solutions</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-infra-alpazureadmin\" class=\"c-hyperlink\">Azure Admin Learning Path</a>
+                        </li>
+                    
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://aka.ms/whitepaperonwecurewellmanaged\" class=\"c-hyperlink\">Read technical whitepaper on Azure</a>
                         </li>
 
+                        <li class=\"persona-detail-sidebar__link\" hidden>
+                            <a href=\"#\" class=\"c-hyperlink\">Security & Management</a>
+                        </li>
+                        
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\" hidden>
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
                         </li>
                     </ul>
                 </div>
