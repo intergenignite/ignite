@@ -663,23 +663,18 @@ Topics of interest:
         },
         {
             "Id": "7",
-            "DisplayName": "IT Desktop",
-            "Description" : "I am a Desktop administrator and in charge of the my company’s client workstation deployment, maintenance, processes and technologies. Our machines currently run Windows 7 and Office 2013.
+            "DisplayName": "Productivity Developer",
+            "Description" : "I am an application developer, developer admin, or architect (dev) who would like to supercharge my  development processes using the best-in-class developer tools, .NET and languages.
 
-Content that I am interested in at Ignite
-•	latest Windows 10 developments
-•	Managing Windows as a Service and the advancements in security.
-•	The new Office deployment Click-to-Run technology
-•	Deployment options for the traditional desktop and our mobile clients with Intune and SCCM
-
+Topics of interest:
+•	Developer Tools
+•	.NET
+•	Languages
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Desktop.png?raw=true",
             "SessionsAttending" : [
-                "1240","39172","39171",
-                "19287","1300","20663","34967","13783","20669","2697","2992",
-                "2809","15848","3062","39132","2994","2763",
-                "1244","2694","2856","2799","15845",
-                "3218","2969"
+                "56716","56552","53630","53601","55302","53587","53622","53641",
+                "53629","53483","55432","55297","53602","53640","53438","55298"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -689,29 +684,25 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"labs/56585\" class=\"c-hyperlink\">Getting Started with Git in Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
+                            <a href=\"labs/56571\" class=\"c-hyperlink\">Build Smarter Apps with Xamarin & the Intelligent Cloud</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"labs/56591\" class=\"c-hyperlink\">Live Unit Testing, Refactoring, and Code Style</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Immersion Zone</a>
                         </li>
                     </ul>
                 </div>
@@ -720,7 +711,7 @@ Content that I am interested in at Ignite
             <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -734,17 +725,21 @@ Content that I am interested in at Ignite
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Visual Studio Team Services, Visual Studio Mobile Center, Developer Tools for Azure, Xamarin, Booths</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">.NET & Languages Booths</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -754,7 +749,7 @@ Content that I am interested in at Ignite
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -764,6 +759,36 @@ Content that I am interested in at Ignite
 
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com\" class=\"c-hyperlink\">Download Visual Studio</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://dot.net\" class=\"c-hyperlink\">Download .NET</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
                         </li>
                     </ul>
                 </div>
