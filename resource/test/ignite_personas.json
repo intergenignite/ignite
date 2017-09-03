@@ -48,10 +48,10 @@
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\" hidden>
+            <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
