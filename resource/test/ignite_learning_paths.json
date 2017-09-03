@@ -21,7 +21,6 @@
         "name": "Data & AI",
         "slug": "data-ai",
         "personas": [
-            // "7", "8", "9", "10", "11"
         ]
     }, {
         "id": "4",
@@ -29,7 +28,6 @@
         "name": "Business Applications",
         "slug": "business-applications",
         "personas": [
-            // "12", "13", "14", "15"
         ]
     }]
 }
