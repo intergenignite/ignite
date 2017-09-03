@@ -567,23 +567,19 @@ Topics of interest:
         },
         {
             "Id": "6",
-            "DisplayName": "IT Cloud Infrastructure",
-            "Description" : "I manage my company’s IT infrastructure and we recently moved a part of our data storage onto Azure.
+            "DisplayName": "Open Source Developer",
+            "Description" : "I am a developer for an enterprise and we are currently leveraging several open source technologies. I want to learn how to get the most out of Azure with the latest open source technologies.
 
-Content that I am interested in at Ignite
-•	Azure IaaS and PaaS
-•	Optimizing our network to deal with the rapidly increasing bandwidth demand
-•	Latest Office 365 developments of applications, security and administration
-•	Best practices for Identity management
-•	IoT
+Topics of interest:
+•	Azure IaaS
+•	MySQL
+•	Node.js, Java, PHP, Ruby
+•	Cloud Foundry
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Cloud Infrastructure.png?raw=true",
             "SessionsAttending" : [
-                "3091","1261","39172","39171",
-                "1333","35275","3148","20578","3187","20683","2778","3195",
-                "3008","2660","1334","2557","2982","3015",
-                "3082","20584","3161","15845",
-                "2739","4087","14816"
+                "56716","56552","54880","55073","54927","54968","55063","53430",
+                "54806","53348","54876","55127","55137","55082","53640","53162","55080","53512"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -593,35 +589,27 @@ Content that I am interested in at Ignite
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"https://azure.microsoft.com/en-us/training/learning-paths/node-js-developer\" class=\"c-hyperlink\">Node.js Developer on Azure Learning Path</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Signup for Free Azure Account</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">How to Register</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Azure Customer Immersion Experience</a>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
