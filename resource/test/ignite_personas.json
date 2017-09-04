@@ -66,12 +66,12 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area</a>
+                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
                         </li>
                     </ul>
                 </div>
@@ -90,12 +90,12 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\" hidden>
-                            <a href=\"#\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" hidden>
-                            <a href=\"#\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                            <p class=\"c-hyperlink\">70-347: Enabling Office 365 Services</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" >
@@ -171,14 +171,16 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">.NET, Developer Tools for Azure Booth
-                                Visual Studio, Visual Studio Code, Xamarin Booths
-                            </a>
+                            <p class=\"c-hyperlink\">.NET, Developer Tools for Azure Booth</P>
+                        </li>
+
+                         <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Xamarin Booths</P>
                         </li>
                     </ul>
                 </div>
@@ -282,21 +284,21 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
+                            <p class=\"c-hyperlink\">M365 CIE</p>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\" hidden>
+            <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -310,7 +312,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -320,7 +322,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -335,15 +337,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-398: Planning for and Managing Devices in the Enterprise</a>
+                            <p class=\"c-hyperlink\">70-398: Planning for and Managing Devices in the Enterprise</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-697: Configuring Windows Devices</a>
+                            <p class=\"c-hyperlink\">70-697: Configuring Windows Devices</p>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-698: Installing and Configuring Windows 10</a>
+                            <p class=\"c-hyperlink\">70-698: Installing and Configuring Windows 10</p>
                         </li>
                     </ul>
                 </div>
@@ -391,21 +393,21 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
+                            <p class=\"c-hyperlink\">M365 CIE</p>
                         </li>
                     </ul>
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\" hidden>
+            <div class=\"persona-detail-sidebar__section\">
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\" >
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -424,12 +426,12 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area</a>
+                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -444,11 +446,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-333</a>
+                            <p class=\"c-hyperlink\">70-333</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">70-334</a>
+                            <p class=\"c-hyperlink\">70-334</p>
                         </li>
                     </ul>
                 </div>
@@ -514,10 +516,10 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\" hidden>
+            <div class=\"persona-detail-sidebar__section\" >
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -536,12 +538,12 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Modern Workplace Area – Office Dev</a>
+                            <p class=\"c-hyperlink\">Modern Workplace Area – Office Dev</p>
                         </li>
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -551,7 +553,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -599,12 +601,12 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\" >
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Customer Immersion Experience</a>
+                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
@@ -698,12 +700,12 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Immersion Zone</a>
+                            <p class=\"c-hyperlink\">Immersion Zone</p>
                         </li>
                     </ul>
                 </div>
@@ -726,16 +728,16 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Visual Studio Team Services, Visual Studio Mobile Center, Developer Tools for Azure, Xamarin, Booths</a>
+                            <p class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Visual Studio Team Services, Visual Studio Mobile Center, Developer Tools for Azure, Xamarin, Booths</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">.NET & Languages Booths</a>
+                            <p class=\"c-hyperlink\">.NET & Languages Booths</p>
                         </li>
                     </ul>
                 </div>
@@ -860,16 +862,16 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio Team Services & DevOps Booth</a>
+                            <p class=\"c-hyperlink\">Visual Studio Team Services & DevOps Booth</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Visual Studio and Visual Studio Mobile Center Booth</a>
+                            <p class=\"c-hyperlink\">Visual Studio and Visual Studio Mobile Center Booth</p>
                         </li>
                     </ul>
                 </div>
@@ -902,8 +904,8 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\" hidden>
-                            <a href=\"#\" class=\"c-hyperlink\">Get started for free with Visual Studio Team Services</a>
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">Get started for free with Visual Studio Team Services</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -942,7 +944,7 @@ Topics of interest:
                 "56716","54926","54924","54920","53264","53263","54868","54925","54968","54967","54867","55334","54932",
                 "54917","55407","54964","55123","53608","55125","53416","53338"
             ],
-            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\" hidden>
+            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -950,19 +952,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Deploying Highly Available Virtual Machines (TECH-CI-HOL212)</a>
+                            <p class=\"c-hyperlink\">Deploying Highly Available Virtual Machines (TECH-CI-HOL212)</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Networking Concepts (TECH-CI-HOL209)</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <p href=\"#\" class=\"c-hyperlink\">Azure Networking Concepts (TECH-CI-HOL209)</P>
                         </li>
                     </ul>
                 </div>
@@ -972,7 +966,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Customer Immersion Experience</a>
+                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
@@ -995,20 +989,20 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure IaaS expo (compute/storage/networking)</a>
+                            <p class=\"c-hyperlink\">Azure IaaS expo (compute/storage/networking)</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Resource Manager</a>
+                            <p class=\"c-hyperlink\">Azure Resource Manager</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Microsoft Evaluation Center - Windows Server 2016</a>
+                            <p class=\"c-hyperlink\">Microsoft Evaluation Center - Windows Server 2016</p>
                         </li>
                     </ul>
                 </div>
@@ -1073,7 +1067,7 @@ Topics of interest:
                 "56716","56551","54926","55113","54864","55090","53264","54804","54783","54781","54806","54863",
                 "54798","54865","54866","55081","54779","53430","55078","55256"
             ],
-            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\" hidden>
+            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
@@ -1081,19 +1075,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Secure and manage your Azure resources</a>
+                            <p class=\"c-hyperlink\">Secure and manage your Azure resources</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Using the Office 365 Power</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Troubleshooting Office 365</a>
+                            <p class=\"c-hyperlink\">Migrating you applications and workloads to Azure</p>
                         </li>
                     </ul>
                 </div>
@@ -1103,7 +1089,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Customer Immersion Experience</a>
+                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
@@ -1126,16 +1112,16 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Monitoring & Analytics</a>
+                            <p class=\"c-hyperlink\">Monitoring & Analytics</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Migration</a>
+                            <p class=\"c-hyperlink\">Azure Migration</p>
                         </li>
                     </ul>
                 </div>
