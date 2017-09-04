@@ -6,11 +6,11 @@
             "Description": "I administer various applications at my company from in-house Line of Business apps, to some of our standardized Office 365 workloads, including Exchange and SharePoint. I’m responsible for LOB security and managing all of our Office 365 users.
 
 Topics of interest:
-•	Office 365 Administration
-•	Office 365 Admin Center
-•	Office 365 Security
-•	SharePoint Online Administration
-•	Office Pro Plus Administration and Deployment
+	Office 365 Administration
+	Office 365 Admin Center
+	Office 365 Security
+	SharePoint Online Administration
+	Office Pro Plus Administration and Deployment
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application%20Admin.png?raw=true",
             "SessionsAttending" : [
@@ -115,9 +115,9 @@ Topics of interest:
             "Description" : "I am a desktop and device administrator, in charge of my company’s client workstations, BYOD and corporate provided devices.  I am deeply involved in the management, maintenance, processes and security across all devices. Our desktops currently run Windows 7 and Office 2013 and we’re looking to upgrade.  We have Windows, Android and IOS devices connecting to corporate resources, including email and a custom LOB app.
 
 Topics of interest:
-•	Microsoft 365 deployment and management
-•	Device Management and security
-•	Windows Updates
+	Microsoft 365 deployment and management
+	Device Management and security
+	Windows Updates
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Database Administrator.png?raw=true",
             "SessionsAttending" : [
@@ -218,11 +218,11 @@ Topics of interest:
             "Description" : "I’m a veteran UC IT Pro and support my company’s Skype for Business Enterprise Voice infrastructure.  I’ve been tasked with learning how we can better leverage the cloud for our voice/communications needs and am looking forward to learning more about the direction of communications at Microsoft.
 
 Topics of interest:
-•	Skype for Business Server/Hybrid
-•	Cloud PBX
-•	PSTN Calling and Conferencing
-•	Meeting Broadcast
-•	Microsoft Teams
+	Skype for Business Server/Hybrid
+	Cloud PBX
+	PSTN Calling and Conferencing
+	Meeting Broadcast
+	Microsoft Teams
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Database Developer.png?raw=true",
             "SessionsAttending" : [
@@ -323,10 +323,10 @@ Topics of interest:
             "Description" : "I work for a large enterprise and focus on developing internal apps that improve our business process.  I have built several LOB add-ins across the Office application suite including SharePoint Server and SharePoint Online.
 
 Topics of interest:
-•	Office Add-ins
-•	SharePoint Framework
-•	Microsoft Graph
-•	Visual Studio
+	Office Add-ins
+	SharePoint Framework
+	Microsoft Graph
+	Visual Studio
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/End User Support.png?raw=true",
             "SessionsAttending" : [
@@ -435,10 +435,10 @@ Topics of interest:
             "Description" : "I am a developer for an enterprise and we are currently leveraging several open source technologies. I want to learn how to get the most out of Azure with the latest open source technologies.
 
 Topics of interest:
-•	Azure IaaS
-•	MySQL
-•	Node.js, Java, PHP, Ruby
-•	Cloud Foundry
+	Azure IaaS
+	MySQL
+	Node.js, Java, PHP, Ruby
+	Cloud Foundry
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Cloud Infrastructure.png?raw=true",
             "SessionsAttending" : [
@@ -531,9 +531,9 @@ Topics of interest:
             "Description" : "I am an application developer, developer admin, or architect (dev) who would like to supercharge my  development processes using the best-in-class developer tools, .NET and languages.
 
 Topics of interest:
-•	Developer Tools
-•	.NET
-•	Languages
+	Developer Tools
+	.NET
+	Languages
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Desktop.png?raw=true",
             "SessionsAttending" : [
@@ -664,11 +664,11 @@ Topics of interest:
             "Description" : "I am a Web, Cloud, Mobile or Desktop developer who would like to drive app innovation and supercharge my apps.
 
 Topics of interest:
-•	UX design for Windows store apps
-•	Developing for Office 365
-•	Leveraging Azure as a development platform
-•	Microsoft APIs for LoB integrations
-•	Latest news about Microsoft development tools
+	UX design for Windows store apps
+	Developing for Office 365
+	Leveraging Azure as a development platform
+	Microsoft APIs for LoB integrations
+	Latest news about Microsoft development tools
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application Developer.png?raw=true",
             "SessionsAttending" : [
@@ -803,10 +803,10 @@ Topics of interest:
             "Description" : "I want to explore and learn about best-in-class tools and practices for DevOps, including DevOps scenarios with Visual Studio Team Services, Team Foundation Server, Visual Studio Mobile Center and Azure.  
 
 Topics of interest:
-•	Visual Studio Team Services  
-•	Team Foundation Server  
-•	Visual Studio Mobile Center  
-•	Azure 
+	Visual Studio Team Services  
+	Team Foundation Server  
+	Visual Studio Mobile Center  
+	Azure 
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Hybrid Infrastructure.png?raw=true",
             "SessionsAttending" : [
@@ -933,11 +933,11 @@ Topics of interest:
             "Description" : "I am an industry veteran infrastructure engineer and architect who is relatively new to the cloud.  My organization is  looking to leverage the benefits of cloud Infrastructure as a Service technologies, so I need to build up my skills with Azure.
 
 Topics of interest:
-•	Azure IaaS
-•	Azure Active Directory
-•	Azure Site Recovery
-•	Azure Storage
-•	Windows Server Containers
+	Azure IaaS
+	Azure Active Directory
+	Azure Site Recovery
+	Azure Storage
+	Windows Server Containers
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT On Premises Infrastructure.png?raw=true",
             "SessionsAttending" : [
@@ -1056,11 +1056,11 @@ Topics of interest:
             "Description" : "Wish to learn how to best secure and manage our migrated Azure Virtual Machine workloads and want to explore best practices for efficiently creating new Virtual Machines.
 
 Topics of interest:
-•	Azure  IaaS
-•	Azure Security Center
-•	Containers
-•	Azure Stack 
-•	Hybrid
+	Azure  IaaS
+	Azure Security Center
+	Containers
+	Azure Stack 
+	Hybrid
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Power User.png?raw=true",
             "SessionsAttending" : [
