@@ -38,12 +38,12 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">M365 CIE</a>
+                            <p class=\"c-hyperlink\">M365 CIE</p>
                         </li>
                     </ul>
                 </div>
