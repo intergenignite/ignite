@@ -44,7 +44,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">M365 CIE</p>
+                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
@@ -112,7 +112,7 @@ Topics of interest:
         },
         {
             "Id": "2",
-            "DisplayName": "Desktop and Device Manager",
+            "DisplayName": "Device Manager",
             "Description" : "I am a desktop and device administrator, in charge of my company’s client workstations, BYOD and corporate provided devices.  I am deeply involved in the management, maintenance, processes and security across all devices. Our desktops currently run Windows 7 and Office 2013 and we’re looking to upgrade.  We have Windows, Android and IOS devices connecting to corporate resources, including email and a custom LOB app.
 
 Topics of interest:
@@ -151,7 +151,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">M365 CIE</p>
+                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
@@ -260,7 +260,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">M365 CIE</p>
+                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
                         </li>
                     </ul>
                 </div>
