@@ -122,7 +122,9 @@
                     "General Session",
                     "Microsoft Studio",
                     "Theater",
-                    "Workshop"
+                    "Workshop",
+                    "MVP PreDay",
+                    "Pre-Day Training"
                 ],
                 "Mobile": true,
                 "WebSite": true
@@ -238,7 +240,9 @@
                     "General Session",
                     "Microsoft Studio",
                     "Theater",
-                    "Workshop"
+                    "Workshop",
+                    "MVP PreDay",
+                    "Pre-Day Training"
                 ],
                 "Mobile": true,
                 "WebSite": true
