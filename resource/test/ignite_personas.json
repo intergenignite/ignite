@@ -1318,19 +1318,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56492\" class=\"c-hyperlink\">Manage Microsoft Office 365</p>
+                            <a href\"/labs/56492\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</p>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56495\" class=\"c-hyperlink\">Administering and Using Microsoft Teams</p>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">Administering and Using Microsoft Teams</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</p>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</a>
                         </li>
                     </ul>
                 </div>
@@ -1467,15 +1467,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56511\" class=\"c-hyperlink\">Using Office 365 Advanced Security</p>
+                            <a href\"/labs/56511\" class=\"c-hyperlink\">Using Office 365 Advanced Security</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56513\" class=\"c-hyperlink\">Configure and use Microsoft Office 365 security and compliance features</p>
+                            <a href\"/labs/56513\" class=\"c-hyperlink\">Configure and use Microsoft Office 365 security and compliance features</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56520\" class=\"c-hyperlink\">Office 365 Threat Protection</p>
+                            <a href\"/labs/56520\" class=\"c-hyperlink\">Office 365 Threat Protection</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1718,7 +1718,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56473\" class=\"c-hyperlink\">Building a virtual salesperson using Beacon and Microsoft Dynamics 365</p>
+                            <a href\"/labs/56473\" class=\"c-hyperlink\">Building a virtual salesperson using Beacon and Microsoft Dynamics 365</a>
                         </li>
                     </ul>
                 </div>
@@ -1861,7 +1861,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56475\" class=\"c-hyperlink\">Introduction to Microsoft PowerApps</p>
+                            <a href\"/labs/56475\" class=\"c-hyperlink\">Introduction to Microsoft PowerApps</a>
                         </li>
                     </ul>
                 </div>
