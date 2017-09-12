@@ -1,5 +1,6 @@
 {
-    "UserAccess": [{
+    "UserAccess": [
+        {
             "Identifiers": ["Anonymous"],
             "Access": {
                 "SessionCatalog": true,
@@ -52,7 +53,8 @@
                 "Microsoft Envision Media",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
-                "Staff Day Pass Microsoft"
+                "Staff Day Pass Microsoft",
+                "Microsoft Envision Plus"
             ],
             "Access": {
                 "SessionCatalog": true,
@@ -101,14 +103,15 @@
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
-                "Staff Day Pass Microsoft"
+                "Staff Day Pass Microsoft",
+                "Microsoft Envision Plus"
             ],
             "Reporting": {
                 "SessionCounts": true
             },
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
-                "SessionTypes": [null],
+                "SessionTypes": ["Post Event  Survey"],
                 "Mobile": true,
                 "WebSite": true
             }, {
@@ -119,7 +122,9 @@
                     "General Session",
                     "Microsoft Studio",
                     "Theater",
-                    "Customer Immersion Experience (CIE)"
+                    "Workshop",
+                    "MVP PreDay",
+                    "Pre-Day Training"
                 ],
                 "Mobile": true,
                 "WebSite": true
@@ -130,7 +135,7 @@
                 "WebSite": true
             }, {
                 "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Keynote"],
+                "SessionTypes": ["Vision Keynote"],
                 "Mobile": true,
                 "WebSite": true
             }],
@@ -216,14 +221,15 @@
                 "Expo Only",
                 "Day Pass Attendee Customer & Partner",
                 "Staff Day Pass External",
-                "Staff Day Pass Microsoft"
+                "Staff Day Pass Microsoft",
+                "Microsoft Envision Plus"
             ],
             "Reporting": {
                 "SessionCounts": false
             },
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
-                "SessionTypes": [null],
+                "SessionTypes": ["Post Event  Survey"],
                 "Mobile": true,
                 "WebSite": true
             }, {
@@ -234,7 +240,9 @@
                     "General Session",
                     "Microsoft Studio",
                     "Theater",
-                    "Customer Immersion Experience (CIE)"
+                    "Workshop",
+                    "MVP PreDay",
+                    "Pre-Day Training"
                 ],
                 "Mobile": true,
                 "WebSite": true
@@ -245,7 +253,7 @@
                 "WebSite": true
             }, {
                 "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Keynote"],
+                "SessionTypes": ["Vision Keynote"],
                 "Mobile": true,
                 "WebSite": true
             }],
