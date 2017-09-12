@@ -560,7 +560,7 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
+            <div class=\"persona-detail-sidebar__section\" hidden>
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
@@ -769,6 +769,36 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com\" class=\"c-hyperlink\">Download Visual Studio</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://dot.net\" class=\"c-hyperlink\">Download .NET</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
+                        </li>
+                    </ul>
+                </div>
             </div>"
         },
         {
@@ -874,6 +904,44 @@ Topics of interest:
                         
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">98-375: HTML5 Application Development Fundamentals</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com\" class=\"c-hyperlink\">Download Visual Studio</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.microsoft.com/net\" class=\"c-hyperlink\">Download .NET</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.xamarin.com/university\" class=\"c-hyperlink\">Check out Xamarin University</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpdotnet\" class=\"c-hyperlink\">Check out the .NET Developer on Azure learning path</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-devtools-alpnodejs\" class=\"c-hyperlink\">Check out the Node.js Developer on Azure learning path</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
                         </li>
                     </ul>
                 </div>
@@ -1025,6 +1093,32 @@ Topics of interest:
                 </div>
 
                 <div class=\"persona-detail-sidebar__sub-section\" >
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">Get started for free with Visual Studio Team Services</p>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://mobile.azure.com/signup\" class=\"c-hyperlink\">Get started for free with Visual Studio Mobile Center</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.visualstudio.com/dev-essentials\" class=\"c-hyperlink\">Visual Studio Dev Essentials</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://azure.microsoft.com/en-us/free\" class=\"c-hyperlink\">Sign up for a free Azure trial</a>
+                        </li>
+                        
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"http://www.Azure.Microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1314,13 +1408,13 @@ Topics of interest:
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Labs</h5>
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56492\" class=\"c-hyperlink\">HOL3084: Manage Microsoft Office 365</a>
                         </li>
-
+                    
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3087: Configuring, managing and using OneDrive for Business</a>
                         </li>
@@ -1328,7 +1422,7 @@ Topics of interest:
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3095: Administering and Using Microsoft Teams</a>
                         </li>
-
+                        
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3100: Configuring, managing and using OneDrive for Business</a>
                         </li>
@@ -1351,21 +1445,6 @@ Topics of interest:
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Hayatt Hangout (Immersion Zone)</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">West Hangout</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Expo</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <p class=\"c-hyperlink\">Modern Workplace Area</p>
@@ -1375,17 +1454,6 @@ Topics of interest:
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-345</a>
@@ -1462,9 +1530,6 @@ Topics of interest:
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Labs</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56511\" class=\"c-hyperlink\">HOL3103: Using Office 365 Advanced Security</a>
@@ -1492,9 +1557,6 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
@@ -1503,25 +1565,9 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
-                <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
-
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
 
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Hayatt Hangout (Immersion Zone)</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">West Hangout</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1532,17 +1578,6 @@ Topics of interest:
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">70-346</a>
@@ -1594,9 +1629,6 @@ Topics of interest:
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Labs</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1733,26 +1765,8 @@ Topics of interest:
                     </ul>
                 </div>
             </div>
-
-            <div class=\"persona-detail-sidebar__section\">
-                <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
-
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Hayatt Hangout (Immersion Zone)</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">West Hangout</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1791,17 +1805,6 @@ Topics of interest:
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"https://aka.ms/ignitelp-dynamics-cert\" class=\"c-hyperlink\">Microsoft Certified Solutions Associate (MCSA): Microsoft Dynamics 365</a>
@@ -1855,10 +1858,6 @@ Topics of interest:
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Labs</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href\"/labs/56475\" class=\"c-hyperlink\">HOL3067: Introduction to Microsoft PowerApps</a>
@@ -1977,10 +1976,6 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
@@ -1989,26 +1984,8 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\">
-                <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
-
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Hayatt Hangout (Immersion Zone)</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">West Hangout</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Expo</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <p class=\"c-hyperlink\">SQL Server 2017</p>
@@ -2022,17 +1999,6 @@ Topics of interest:
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
-
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
-
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"https://aka.ms/ignitelp-dataai-cert473\" class=\"c-hyperlink\">70-473: Designing and Implementing Cloud Data Platform Solutions</a>
