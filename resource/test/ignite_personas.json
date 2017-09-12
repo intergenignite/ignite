@@ -1947,5 +1947,121 @@ Topics of interest:
                 </div>
             </div>"
         },
+        {
+            "Id": "16",
+            "DisplayName": "Data Management and Modernization",
+            "Description" : "I am a Data Professional, Architect, and/or Data Developer wanting to leverage the latest in On-Prem, Cloud and Hybrid Data Platform.
+
+Topics of interest:
+    •	SQL Server 2017
+    •	Azure SQL Database
+    •	Azure Cosmos DB
+    •	Azure Database for MySQL and PostgreSQL
+",
+            "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Power User.png?raw=true",
+            "SessionsAttending" : [
+                "56554","56555","55106","54946","54955","53380","55105","54957","53442","53351","53348","54953","53401","55263",
+                "55108","54954","54956","53523","53646","53525","54929","55262"
+                
+                               
+            ],
+            "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
+                <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
+
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                    <h5 class=\"c-heading-5 f-lean\">Labs</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href\"/labs/56475\" class=\"c-hyperlink\">Introduction to Microsoft PowerApps</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class=\"persona-detail-sidebar__section\">
+                <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
+
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                    <h5 class=\"c-heading-5 f-lean\">Hangouts</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">Hayatt Hangout (Immersion Zone)</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">West Hangout</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Expo</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">SQL Server 2017</p>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <p class=\"c-hyperlink\">App Innovation / Data for Developers</p>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                    <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">Certification Exams</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/ignitelp-dataai-cert473\" class=\"c-hyperlink\">70-473: Designing and Implementing Cloud Data Platform Solutions</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class=\"persona-detail-sidebar__sub-section\">
+                    <h5 class=\"c-heading-5 f-lean\">Continued Learning</h5>
+
+                    <ul class=\"persona-detail-sidebar__link-list\">
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://aka.ms/sqlserverctp\" class=\"c-hyperlink\">SQL Server 2017 trial</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://mva.microsoft.com/en-US/training-courses/data-series-platform-sql-server-17695\" class=\"c-hyperlink\">SQL Server training</a>
+                        </li>
+                    
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://mva.microsoft.com/en-US/training-courses/elastic-database-capabilities-with-azure-sql-db-16554?l=wQuZyA1fC_9006218965\" class=\"c-hyperlink\">Azure SQL Database training</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"https://www.azure.microsoft.com/Essentials\" class=\"c-hyperlink\">Azure Essentials</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>"
+        }
     ]
 }
