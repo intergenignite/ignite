@@ -26,15 +26,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56492\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href=\"/labs/56492\" class=\"c-hyperlink\">HOL3084: Manage Microsoft Office 365</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56500\" class=\"c-hyperlink\">Using the Office 365 Power BI Content Pack</a>
+                            <a href=\"/labs/56500\" class=\"c-hyperlink\">HOL3092: Using the Office 365 Power BI Content Pack</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56505\" class=\"c-hyperlink\">Troubleshooting Microsoft Office 365</a>
+                            <a href=\"/labs/56505\" class=\"c-hyperlink\">HOL3097: Troubleshooting Microsoft Office 365</a>
                         </li>
                     </ul>
                 </div>
@@ -153,15 +153,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56517\" class=\"c-hyperlink\">Deploy Microsoft Office as a service</a>
+                            <a href=\"/labs/56517\" class=\"c-hyperlink\">HOL3109: Deploy Microsoft Office as a service</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56485\" class=\"c-hyperlink\">Microsoft Intune automation with Microsoft Graph API and PowerShell</a>
+                            <a href=\"/labs/56485\" class=\"c-hyperlink\">HOL3077: Microsoft Intune automation with Microsoft Graph API and PowerShell</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56523\" class=\"c-hyperlink\">Deploy and manage Windows as a service</a>
+                            <a href=\"/labs/56523\" class=\"c-hyperlink\">HOL3115: Deploy and manage Windows as a service</a>
                         </li>
                     </ul>
                 </div>
@@ -276,19 +276,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56514\" class=\"c-hyperlink\">Configure PSTN conferencing</a>
+                            <a href=\"/labs/56514\" class=\"c-hyperlink\">HOL3106: Configure PSTN conferencing</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56515\" class=\"c-hyperlink\">Configuring Cloud PBX with on-premises connectivity</a>
+                            <a href=\"/labs/56515\" class=\"c-hyperlink\">HOL3107: Configuring Cloud PBX with on-premises connectivity</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56516\" class=\"c-hyperlink\">Configuring Cloud PBX with PSTN calling</a>
+                            <a href=\"/labs/56516\" class=\"c-hyperlink\">HOL3108: Configuring Cloud PBX with PSTN calling</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56518\" class=\"c-hyperlink\">Schedule and produce broadcast meetings</a>
+                            <a href=\"/labs/56518\" class=\"c-hyperlink\">HOL3110: Schedule and produce broadcast meetings</a>
                         </li>
                     </ul>
                 </div>
@@ -398,27 +398,27 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56409\" class=\"c-hyperlink\">Build your first Microsoft Office Add-in with Visual Studio</a>
+                            <a href=\"/labs/56409\" class=\"c-hyperlink\">HOL3005: Build your first Microsoft Office Add-in with Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56411\" class=\"c-hyperlink\">Connect to applications within Microsoft Outlook</a>
+                            <a href=\"/labs/56411\" class=\"c-hyperlink\">HOL3007: Connect to applications within Microsoft Outlook</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56413\" class=\"c-hyperlink\">Build a connected mobile app with Microsoft Graph</a>
+                            <a href=\"/labs/56413\" class=\"c-hyperlink\">HOL3009: Build a connected mobile app with Microsoft Graph</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56414\" class=\"c-hyperlink\">Build your first SharePoint Framework part</a>
+                            <a href=\"/labs/56414\" class=\"c-hyperlink\">HOL3010: Build your first SharePoint Framework part</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56415\" class=\"c-hyperlink\">Advanced SharePoint Framework: Connect and customize your parts to data</a>
+                            <a href=\"/labs/56415\" class=\"c-hyperlink\">HOL3011: Advanced SharePoint Framework: Connect and customize your parts to data</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56423\" class=\"c-hyperlink\">Connect to Microsoft Graph from Office Add-ins</a>
+                            <a href=\"/labs/56423\" class=\"c-hyperlink\">HOL3019: Connect to Microsoft Graph from Office Add-ins</a>
                         </li>
                     </ul>
                 </div>
@@ -540,11 +540,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56447\" class=\"c-hyperlink\">Using Ansible for Azure Open Source IaaS Automation</a>
+                            <a href=\"/labs/56447\" class=\"c-hyperlink\">HOL3039: Using Ansible for Azure Open Source IaaS Automation</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56587\" class=\"c-hyperlink\">Implement CI/CD pipeline using popular Open Source platforms such as GIT, Jenkins and Azure Container Services</a>
+                            <a href=\"/labs/56587\" class=\"c-hyperlink\">HOL3139: Implement CI/CD pipeline using popular Open Source platforms such as GIT, Jenkins and Azure Container Services</a>
                         </li>
                     </ul>
                 </div>
@@ -653,15 +653,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56585\" class=\"c-hyperlink\">Getting Started with Git in Visual Studio</a>
+                            <a href=\"/labs/56585\" class=\"c-hyperlink\">HOL2009: Getting Started with Git in Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56571\" class=\"c-hyperlink\">Build Smarter Apps with Xamarin & the Intelligent Cloud</a>
+                            <a href=\"/labs/56571\" class=\"c-hyperlink\">HOL3131: Build Smarter Apps with Xamarin & the Intelligent Cloud</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56591\" class=\"c-hyperlink\">Live Unit Testing, Refactoring, and Code Style</a>
+                            <a href=\"/labs/56591\" class=\"c-hyperlink\">HOL2012: Live Unit Testing, Refactoring, and Code Style</a>
                         </li>
                     </ul>
                 </div>
@@ -795,11 +795,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56574\" class=\"c-hyperlink\">Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
+                            <a href=\"/labs/56574\" class=\"c-hyperlink\">HOL3134: Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56580\" class=\"c-hyperlink\">Deploying Docker Container Apps to Azure App Services</a>
+                            <a href=\"/labs/56580\" class=\"c-hyperlink\">HOL3136: Deploying Docker Container Apps to Azure App Services</a>
                         </li>
                     </ul>
                 </div>
@@ -941,15 +941,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56569\" class=\"c-hyperlink\">Build & Test, See how Mobile Center helps you ship apps faster</a>
+                            <a href=\"/labs/56569\" class=\"c-hyperlink\">HOL3130: Build & Test, See how Mobile Center helps you ship apps faster</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56574\" class=\"c-hyperlink\">Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
+                            <a href=\"/labs/56574\" class=\"c-hyperlink\">HOL3134: Continuous Deployment of ASP.NET Core Websites to Azure with VSTS</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56585\" class=\"c-hyperlink\">Getting Started with Git in Visual Studio</a>
+                            <a href=\"/labs/56585\" class=\"c-hyperlink\">HOL2009: Getting Started with Git in Visual Studio</a>
                         </li>
                     </ul>
                 </div>
@@ -1146,7 +1146,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://aka.ms/ignitelp-infra-cert\" class=\"c-hyperlink\">Exam 70-533: Implementing Azure Infrastructure Solutions</a>
+                            <a href=\"https://aka.ms/ignitelp-infra-cert\" class=\"c-hyperlink\">70-533: Implementing Azure Infrastructure Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1265,7 +1265,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"https://aka.ms/ignitelp-infra-cert534\" class=\"c-hyperlink\">Exam 70-534: Architecting Microsoft Azure Solutions</a>
+                            <a href=\"https://aka.ms/ignitelp-infra-cert534\" class=\"c-hyperlink\">70-534: Architecting Microsoft Azure Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1318,19 +1318,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56492\" class=\"c-hyperlink\">Manage Microsoft Office 365</a>
+                            <a href\"/labs/56492\" class=\"c-hyperlink\">HOL3084: Manage Microsoft Office 365</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</a>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3087: Configuring, managing and using OneDrive for Business</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56495\" class=\"c-hyperlink\">Administering and Using Microsoft Teams</a>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3095: Administering and Using Microsoft Teams</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56495\" class=\"c-hyperlink\">Configuring, managing and using OneDrive for Business</a>
+                            <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3100: Configuring, managing and using OneDrive for Business</a>
                         </li>
                     </ul>
                 </div>
@@ -1467,27 +1467,27 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56511\" class=\"c-hyperlink\">Using Office 365 Advanced Security</a>
+                            <a href\"/labs/56511\" class=\"c-hyperlink\">HOL3103: Using Office 365 Advanced Security</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56513\" class=\"c-hyperlink\">Configure and use Microsoft Office 365 security and compliance features</a>
+                            <a href\"/labs/56513\" class=\"c-hyperlink\">HOL3105: Configure and use Microsoft Office 365 security and compliance features</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56520\" class=\"c-hyperlink\">Office 365 Threat Protection</a>
+                            <a href\"/labs/56520\" class=\"c-hyperlink\">HOL3112: Office 365 Threat Protection</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56524\" class=\"c-hyperlink\">Deploy Credential Guard</p>
+                            <p href\"/labs/56524\" class=\"c-hyperlink\">HOL3116: Deploy Credential Guard</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56525\" class=\"c-hyperlink\">Deploy Device Guard</p>
+                            <p href\"/labs/56525\" class=\"c-hyperlink\">HOL3117: Deploy Device Guard</p>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56526\" class=\"c-hyperlink\">Deploy Windows Information Protection</p>
+                            <p href\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</p>
                         </li>
                     </ul>
                 </div>
@@ -1718,7 +1718,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56473\" class=\"c-hyperlink\">Building a virtual salesperson using Beacon and Microsoft Dynamics 365</a>
+                            <a href\"/labs/56473\" class=\"c-hyperlink\">HOL3065: Building a virtual salesperson using Beacon and Microsoft Dynamics 365</a>
                         </li>
                     </ul>
                 </div>
@@ -1808,19 +1808,19 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Exam: MB2-715</a>
+                            <a href=\"#\" class=\"c-hyperlink\">MB2-715</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Exam: MB2-716</a>
+                            <a href=\"#\" class=\"c-hyperlink\">MB2-716</a>
                         </li>
                         
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Exam: MB2-717</a>
+                            <a href=\"#\" class=\"c-hyperlink\">MB2-717</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Exam: MB2-718</a>
+                            <a href=\"#\" class=\"c-hyperlink\">MB2-718</a>
                         </li>
                     </ul>
                 </div>
@@ -1861,7 +1861,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56475\" class=\"c-hyperlink\">Introduction to Microsoft PowerApps</a>
+                            <a href\"/labs/56475\" class=\"c-hyperlink\">HOL3067: Introduction to Microsoft PowerApps</a>
                         </li>
                     </ul>
                 </div>
