@@ -732,6 +732,12 @@ Topics of interest:
 
                         <li class=\"persona-detail-sidebar__link\">
                             <a href=\"#\" class=\"c-hyperlink\">98-375: HTML5 Application Development Fundamentals</a>
+
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"#\" class=\"c-hyperlink\">98-381: Introduction to Programming Using Python</a>
+
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1421,7 +1427,6 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
-
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
