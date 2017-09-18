@@ -124,7 +124,7 @@ Topics of interest:
                 </ul>
                 <ul class=\"persona-detail-sidebar__link-list\">
                     <li class=\"persona-detail-sidebar__link\">
-                        <a href=\"techacademy.microsoft.com\" class=\"c-hyperlink\">Microsoft Tech Academy</a>
+                        <a href=\"#\" class=\"c-hyperlink\">Microsoft Tech Academy</a>
                     </li>
                 </ul>
             </div>
@@ -241,11 +241,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href=\"https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/ct-p/EMS\" class=\"c-hyperlink\">Microsoft Tech Community - EMS Community</p>
+                            <a href=\"https://techcommunity.microsoft.com/t5/Enterprise-Mobility-Security/ct-p/EMS\" class=\"c-hyperlink\">Microsoft Tech Community - EMS Community</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href=\"https://fasttrack.microsoft.com\"class=\"c-hyperlink\">Microsoft FastTrack</p>
+                            <a href=\"https://fasttrack.microsoft.com\"class=\"c-hyperlink\">Microsoft FastTrack</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -552,7 +552,7 @@ Topics of interest:
                 </div>
             </div>
 
-            <div class=\"persona-detail-sidebar__section\" hidden>
+            <div class=\"persona-detail-sidebar__section\" >
                 <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
 
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
@@ -1422,19 +1422,19 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56524\" class=\"c-hyperlink\">HOL3116: Deploy Credential Guard</p>
+                            <a href\"/labs/56524\" class=\"c-hyperlink\">HOL3116: Deploy Credential Guard</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56525\" class=\"c-hyperlink\">HOL3117: Deploy Device Guard</p>
+                            <a href\"/labs/56525\" class=\"c-hyperlink\">HOL3117: Deploy Device Guard</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</p>
+                            <a href\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</a>
                         </li>
                     </ul>
                 </div>
-
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
                             <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
@@ -1442,7 +1442,7 @@ Topics of interest:
                     </ul>
                 </div>
             </div>
-
+            <div>
                 <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
@@ -1505,7 +1505,7 @@ Topics of interest:
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
 
                     <h5 class=\"c-heading-5 f-lean\">SQL Server 2017 - Data Management</h5>
@@ -1534,6 +1534,8 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
+            </div>
+            <div>
                 <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
@@ -1737,7 +1739,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1747,7 +1749,7 @@ Topics of interest:
                     </ul>
                 </div>
             </div>
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1785,7 +1787,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Tech Community</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1949,6 +1951,7 @@ Topics of interest:
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
