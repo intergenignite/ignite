@@ -92,19 +92,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57288\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/certificationexams/57288\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57289\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
+                            <a href=\"/certificationexams/57289\" class=\"c-hyperlink\">70-347: Enabling Office 365 Services</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" >
-                            <a href=\"/sessions/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: 70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/certificationexams/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: 70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" >
-                            <a href=\"/sessions/55029\" class=\"c-hyperlink\">BRK3160: Cert Exam Prep: 70-347: Enabling Office 365 Services</a>
+                            <a href=\"/certificationexams/55029\" class=\"c-hyperlink\">BRK3160: Cert Exam Prep: 70-347: Enabling Office 365 Services</a>
                         </li>
                     </ul>
                 </div>
@@ -195,7 +195,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -223,15 +223,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57319\" class=\"c-hyperlink\">70-398: Planning for and Managing Devices in the Enterprise</a>
+                            <a href=\"/certificationexams/57319\" class=\"c-hyperlink\">70-398: Planning for and Managing Devices in the Enterprise</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57299\" class=\"c-hyperlink\">70-697: Configuring Windows Devices</a>
+                            <a href=\"/certificationexams/57299\" class=\"c-hyperlink\">70-697: Configuring Windows Devices</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57292\" class=\"c-hyperlink\">70-698: Installing and Configuring Windows 10</a>
+                            <a href=\"/certificationexams/57292\" class=\"c-hyperlink\">70-698: Installing and Configuring Windows 10</a>
                         </li>
                     </ul>
                 </div>
@@ -350,11 +350,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57310\" class=\"c-hyperlink\">70-333: Deploying Enterprise Voice with Skype for Business 2015</a>
+                            <a href=\"/certificationexams/57310\" class=\"c-hyperlink\">70-333: Deploying Enterprise Voice with Skype for Business 2015</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57311\" class=\"c-hyperlink\">70-334: Core Solutions of Microsoft Skype for Business 2015</a>
+                            <a href=\"/certificationexams/57311\" class=\"c-hyperlink\">70-334: Core Solutions of Microsoft Skype for Business 2015</a>
                         </li>
                     </ul>
                 </div>
@@ -476,15 +476,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57333\" class=\"c-hyperlink\">70-480: Programming in HTML5 with JavaScript and CSS3</a>
+                            <a href=\"/certificationexams/57333\" class=\"c-hyperlink\">70-480: Programming in HTML5 with JavaScript and CSS3</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57291\" class=\"c-hyperlink\">70-483: Programming in C#</a>
+                            <a href=\"/certificationexams/57291\" class=\"c-hyperlink\">70-483: Programming in C#</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57334\" class=\"c-hyperlink\">70-486: Developing ASP.NET MVC Web Applications</a>
+                            <a href=\"/certificationexams/57334\" class=\"c-hyperlink\">70-486: Developing ASP.NET MVC Web Applications</a>
                         </li>
                     </ul>
                 </div>
@@ -594,15 +594,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57333\" class=\"c-hyperlink\">70-480: Programming in HTML5 with JavaScript and CSS3</a>
+                            <a href=\"/certificationexams/57333\" class=\"c-hyperlink\">70-480: Programming in HTML5 with JavaScript and CSS3</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57296\" class=\"c-hyperlink\">70-533: Implementing Microsoft Azure Infrastructure Solutions</a>
+                            <a href=\"/certificationexams/57296\" class=\"c-hyperlink\">70-533: Implementing Microsoft Azure Infrastructure Solutions</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57298\" class=\"c-hyperlink\">70-534: Architecting Microsoft Azure Solutions</a>
+                            <a href=\"/certificationexams/57298\" class=\"c-hyperlink\">70-534: Architecting Microsoft Azure Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -715,7 +715,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57291\" class=\"c-hyperlink\">70-483: Programming in C#</a>
+                            <a href=\"/certificationexams/57291\" class=\"c-hyperlink\">70-483: Programming in C#</a>
                         </li>
                     </ul>
                 </div>
@@ -841,11 +841,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57334\" class=\"c-hyperlink\">70-486: Developing ASP.NET MVC Web Applications</a>
+                            <a href=\"/certificationexams/57334\" class=\"c-hyperlink\">70-486: Developing ASP.NET MVC Web Applications</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57335\" class=\"c-hyperlink\">70-487: Developing Microsoft Azure and Web Services</a>
+                            <a href=\"/certificationexams/57335\" class=\"c-hyperlink\">70-487: Developing Microsoft Azure and Web Services</a>
                         </li>
                     </ul>
                 </div>
@@ -983,15 +983,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57338\" class=\"c-hyperlink\">70-496: Administering Visual Studio Team Foundation Server</a>
+                            <a href=\"/certificationexams/57338\" class=\"c-hyperlink\">70-496: Administering Visual Studio Team Foundation Server</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57339\" class=\"c-hyperlink\">70-497: Software Testing with Visual Studio</a>
+                            <a href=\"/certificationexams/57339\" class=\"c-hyperlink\">70-497: Software Testing with Visual Studio</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57340\" class=\"c-hyperlink\">70-498: Delivering Continuous Value with Visual Studio Application Lifecycle Management</a>
+                            <a href=\"/certificationexams/57340\" class=\"c-hyperlink\">70-498: Delivering Continuous Value with Visual Studio Application Lifecycle Management</a>
                         </li>
                     </ul>
                 </div>
@@ -1118,7 +1118,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57296\" class=\"c-hyperlink\">70-533: Implementing Azure Infrastructure Solutions</a>
+                            <a href=\"/certificationexams/57296\" class=\"c-hyperlink\">70-533: Implementing Azure Infrastructure Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1237,7 +1237,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57298\" class=\"c-hyperlink\">70-534: Architecting Microsoft Azure Solutions</a>
+                            <a href=\"/certificationexams/57298\" class=\"c-hyperlink\">70-534: Architecting Microsoft Azure Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1334,19 +1334,19 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">MCSE Productivity Solutions Expert</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57315\" class=\"c-hyperlink\">70-345: Designing and Deploying Microsoft Exchange Server 2016</a>
+                            <a href=\"/certificationexams/57315\" class=\"c-hyperlink\">70-345: Designing and Deploying Microsoft Exchange Server 2016</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57312\" class=\"c-hyperlink\">70-339: Managing Microsoft SharePoint Server 2016</a>
+                            <a href=\"/certificationexams/57312\" class=\"c-hyperlink\">70-339: Managing Microsoft SharePoint Server 2016</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57310\" class=\"c-hyperlink\">70-333: Deploying Enterprise Voice with Skype for Business 2015</a>
+                            <a href=\"/certificationexams/57310\" class=\"c-hyperlink\">70-333: Deploying Enterprise Voice with Skype for Business 2015</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57311\" class=\"c-hyperlink\">70-334: Core Solutions of Microsoft Skype for Business 2015</a>
+                            <a href=\"/certificationexams/57311\" class=\"c-hyperlink\">70-334: Core Solutions of Microsoft Skype for Business 2015</a>
                         </li>
 
                         <li hidden class=\"persona-detail-sidebar__link\">
@@ -1354,15 +1354,15 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57309\" class=\"c-hyperlink\">70-332: Advanced Solutions of Microsoft SharePoint Server 2013</a>
+                            <a href=\"/certificationexams/57309\" class=\"c-hyperlink\">70-332: Advanced Solutions of Microsoft SharePoint Server 2013</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57313\" class=\"c-hyperlink\">70-341: Core Solutions of Microsoft Exchange Server 2013</a>
+                            <a href=\"/certificationexams/57313\" class=\"c-hyperlink\">70-341: Core Solutions of Microsoft Exchange Server 2013</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57314\" class=\"c-hyperlink\">70-342: Advanced Solutions of Microsoft Exchange Server 2013</a>
+                            <a href=\"/certificationexams/57314\" class=\"c-hyperlink\">70-342: Advanced Solutions of Microsoft Exchange Server 2013</a>
                         </li>
                     </ul>
                 </div>
@@ -1458,11 +1458,11 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57288\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/certificationexams/57288\" class=\"c-hyperlink\">70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"sessions/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: Exam 70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/certificationexams/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: Exam 70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
                     </ul>
                 </div>
@@ -1563,7 +1563,7 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57293\" class=\"c-hyperlink\">70-473: Designing and Implementing Cloud Data Platform Solutions</a>
+                            <a href=\"/certificationexams/57293\" class=\"c-hyperlink\">70-473: Designing and Implementing Cloud Data Platform Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1682,7 +1682,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57294\" class=\"c-hyperlink\">70-475: Designing and Implementing Big Data Analytics Solutions</a>
+                            <a href=\"/certificationexams/57294\" class=\"c-hyperlink\">70-475: Designing and Implementing Big Data Analytics Solutions</a>
                         </li>
                     </ul>
                 </div>
@@ -1795,19 +1795,19 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57382\" class=\"c-hyperlink\">MB2-715: Microsoft Dynamics 365 customer engagement Online Deployment</a>
+                            <a href=\"/certificationexams/57382\" class=\"c-hyperlink\">MB2-715: Microsoft Dynamics 365 customer engagement Online Deployment</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57384\" class=\"c-hyperlink\">MB2-716: Microsoft Dynamics 365 Customization and Configuration</a>
+                            <a href=\"/certificationexams/57384\" class=\"c-hyperlink\">MB2-716: Microsoft Dynamics 365 Customization and Configuration</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57375\" class=\"c-hyperlink\">MB2-717: Microsoft Dynamics 365 for Sales</a>
+                            <a href=\"/certificationexams/57375\" class=\"c-hyperlink\">MB2-717: Microsoft Dynamics 365 for Sales</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/sessions/57376\" class=\"c-hyperlink\">MB2-718: Microsoft Dynamics 365 for Customer Service</a>
+                            <a href=\"/certificationexams/57376\" class=\"c-hyperlink\">MB2-718: Microsoft Dynamics 365 for Customer Service</a>
                         </li>
                     </ul>
                 </div>
