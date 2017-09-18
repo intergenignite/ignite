@@ -1,5 +1,13 @@
 {
     "NewsItems": [{
+            "title": "Learning Paths",
+            "tileNumber": 1,
+            "description": "Choose a role based Learning Path to help you plan out your week of sessions and activities.",
+            "link": "/learning-paths",
+            "linkText": "Learning Paths",
+            "image": "images/news/learning-paths.png"
+        },
+        {
             "title": "Personalized Schedules",
             "tileNumber": 1,
             "description": "Build your own personalized learning track based upon your profile and interests.",
