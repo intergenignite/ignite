@@ -11,7 +11,6 @@ Topics of interest:
     •	Office 365 Security
     •	SharePoint Online Administration
     •	Office Pro Plus Administration and Deployment
-
 ",
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/Application%20Admin.png?raw=true",
             "SessionsAttending" : [
@@ -30,10 +29,6 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56500\" class=\"c-hyperlink\">HOL3092: Using the Office 365 Power BI Content Pack</a>
-                        </li>
-
-                        <li class=\"persona-detail-sidebar__link\">
                             <a href=\"/labs/56505\" class=\"c-hyperlink\">HOL3097: Troubleshooting Microsoft Office 365</a>
                         </li>
                     </ul>
@@ -44,7 +39,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -122,7 +117,7 @@ Topics of interest:
                         <a href=\"https://fasttrack.microsoft.com\" class=\"c-hyperlink\">Microsoft Fast Track</a>
                     </li>
                 </ul>
-                <ul class=\"persona-detail-sidebar__link-list\">
+                <ul class=\"persona-detail-sidebar__link-list\" hidden>
                     <li class=\"persona-detail-sidebar__link\">
                         <a href=\"#\" class=\"c-hyperlink\">Microsoft Tech Academy</a>
                     </li>
@@ -172,7 +167,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -302,7 +297,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -546,7 +541,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1048,11 +1043,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Deploying Highly Available Virtual Machines (TECH-CI-HOL212)</p>
+                            <a href=\"/labs/59171\" class=\"c-hyperlink\">HOL3160: Deploying Highly Available Virtual Machines</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href=\"#\" class=\"c-hyperlink\">Azure Networking Concepts (TECH-CI-HOL209)</P>
+                            <a href=\"/labs/59172\" class=\"c-hyperlink\">HOL3161: Microsoft Azure Networking Concepts</a>
                         </li>
                     </ul>
                 </div>
@@ -1062,7 +1057,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1171,7 +1166,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Secure and manage your Azure resources</p>
+                            <a href=\"/labs/59173\" class=\"c-hyperlink\">Secure and manage your Azure resources</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" hidden>
@@ -1185,7 +1180,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1312,7 +1307,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1379,7 +1374,7 @@ Topics of interest:
                             <a href=\"https://fasttrack.microsoft.com/\" class=\"c-hyperlink\">Microsoft FastTrack</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <a href=\"#\" class=\"c-hyperlink\">Microsoft Tech Academy</a>
                         </li>
 
@@ -1437,7 +1432,7 @@ Topics of interest:
                         <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
                         <ul class=\"persona-detail-sidebar__link-list\">
                             <li class=\"persona-detail-sidebar__link\">
-                                <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                                <a href=\"/map/50003\" class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience (Sign-up in person)</a>
                             </li>
                         </ul>
                     </div>
@@ -1480,7 +1475,7 @@ Topics of interest:
                             <a href=\"https://techcommunity.microsoft.com/t5/Security-Privacy-Compliance/ct-p/SecurityPrivacyCompliance\" class=\"c-hyperlink\">Microsoft Tech Community – Security, Privacy & Compliance Community</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <a href=\"#\" class=\"c-hyperlink\">Microsoft Tech Academy</a>
                         </li>
 
@@ -1507,32 +1502,32 @@ Topics of interest:
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
 
                     <h5 class=\"c-heading-5 f-lean\">SQL Server 2017 - Data Management</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Mission Critical and Hyperscale Performance - Built In</a>
+                            <a href=\"/labs/59165\" class=\"c-hyperlink\">HOL1354: Mission Critical and Hyperscale Performance - Built In</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Security and Advanced Analytics - Built In</a>
+                            <a href=\"/labs/59166\" class=\"c-hyperlink\">HOL3155: Security and Advanced Analytics - Built In</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Azure Data Services – Relational Workloads</a>
+                            <a href=\"/labs/59167\" class=\"c-hyperlink\">HOL3156: Azure Data Services – Relational Workloads</a>
                         </li>
                     </ul>
 
                     <h5 class=\"c-heading-5 f-lean\">Azure Data Services for Developers</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Modernizing LOB Apps</a>
+                            <a href=\"/labs/59168\" class=\"c-hyperlink\">HOL3157: Modernizing LOB Apps</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Evolving SQL workloads from software to SaaS</a>
+                            <a href=\"/labs/59168\" class=\"c-hyperlink\">HOL3158: Evolving SQL workloads from software to SaaS</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Modernizing Cloud based Web Apps</a>
+                            <a href=\"/labs/59169\" class=\"c-hyperlink\">HOL3159: Modernizing Cloud based Web Apps</a>
                         </li>
                     </ul>
                 </div>
@@ -1541,7 +1536,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1610,7 +1605,7 @@ Topics of interest:
             "Photo" : "https://github.com/intergenignite/ignite/blob/master/resource/test/img/IT Power User.png?raw=true",
             "SessionsAttending" : [
                 "56554","56556","53403","55418","55416","55386","55107","54944","53124","55426","53367","54958","53503","55412",
-                "54951","55413","55301","53396","54945","53152","53387","59125"
+                "54951","55413","55301","53396","54945","53152","53387","59125","56716"
             ],
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
@@ -1619,11 +1614,11 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56436\" class=\"c-hyperlink\">Big data: Exploring Apache Spark and scaling out R Server with Azure HDInsight</a>
+                            <a href=\"/labs/56436\" class=\"c-hyperlink\">HOL3028: Big data: Exploring Apache Spark and scaling out R Server with Azure HDInsight</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/labs/56575\" class=\"c-hyperlink\">Authoring Reports with Power BI Desktop</a>
+                            <a href=\"/labs/56575\" class=\"c-hyperlink\">HOL2002: Authoring Reports with Power BI Desktop</a>
                         </li>
                     </ul>
                 </div>
@@ -1633,7 +1628,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1661,7 +1656,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Big Data & Advanced Analytics</p>
+                            <a href=\"/map/50002\" class=\"c-hyperlink\">Big Data & Advanced Analytics</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1742,12 +1737,12 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1858,7 +1853,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\"  class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>
@@ -1974,7 +1969,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Customer Immersion Experience</p>
+                            <a href=\"/map/50003\" class=\"c-hyperlink\">Azure Customer Immersion Experience (Sign-up in person)</a>
                         </li>
                     </ul>
                 </div>

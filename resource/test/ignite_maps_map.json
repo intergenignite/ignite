@@ -1267,6 +1267,10 @@
         "DisplayName": "OCCC W414 CD",
         "FloorImageName": "",
         "OriginalSerial": "W414@OCCC_West_3"
-      }
+      },
+      {"RoomId":"50000","RoomImageName":"","DisplayName":"Windows Devices","FloorImageName":"","OriginalSerial":"Windows Devices@OCCC_Central_Hall_0"},
+      {"RoomId":"50001","RoomImageName":"","DisplayName":"Azure Infrastructure","FloorImageName":"","OriginalSerial":"Azure Infrastructure@OCCC_Central_Hall_0"},
+      {"RoomId":"50002","RoomImageName":"","DisplayName":"Big Data","FloorImageName":"","OriginalSerial":"Big Data@OCCC_Central_Hall_0"},
+      {"RoomId":"50003","RoomImageName":"","DisplayName":"Customer Immersion Experience","FloorImageName":"","OriginalSerial":"Immersion/CIE Rooms@Hyatt_Regency_0"}
    ]
 }
