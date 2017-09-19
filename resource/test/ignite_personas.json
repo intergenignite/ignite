@@ -1290,19 +1290,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56492\" class=\"c-hyperlink\">HOL3084: Manage Microsoft Office 365</a>
+                            <a href=\"/labs/56492\" class=\"c-hyperlink\">HOL3084: Manage Microsoft Office 365</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56495\" class=\"c-hyperlink\">HOL3087: Configuring, managing and using OneDrive for Business</a>
+                            <a href=\"/labs/56495\" class=\"c-hyperlink\">HOL3087: Configuring, managing and using OneDrive for Business</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56503\" class=\"c-hyperlink\">HOL3095: Administering and Using Microsoft Teams</a>
+                            <a href=\"/labs/56503\" class=\"c-hyperlink\">HOL3095: Administering and Using Microsoft Teams</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56508\" class=\"c-hyperlink\">HOL3100: Configuring, managing and using OneDrive for Business</a>
+                            <a href=\"/labs/56508\" class=\"c-hyperlink\">HOL3100: Configuring, managing and using OneDrive for Business</a>
                         </li>
                     </ul>
                 </div>
@@ -1410,27 +1410,27 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56511\" class=\"c-hyperlink\">HOL3103: Using Office 365 Advanced Security</a>
+                            <a href=\"/labs/56511\" class=\"c-hyperlink\">HOL3103: Using Office 365 Advanced Security</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56513\" class=\"c-hyperlink\">HOL3105: Configure and use Microsoft Office 365 security and compliance features</a>
+                            <a href=\"/labs/56513\" class=\"c-hyperlink\">HOL3105: Configure and use Microsoft Office 365 security and compliance features</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56520\" class=\"c-hyperlink\">HOL3112: Office 365 Threat Protection</a>
+                            <a href=\"/labs/56520\" class=\"c-hyperlink\">HOL3112: Office 365 Threat Protection</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56524\" class=\"c-hyperlink\">HOL3116: Deploy Credential Guard</a>
+                            <a href=\"/labs/56524\" class=\"c-hyperlink\">HOL3116: Deploy Credential Guard</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56525\" class=\"c-hyperlink\">HOL3117: Deploy Device Guard</a>
+                            <a href=\"/labs/56525\" class=\"c-hyperlink\">HOL3117: Deploy Device Guard</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</a>
+                            <a href=\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</a>
                         </li>
                     </ul>
                 </div>
@@ -1511,26 +1511,26 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">SQL Server 2017 - Data Management</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Mission Critical and Hyperscale Performance - Built In</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Mission Critical and Hyperscale Performance - Built In</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Security and Advanced Analytics - Built In</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Security and Advanced Analytics - Built In</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Azure Data Services – Relational Workloads</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Azure Data Services – Relational Workloads</a>
                         </li>
                     </ul>
 
                     <h5 class=\"c-heading-5 f-lean\">Azure Data Services for Developers</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Modernizing LOB Apps</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Modernizing LOB Apps</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Evolving SQL workloads from software to SaaS</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Evolving SQL workloads from software to SaaS</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"#\" class=\"c-hyperlink\">Modernizing Cloud based Web Apps</a>
+                            <a href=\"#\" class=\"c-hyperlink\">Modernizing Cloud based Web Apps</a>
                         </li>
                     </ul>
                 </div>
@@ -1616,11 +1616,11 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56436\" class=\"c-hyperlink\">Big data: Exploring Apache Spark and scaling out R Server with Azure HDInsight</a>
+                            <a href=\"/labs/56436\" class=\"c-hyperlink\">Big data: Exploring Apache Spark and scaling out R Server with Azure HDInsight</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56575\" class=\"c-hyperlink\">Authoring Reports with Power BI Desktop</a>
+                            <a href=\"/labs/56575\" class=\"c-hyperlink\">Authoring Reports with Power BI Desktop</a>
                         </li>
                     </ul>
                 </div>
@@ -1734,7 +1734,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56473\" class=\"c-hyperlink\">HOL3065: Building a virtual salesperson using Beacon and Microsoft Dynamics 365</a>
+                            <a href=\"/labs/56473\" class=\"c-hyperlink\">HOL3065: Building a virtual salesperson using Beacon and Microsoft Dynamics 365</a>
                         </li>
                     </ul>
                 </div>
@@ -1845,7 +1845,7 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56475\" class=\"c-hyperlink\">HOL3067: Introduction to Microsoft PowerApps</a>
+                            <a href=\"/labs/56475\" class=\"c-hyperlink\">HOL3067: Introduction to Microsoft PowerApps</a>
                         </li>
                     </ul>
                 </div>
@@ -1955,13 +1955,13 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56471\" class=\"c-hyperlink\">HOL3063: Build planet-scale, low latency apps with Azure Cosmos DB</a>
+                            <a href=\"/labs/56471\" class=\"c-hyperlink\">HOL3063: Build planet-scale, low latency apps with Azure Cosmos DB</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56580\" class=\"c-hyperlink\">HOL3136: Deploying Docker container apps to Azure App Services</a>
+                            <a href=\"/labs/56580\" class=\"c-hyperlink\">HOL3136: Deploying Docker container apps to Azure App Services</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href\"/labs/56587\" class=\"c-hyperlink\">HOL3139: Implement CI/CD pipeline with open source platforms like GIT, Jenkins & Azure Container Services</a>
+                            <a href=\"/labs/56587\" class=\"c-hyperlink\">HOL3139: Implement CI/CD pipeline with open source platforms like GIT, Jenkins & Azure Container Services</a>
                         </li>
                     </ul>
                 </div>
