@@ -100,11 +100,11 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" >
-                            <a href=\"/certificationexams/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: 70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/sessions/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: 70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\" >
-                            <a href=\"/certificationexams/55029\" class=\"c-hyperlink\">BRK3160: Cert Exam Prep: 70-347: Enabling Office 365 Services</a>
+                            <a href=\"/sessions/55029\" class=\"c-hyperlink\">BRK3160: Cert Exam Prep: 70-347: Enabling Office 365 Services</a>
                         </li>
                     </ul>
                 </div>
@@ -574,7 +574,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"#\" class=\"c-hyperlink\">Applications & Infrastructure area</a>
+                            <p href=\"#\" class=\"c-hyperlink\">Applications & Infrastructure area</p>
                         </li>
                     </ul>
                 </div>
@@ -978,7 +978,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Certification Exams</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1433,16 +1433,18 @@ Topics of interest:
                             <a href=\"/labs/56526\" class=\"c-hyperlink\">HOL3118: Deploy Windows Information Protection</a>
                         </li>
                     </ul>
-                </div>
-                <div class=\"persona-detail-sidebar__sub-section\">
-                    <ul class=\"persona-detail-sidebar__link-list\">
-                        <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
-                        </li>
-                    </ul>
+                    <div class=\"persona-detail-sidebar__sub-section\">
+                        <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
+                        <ul class=\"persona-detail-sidebar__link-list\">
+                            <li class=\"persona-detail-sidebar__link\">
+                                <p class=\"c-hyperlink\">Microsoft 365 Customer Immersion Experience</p>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            <div>
+            <div class=\"persona-detail-sidebar__section\">
+                <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
                 <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
 
@@ -1462,7 +1464,7 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/certificationexams/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: Exam 70-346: Managing Office 365 Identities and Requirements</a>
+                            <a href=\"/sessions/55028\" class=\"c-hyperlink\">BRK3159: Cert Exam Prep: Exam 70-346: Managing Office 365 Identities and Requirements</a>
                         </li>
                     </ul>
                 </div>
@@ -1534,9 +1536,7 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div>
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1545,8 +1545,11 @@ Topics of interest:
                         </li>
                     </ul>
                 </div>
-
+            </div>
+            <div>
                 <div class=\"persona-detail-sidebar__sub-section\">
+                    <h4 class=\"c-heading-4 f-lean\">Learning Resources</h4>
+
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1612,7 +1615,7 @@ Topics of interest:
             "SidebarContent": "<div class=\"persona-detail-sidebar__section persona-detail-sidebar__section--washed\">
                 <h4 class=\"c-heading-4 f-lean\">Immersion Zone</h4>
 
-                <div class=\"persona-detail-sidebar__sub-section\" hidden>
+                <div class=\"persona-detail-sidebar__sub-section\">
                     <h5 class=\"c-heading-5 f-lean\">Labs</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
@@ -1739,7 +1742,7 @@ Topics of interest:
                     </ul>
                 </div>
 
-                <div class=\"persona-detail-sidebar__sub-section\">
+                <div class=\"persona-detail-sidebar__sub-section\" hidden>
                     <h5 class=\"c-heading-5 f-lean\">Immersion Experience</h5>
 
                     <ul class=\"persona-detail-sidebar__link-list\">
@@ -1937,7 +1940,7 @@ Topics of interest:
             "Description" : "I am a cloud developer that wants to learn and expand my Azure application platform skills.
 
 Topics of interest:
-	•	Azure App Platform
+    •	Azure App Platform
     •	Serverless
     •	Containers
     •	Service Fabric
