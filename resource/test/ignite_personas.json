@@ -243,7 +243,7 @@ Topics of interest:
                             <a href=\"https://fasttrack.microsoft.com\"class=\"c-hyperlink\">Microsoft FastTrack</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <p href=\"#\"class=\"c-hyperlink\">Microsoft Tech Academy</p>
                         </li>
                     </ul>
@@ -366,7 +366,7 @@ Topics of interest:
                             <a href=\"https://fasttrack.microsoft.com\"class=\"c-hyperlink\">Microsoft FastTrack</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <p href=\"#\"class=\"c-hyperlink\">Microsoft Tech Academy</p>
                         </li>
                     </ul>
@@ -496,7 +496,7 @@ Topics of interest:
                             <a href=\"https://dev.office.com/\"class=\"c-hyperlink\">Office Dev Center</a>
                         </li>
 
-                        <li class=\"persona-detail-sidebar__link\">
+                        <li class=\"persona-detail-sidebar__link\" hidden>
                             <p href=\"#\" class=\"c-hyperlink\">Microsoft Tech Academy</p>
                         </li>
                     </ul>
