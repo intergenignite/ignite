@@ -67,7 +67,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
+                            <a href=\"/map/50004\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
@@ -195,10 +195,10 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
+                            <a href=\"/map/50004\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Surface Device Area</p>
+                            <a href=\"/map/50000\" class=\"c-hyperlink\">Surface Device Area</a>
                         </li>
                     </ul>
                 </div>
@@ -325,7 +325,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
+                            <a href=\"/map/50000\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
@@ -451,7 +451,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area – Office Dev</p>
+                            <a href=\"/map/50005\" class=\"c-hyperlink\">Modern Workplace Area – Office Dev</a>
                         </li>
                     </ul>
                 </div>
@@ -569,7 +569,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p href=\"#\" class=\"c-hyperlink\">Applications & Infrastructure area</p>
+                            <a href=\"/map/50006\" class=\"c-hyperlink\">Applications & Infrastructure area</a>
                         </li>
                     </ul>
                 </div>
@@ -686,11 +686,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Visual Studio Team Services, Visual Studio Mobile Center, Developer Tools for Azure, Xamarin, Booths</p>
+                            <a href=\"/map/50007\" class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Visual Studio Team Services, Visual Studio Mobile Center, Developer Tools for Azure, Xamarin, Booths</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">.NET & Languages Booths</p>
+                            <a href=\"/map/50008\" class=\"c-hyperlink\">.NET & Languages Booths</a>
                         </li>
                     </ul>
                 </div>
@@ -812,11 +812,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">.NET, Developer Tools for Azure Booth</P>
+                            <a href=\"/map/50008\" class=\"c-hyperlink\">.NET, Developer Tools for Azure Booth</a>
                         </li>
 
                          <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Xamarin Booths</P>
+                            <a href=\"/map/50007\" class=\"c-hyperlink\">Visual Studio, Visual Studio Code, Xamarin Booths</a>
                         </li>
                     </ul>
                 </div>
@@ -954,11 +954,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Visual Studio Team Services & DevOps Booth</p>
+                            <a href=\"/map/50009\" class=\"c-hyperlink\">Visual Studio Team Services & DevOps Booth</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Visual Studio and Visual Studio Mobile Center Booth</p>
+                            <a href=\"/map/50008\" class=\"c-hyperlink\">Visual Studio and Visual Studio Mobile Center Booth</a>
                         </li>
                     </ul>
                 </div>
@@ -1085,15 +1085,15 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure IaaS expo (compute/storage/networking)</p>
+                            <a href=\"/map/50006\" class=\"c-hyperlink\">Azure IaaS expo (compute/storage/networking)</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Resource Manager</p>
+                            <a href=\"/map/50006\" class=\"c-hyperlink\">Azure Resource Manager</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft Evaluation Center - Windows Server 2016</p>
+                            <a href=\"/map/50010\" class=\"c-hyperlink\">Microsoft Evaluation Center - Windows Server 2016</a>
                         </li>
                     </ul>
                 </div>
@@ -1208,11 +1208,11 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Monitoring & Analytics</p>
+                            <a href=\"/map/50011\" class=\"c-hyperlink\">Monitoring & Analytics</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Azure Migration</p>
+                            <a href=\"/map/50006\" class=\"c-hyperlink\">Azure Migration</a>
                         </li>
                     </ul>
                 </div>
@@ -1246,7 +1246,7 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"http://aka.ms/whitepaperonwecurewellmanaged\" class=\"c-hyperlink\">Read technical whitepaper on Azure Security and Management</a>
+                            <a href=\"https://docs.microsoft.com/en-us/azure/security/azure-security-management\" class=\"c-hyperlink\">Read technical whitepaper on Azure Security and Management</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1320,7 +1320,7 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
+                            <a href=\"/map/50004\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
@@ -1446,7 +1446,7 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Modern Workplace Area</p>
+                            <a href=\"/map/50004\" class=\"c-hyperlink\">Modern Workplace Area</a>
                         </li>
                     </ul>
                 </div>
@@ -1548,11 +1548,11 @@ Topics of interest:
                     <h5 class=\"c-heading-5 f-lean\">Expo</h5>
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">SQL Server 2017</p>
+                            <a href=\"/map/50012\" class=\"c-hyperlink\">SQL Server 2017</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">App Innovation / Data for Developers</p>
+                            <a href=\"/map/50006\" class=\"c-hyperlink\">App Innovation / Data for Developers</a>
                         </li>
                     </ul>
                 </div>
@@ -1660,7 +1660,7 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Business Intelligence</p>
+                            <a href=\"/map/50002\" class=\"c-hyperlink\">Business Intelligence</a>
                         </li>
                     </ul>
                 </div>
@@ -1752,35 +1752,39 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Sales (with LinkedIn)</p>
+                            <a href=\"/map/50013\" class=\"c-hyperlink\">Sales (with LinkedIn)</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Marketing (with Adobe)</p>
+                            <a href=\"/map/50014\" class=\"c-hyperlink\">Marketing (with Adobe)</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Finance and Operations</p>
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Business edition</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Customer Service</p>
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Finance and Operations</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Project Service Automation</p>
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Customer Service</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Field Service</p>
+                            <a href=\"/map/50015\"  class=\"c-hyperlink\">Project Service Automation</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Retail</p>
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Field Service</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Talent</p>
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Retail</a>
+                        </li>
+
+                        <li class=\"persona-detail-sidebar__link\">
+                            <a href=\"/map/50015\" class=\"c-hyperlink\">Talent</a>
                         </li>
                     </ul>
                 </div>
@@ -1797,7 +1801,7 @@ Topics of interest:
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <a href=\"/certificationexams/57384\" class=\"c-hyperlink\">MB2-716: Microsoft Dynamics 365 Customization and Configuration</a>
+                            <a href=\"/certificationexams/57374\" class=\"c-hyperlink\">MB2-716: Microsoft Dynamics 365 Customization and Configuration</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
@@ -1881,19 +1885,19 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">PowerApps</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">PowerApps</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft Flow</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Microsoft Flow</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Microsoft Stream</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Microsoft Stream</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Common Data Service</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Common Data Service</a>
                         </li>
                     </ul>
                 </div>
@@ -1997,22 +2001,22 @@ Topics of interest:
 
                     <ul class=\"persona-detail-sidebar__link-list\">
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Serverless (Functions, Logic Apps)</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Serverless (Functions, Logic Apps)</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Containers</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Containers</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">App Service</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">App Service</a>
                         </li>
 
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Service Fabric</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Service Fabric</a>
                         </li>
                         <li class=\"persona-detail-sidebar__link\">
-                            <p class=\"c-hyperlink\">Enterprise Integration</p>
+                            <a href=\"/map/50016\" class=\"c-hyperlink\">Enterprise Integration</a>
                         </li>
                     </ul>
                 </div>
