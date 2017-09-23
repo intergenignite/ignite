@@ -280,11 +280,11 @@
             ],
             "Access": {
                 "SessionCatalog": true,
-                "MyIgnite": true,
-                "ScheduleBuilder": true,
-                "MobileApp": true,
-                "MeetingScheduler": true,
-                "MobileAppMessaging": true
+                "MyIgnite": false,
+                "ScheduleBuilder": false,
+                "MobileApp": false,
+                "MeetingScheduler": false,
+                "MobileAppMessaging": false
             },
             "VisibleAttendeeTypes": [
             ],
