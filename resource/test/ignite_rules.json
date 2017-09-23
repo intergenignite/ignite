@@ -273,6 +273,36 @@
                     "Identifier": "My Schedule - Attendee"
                 }
             ]
+        },
+        {
+            "Identifiers": [
+                "OnDemand"
+            ],
+            "Access": {
+                "SessionCatalog": true,
+                "MyIgnite": true,
+                "ScheduleBuilder": true,
+                "MobileApp": true,
+                "MeetingScheduler": true,
+                "MobileAppMessaging": true
+            },
+            "VisibleAttendeeTypes": [
+            ],
+            "Reporting": {
+                "SessionCounts": false
+            },
+            "EvalAccess": [],
+            "SessionSetAccess": [{
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Schedule Builder - Attendee"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Schedule Builder - OnDemand"
+                }
+            ]
         }
     ]
 }
