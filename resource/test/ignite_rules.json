@@ -295,7 +295,7 @@
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - Attendee"
+                    "Identifier": "Session Catalog (Mktg Site)"
                 },
                 {
                     "ApplicableFrom": null,
