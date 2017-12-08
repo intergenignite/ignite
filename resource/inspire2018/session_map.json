@@ -1,0 +1,123 @@
+{
+    "SessionSetMap": [{
+            "HubbId": 1670,
+            "SessionTypeName": "Best Practices",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1830,
+            "SessionTypeName": "Business Value",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1798,
+            "SessionTypeName": "Cloud Platform Immersion",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1795,
+            "SessionTypeName": "Customer Showcase",
+            "SessionSets": ["Schedule Builder - Attendee", "Lab", "My Schedule - Attendee", "Session Catalog (Mktg Site)"]
+        },
+        {
+            "HubbId": 1797,
+            "SessionTypeName": "Deep Dive",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1673,
+            "SessionTypeName": "Exam Prep",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1672,
+            "SessionTypeName": "Foundational Keynote",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1669,
+            "SessionTypeName": "Hands-on Lab",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1796,
+            "SessionTypeName": "How to",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1671,
+            "SessionTypeName": "Instructor-led Lab",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1842,
+            "SessionTypeName": "Keynote",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1860,
+            "SessionTypeName": "Agenda",
+            "SessionSets": ["My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1891,
+            "SessionTypeName": "Office CIE",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 1890,
+            "SessionTypeName": "Overview",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2068,
+            "SessionTypeName": "Partner Session",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Pre-Day Sessions",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Showcase Keynote",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Strategy",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Tech Leaders Forum",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Theater: Community",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Theater: Microsoft",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Theater: Sponsor",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "What's New",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        },
+        {
+            "HubbId": 2070,
+            "SessionTypeName": "Women in Technology",
+            "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
+        }
+    ]
+}
