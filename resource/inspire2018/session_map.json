@@ -1,57 +1,57 @@
 {
     "SessionSetMap": [{
             "HubbId": 1670,
-            "SessionTypeName": "Best Practices",
+            "SessionTypeName": "Strategic Meeting",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1830,
-            "SessionTypeName": "Business Value",
+            "SessionTypeName": "General",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1798,
-            "SessionTypeName": "Cloud Platform Immersion",
+            "SessionTypeName": "Breakout",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1795,
-            "SessionTypeName": "Customer Showcase",
+            "SessionTypeName": "Power",
             "SessionSets": ["Schedule Builder - Attendee", "Lab", "My Schedule - Attendee", "Session Catalog (Mktg Site)"]
         },
         {
             "HubbId": 1797,
-            "SessionTypeName": "Deep Dive",
+            "SessionTypeName": "Panel",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1673,
-            "SessionTypeName": "Exam Prep",
+            "SessionTypeName": "Workshop",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1672,
-            "SessionTypeName": "Foundational Keynote",
+            "SessionTypeName": "Immersive Experience",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1669,
-            "SessionTypeName": "Hands-on Lab",
+            "SessionTypeName": "Regional General",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1796,
-            "SessionTypeName": "How to",
+            "SessionTypeName": "The Commons Theater",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1671,
-            "SessionTypeName": "Instructor-led Lab",
+            "SessionTypeName": "Discussion Group",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1842,
-            "SessionTypeName": "Keynote",
+            "SessionTypeName": "Vision Keynote Monday",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
@@ -61,12 +61,12 @@
         },
         {
             "HubbId": 1891,
-            "SessionTypeName": "Office CIE",
+            "SessionTypeName": "Vision Keynote Tuesday",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
             "HubbId": 1890,
-            "SessionTypeName": "Overview",
+            "SessionTypeName": "Vision Keynote Wednesday",
             "SessionSets": ["Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee"]
         },
         {
