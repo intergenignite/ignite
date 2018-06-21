@@ -1,0 +1,37 @@
+{
+    "UserAccess": [
+        {
+            "Identifiers": ["Anonymous"],
+            "Access": {
+                "SessionCatalog": true,
+                "MyIgnite": false,
+                "ScheduleBuilder": false,
+                "MobileApp": false,
+                "MeetingScheduler": false,
+                "MobileAppMessaging": false,
+                "LocationBasedMessaging": false
+            },
+            "VisibleAttendeeTypes": [],
+            "Reporting": {
+                "SessionCounts": false
+            },
+            "EvalAccess": [],
+            "SessionSetAccess": [{
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Breakout: 75 Minute"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Breakout: 45 Minute"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Pre-Day Workshop"
+                }
+            ]
+        }
+    ]
+}
