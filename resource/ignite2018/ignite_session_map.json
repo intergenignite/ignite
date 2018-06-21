@@ -8,7 +8,7 @@
         {
           "SessionTypeName": "Breakout: 45 Minute",
           "HubbId": 2186,
-          "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
+          "SessionSets": [ "June26Sessions", "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
         },
         {
           "SessionTypeName": "Hands-on Lab",
@@ -18,7 +18,7 @@
         {
           "SessionTypeName": "Breakout: 75 Minute",
           "HubbId": 2188,
-          "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
+          "SessionSets": [ "June26Sessions", "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
         },
         {
           "SessionTypeName": "Microsoft Studio",
@@ -33,7 +33,7 @@
         {
           "SessionTypeName": "Pre-Day Workshop",
           "HubbId": 2192,
-          "SessionSets": [ "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
+          "SessionSets": [ "June26Sessions", "Schedule Builder - Attendee", "Session Catalog (Mktg Site)", "My Schedule - Attendee" ]
         },
         {
           "SessionTypeName": "Theater",
