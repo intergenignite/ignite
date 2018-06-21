@@ -19,17 +19,7 @@
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "Breakout: 75 Minute"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Breakout: 45 Minute"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Pre-Day Workshop"
+                    "Identifier": "Schedule Builder - Attendee"
                 }
             ]
         }
