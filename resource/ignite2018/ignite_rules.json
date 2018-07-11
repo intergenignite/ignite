@@ -20,6 +20,11 @@
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
                     "Identifier": "June26Sessions"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Session Catalog (Mktg Site)"
                 }
             ]
         }
