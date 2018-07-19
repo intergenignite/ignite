@@ -35,14 +35,14 @@
                 "title": "Solution",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "solutionArea",
+                "subtype": "solutionAreaLeafNodes",
                 "subMetadata": []
             },
             {
                 "title": "Product",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "products",
+                "subtype": "productLeafNodes",
                 "subMetadata": []
             },
         ]
