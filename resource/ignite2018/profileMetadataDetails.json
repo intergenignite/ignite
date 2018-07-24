@@ -1,189 +1,188 @@
-
-[
-  {
-    "headingTitle": "Attendee Profile",
-    "itemsToShow": [{
-      "displayTitle": "Picture",
-      "link": "ProfileImage",
-      "style": "picture",
-      "class": "",
-      "location": "detail",
-      "map": "profileImage",
-      "value": ""
-    },{
-      "displayTitle": "Job Title",
-      "link": "Title",
-      "style": "inputText",
-      "class": "",
-      "location": "detail",
-      "map": "title",
-      "value": "adfse"
-    },{
-      "displayTitle": "Job Category",
-      "link": "JobCategory",
-      "style": "options",
-      "class": "",
-      "location": "detail",
-      "map": "jobCategory",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Company",
-      "link": "Company",
-      "style": "inputText",
-      "class": "",
-      "location": "detail",
-      "map": "company",
-      "value": "sadfas"
-    },{
-      "displayTitle": "Biography",
-      "link": "Biography",
-      "style": "textArea",
-      "class": "",
-      "location": "detail",
-      "map": "biography",
-      "value": "something"
-    },{
-      "displayTitle": "LinkedIn",
-      "link": "LinkedIn",
-      "style": "inputText",
-      "class": "",
-      "location": "social",
-      "map": "linkedIn",
-      "value": "something"
-    },{
-      "displayTitle": "Twitter",
-      "link": "Twitter",
-      "style": "inputText",
-      "class": "",
-      "location": "social",
-      "map": "twitter",
-      "value": "something"
-    }]
-  },
-  {
-    "headingTitle": "Company Profile",
-    "itemsToShow": [{
-      "displayTitle": "Website",
-      "link": "Website",
-      "style": "inputText",
-      "class": "",
-      "location": "social",
-      "map": "website",
-      "value": "Default"
-    },{
-      "displayTitle": "Country",
-      "link": "Country",
-      "style": "options",
-      "class": "",
-      "location": "detail",
-      "map": "country",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Company Size",
-      "link": "CompanySize",
-      "style": "options",
-      "class": "",
-      "location": "detail",
-      "map": "companySize",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Customer Segment",
-      "link": "CustomerSegment",
-      "style": "multiSelect",
-      "class": "",
-      "location": "detail",
-      "map": "customerSegment",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Competencies",
-      "link": "Competencies",
-      "style": "multiSelect",
-      "class": "",
-      "location": "detail",
-      "map": "competencies",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Industry Focus",
-      "link": "IndustryFocus",
-      "style": "nestedSelect",
-      "class": "",
-      "location": "detail",
-      "map": "industryFocus",
-      "value": "",
-      "options": ""
-    },{
-      "displayTitle": "Business Focus",
-      "link": "BusinessFocus",
-      "style": "nestedSelect",
-      "class": "",
-      "location": "detail",
-      "map": "businessFocus",
-      "value": "",
-      "options": ""
-    }]
-  },
-  {
-    "headingTitle": "Settings",
-    "itemsToShow": [{
-      "displayTitle": "Login",
-      "link": "Email",
-      "style": "readonly",
-      "class": "",
-      "location": "contacts",
-      "map": "authentication"
-    },{
-      "displayTitle": "Notifications",
-      "link": "NotificationEmail",
-      "style": "readonly",
-      "class": "",
-      "location": "contacts",
-      "map": "notification"
-    },{
-      "displayTitle": "Privacy",
-      "link": "Privacy",
-      "style": "multiCheckbox",
-      "class": "",
-      "location": "contacts",
-      "map": "notification",
-      "options": [{
-          "displayTitle": "Make my profile searchable",
-          "link": "CanBeFound",
-          "style": "checkbox",
-          "class": "",
-          "location": "optins",
-          "map": "canBeFound",
-          "value": ""
-      },{
-          "displayTitle": "Show sessions I have added to my schedule",
-          "link": "CanShareSession",
-          "style": "checkbox",
-          "class": "",
-          "location": "optins",
-          "map": "canShareSessions",
-          "value": ""
-      },{
-          "displayTitle": "I am available for meetings",
-          "link": "CanAttendMeetings",
-          "style": "checkbox",
-          "class": "",
-          "location": "optins",
-          "map": "canAttendMeetings",
-          "value": ""
-      },{
-          "displayTitle": "Make my profile publicly available",
-          "link": "IsPubliclyVisible",
-          "style": "checkbox",
-          "class": "",
-          "location": "optins",
-          "map": "isPubliclyVisible",
-          "value": ""
-      }
-    ]
-    }]
-}
-];
+    [
+      {
+        "HeadingTitle": "Attendee Profile",
+        "ItemsToShow": [{
+          "DisplayTitle": "Picture",
+          "Link": "ProfileImage",
+          "Style": "picture",
+          "Class": "",
+          "Location": "detail",
+          "Map": "profileImage",
+          "Value": ""
+        },{
+          "DisplayTitle": "Job Title",
+          "Link": "Title",
+          "Style": "inputText",
+          "Class": "",
+          "Location": "detail",
+          "Map": "title",
+          "Value": "adfse"
+        },{
+          "DisplayTitle": "Job Category",
+          "Link": "JobCategory",
+          "Style": "Options",
+          "Class": "",
+          "Location": "detail",
+          "Map": "jobCategory",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Company",
+          "Link": "Company",
+          "Style": "inputText",
+          "Class": "",
+          "Location": "detail",
+          "Map": "company",
+          "Value": "sadfas"
+        },{
+          "DisplayTitle": "Biography",
+          "Link": "Biography",
+          "Style": "textArea",
+          "Class": "",
+          "Location": "detail",
+          "Map": "biography",
+          "Value": "something"
+        },{
+          "DisplayTitle": "LinkedIn",
+          "Link": "LinkedIn",
+          "Style": "inputText",
+          "Class": "",
+          "Location": "social",
+          "Map": "linkedIn",
+          "Value": "something"
+        },{
+          "DisplayTitle": "Twitter",
+          "Link": "Twitter",
+          "Style": "inputText",
+          "Class": "",
+          "Location": "social",
+          "Map": "twitter",
+          "Value": "something"
+        }]
+      },
+      {
+        "HeadingTitle": "Company Profile",
+        "ItemsToShow": [{
+          "DisplayTitle": "Website",
+          "Link": "Website",
+          "Style": "inputText",
+          "Class": "",
+          "Location": "social",
+          "Map": "website",
+          "Value": "Default"
+        },{
+          "DisplayTitle": "Country",
+          "Link": "Country",
+          "Style": "Options",
+          "Class": "",
+          "Location": "detail",
+          "Map": "country",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Company Size",
+          "Link": "CompanySize",
+          "Style": "Options",
+          "Class": "",
+          "Location": "detail",
+          "Map": "companySize",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Customer Segment",
+          "Link": "CustomerSegment",
+          "Style": "multiSelect",
+          "Class": "",
+          "Location": "detail",
+          "Map": "customerSegment",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Competencies",
+          "Link": "Competencies",
+          "Style": "multiSelect",
+          "Class": "",
+          "Location": "detail",
+          "Map": "competencies",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Industry Focus",
+          "Link": "IndustryFocus",
+          "Style": "nestedSelect",
+          "Class": "",
+          "Location": "detail",
+          "Map": "industryFocus",
+          "Value": "",
+          "Options": ""
+        },{
+          "DisplayTitle": "Business Focus",
+          "Link": "BusinessFocus",
+          "Style": "nestedSelect",
+          "Class": "",
+          "Location": "detail",
+          "Map": "businessFocus",
+          "Value": "",
+          "Options": ""
+        }]
+      },
+      {
+        "HeadingTitle": "Settings",
+        "ItemsToShow": [{
+          "DisplayTitle": "Login",
+          "Link": "Email",
+          "Style": "readonly",
+          "Class": "",
+          "Location": "contacts",
+          "Map": "authentication"
+        },{
+          "DisplayTitle": "Notifications",
+          "Link": "NotificationEmail",
+          "Style": "readonly",
+          "Class": "",
+          "Location": "contacts",
+          "Map": "notification"
+        },{
+          "DisplayTitle": "Privacy",
+          "Link": "Privacy",
+          "Style": "multiCheckbox",
+          "Class": "",
+          "Location": "contacts",
+          "Map": "notification",
+          "Options": [{
+              "DisplayTitle": "Make my profile searchable",
+              "Link": "CanBeFound",
+              "Style": "checkbox",
+              "Class": "",
+              "Location": "optins",
+              "Map": "canBeFound",
+              "Value": ""
+          },{
+              "DisplayTitle": "Show sessions I have added to my schedule",
+              "Link": "CanShareSession",
+              "Style": "checkbox",
+              "Class": "",
+              "Location": "optins",
+              "Map": "canShareSessions",
+              "Value": ""
+          },{
+              "DisplayTitle": "I am available for meetings",
+              "Link": "CanAttendMeetings",
+              "Style": "checkbox",
+              "Class": "",
+              "Location": "optins",
+              "Map": "canAttendMeetings",
+              "Value": ""
+          },{
+              "DisplayTitle": "Make my profile publicly available",
+              "Link": "IsPubliclyVisible",
+              "Style": "checkbox",
+              "Class": "",
+              "Location": "optins",
+              "Map": "isPubliclyVisible",
+              "Value": ""
+          }
+        ]
+        }]
+    }
+    ];
