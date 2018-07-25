@@ -6,49 +6,42 @@
           "Link": "ProfileImage",
           "Style": "picture",
           "Class": "",
-          "Location": "detail",
-          "Map": "profileImage",
+          "Path": "detail.profiledImage",
           "Value": ""
         },{
           "DisplayTitle": "Job Title",
           "Link": "Title",
           "Style": "inputText",
           "Class": "",
-          "Location": "detail",
-          "Map": "title",
+          "Path": "detail.title",
           "Value": ""
         },{
           "DisplayTitle": "Job Category",
           "Link": "JobCategory",
           "Style": "Options",
           "Class": "",
-          "Location": "detail",
-          "Map": "jobCategory",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.jobCategory",
+          "Value": ""
         },{
           "DisplayTitle": "Company",
           "Link": "Company",
           "Style": "inputText",
           "Class": "",
-          "Location": "detail",
-          "Map": "company",
+          "Path": "detail.company",
           "Value": ""
         },{
           "DisplayTitle": "Biography",
           "Link": "Biography",
           "Style": "textArea",
           "Class": "",
-          "Location": "detail",
-          "Map": "biography",
+          "Path": "detail.biography",
           "Value": ""
         },{
           "DisplayTitle": "LinkedIn",
           "Link": "LinkedIn",
           "Style": "inputText",
           "Class": "",
-          "Location": "social",
-          "Map": "linkedIn",
+          "Path": "social.linkedIn",
           "Value": "",
           "Regex": "https?://.*linkedin.com/in/.+"
         },{
@@ -56,8 +49,7 @@
           "Link": "Twitter",
           "Style": "inputText",
           "Class": "",
-          "Location": "social",
-          "Map": "twitter",
+          "Path": "social.twitter",
           "Value": "",
           "Regex": "@([A-Za-z0-9_]+)$"
         }]
@@ -69,63 +61,50 @@
           "Link": "Website",
           "Style": "inputText",
           "Class": "",
-          "Location": "social",
-          "Map": "website",
+          "Path": "social.website",
           "Value": ""
         },{
           "DisplayTitle": "Country",
           "Link": "Country",
           "Style": "Options",
           "Class": "",
-          "Location": "detail",
-          "Map": "country",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.country",
+          "Value": ""
         },{
           "DisplayTitle": "Company Size",
           "Link": "CompanySize",
           "Style": "Options",
           "Class": "",
-          "Location": "detail",
-          "Map": "companySize",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.companySize",
+          "Value": ""
         },{
           "DisplayTitle": "Customer Segment",
           "Link": "CustomerSegment",
           "Style": "multiSelect",
           "Class": "",
-          "Location": "detail",
-          "Map": "customerSegment",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.customerSegment",
+          "Value": ""
         },{
           "DisplayTitle": "Competencies",
           "Link": "Competencies",
           "Style": "multiSelect",
           "Class": "",
-          "Location": "detail",
-          "Map": "competencies",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.competencies",
+          "Value": ""
         },{
           "DisplayTitle": "Industry Focus",
           "Link": "IndustryFocus",
           "Style": "nestedSelect",
           "Class": "",
-          "Location": "detail",
-          "Map": "industryFocus",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.industryFocus",
+          "Value": ""
         },{
           "DisplayTitle": "Business Focus",
           "Link": "BusinessFocus",
           "Style": "nestedSelect",
           "Class": "",
-          "Location": "detail",
-          "Map": "businessFocus",
-          "Value": "",
-          "Options": ""
+          "Path": "detail.businessFocus",
+          "Value": ""
         }]
       },
       {
@@ -135,53 +114,46 @@
           "Link": "Email",
           "Style": "readonly",
           "Class": "",
-          "Location": "contacts",
-          "Map": "authentication"
+          "Path": "contacts.authentication"
         },{
           "DisplayTitle": "Notifications",
           "Link": "NotificationEmail",
           "Style": "readonly",
           "Class": "",
-          "Location": "contacts",
-          "Map": "notification"
+          "Path": "contacts.notification"
         },{
           "DisplayTitle": "Privacy",
           "Link": "Privacy",
           "Style": "multiCheckbox",
           "Class": "",
-          "Location": "contacts",
-          "Map": "notification",
+          "Path": "contacts.notification",
           "Options": [{
               "DisplayTitle": "Make my profile searchable",
               "Link": "CanBeFound",
               "Style": "checkbox",
               "Class": "",
-              "Location": "optins",
-              "Map": "canBeFound",
+              "Path": "optins.canBefound",
               "Value": ""
           },{
               "DisplayTitle": "Show sessions I have added to my schedule",
               "Link": "CanShareSession",
               "Style": "checkbox",
               "Class": "",
-              "Location": "optins",
-              "Map": "canShareSessions",
+              "Path": "optins.canShareSessions",
               "Value": ""
           },{
               "DisplayTitle": "I am available for meetings",
               "Link": "CanAttendMeetings",
               "Style": "checkbox",
               "Class": "",
-              "Location": "optins",
-              "Map": "canAttendMeetings",
+              "Path": "optins.canAttendMeetings",
               "Value": ""
           },{
               "DisplayTitle": "Make my profile publicly available",
               "Link": "IsPubliclyVisible",
               "Style": "checkbox",
               "Class": "",
-              "Location": "optins",
-              "Map": "isPubliclyVisible",
+              "Path": "optins.isPubliclyVisible",
               "Value": ""
           }
         ]
