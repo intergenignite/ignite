@@ -50,7 +50,7 @@
           "Location": "social",
           "Map": "linkedIn",
           "Value": "",
-          "Regex": @"https?://.*linkedin\.com/in/.+"
+          "Regex": "https?://.*linkedin.com/in/.+"
         },{
           "DisplayTitle": "Twitter",
           "Link": "Twitter",
