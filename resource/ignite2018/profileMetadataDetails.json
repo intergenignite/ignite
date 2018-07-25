@@ -16,7 +16,7 @@
           "Class": "",
           "Location": "detail",
           "Map": "title",
-          "Value": "adfse"
+          "Value": ""
         },{
           "DisplayTitle": "Job Category",
           "Link": "JobCategory",
@@ -33,7 +33,7 @@
           "Class": "",
           "Location": "detail",
           "Map": "company",
-          "Value": "sadfas"
+          "Value": ""
         },{
           "DisplayTitle": "Biography",
           "Link": "Biography",
@@ -41,7 +41,7 @@
           "Class": "",
           "Location": "detail",
           "Map": "biography",
-          "Value": "something"
+          "Value": ""
         },{
           "DisplayTitle": "LinkedIn",
           "Link": "LinkedIn",
@@ -49,7 +49,8 @@
           "Class": "",
           "Location": "social",
           "Map": "linkedIn",
-          "Value": "something"
+          "Value": "",
+          "Regex": "https?://.*linkedin\.com/in/.+"
         },{
           "DisplayTitle": "Twitter",
           "Link": "Twitter",
@@ -57,7 +58,8 @@
           "Class": "",
           "Location": "social",
           "Map": "twitter",
-          "Value": "something"
+          "Value": "",
+          "Regex": "@([A-Za-z0-9_]+)$"
         }]
       },
       {
@@ -69,7 +71,7 @@
           "Class": "",
           "Location": "social",
           "Map": "website",
-          "Value": "Default"
+          "Value": ""
         },{
           "DisplayTitle": "Country",
           "Link": "Country",
