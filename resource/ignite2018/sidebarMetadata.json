@@ -135,7 +135,7 @@
             },
         ]
     },{
-        sidebarType": "videos",
+        "sidebarType": "attendees",
         "metadata": [
             {
                 "title": "Company Website",
