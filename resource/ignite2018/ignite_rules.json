@@ -39,7 +39,10 @@
             ]
         },
         {
-            "Identifiers": ["MSI Crew", "MSI Attendee Customer & Partner"],
+            "Identifiers": [
+                "MSI Crew", 
+                "MSI Attendee Customer & Partner",
+                "Microsoft Envision Attendee"],
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -49,105 +52,17 @@
                 "MobileAppMessaging": true,
                 "LocationBasedMessaging": true
             },
-            "VisibleAttendeeTypes": ["MSI Crew", "MSI Attendee Customer & Partner"],
+            "VisibleAttendeeTypes": [
+                "MSI Crew", 
+                "MSI Attendee Customer & Partner",
+                "Microsoft Envision Attendee"
+            ],
             "Reporting": {
                 "SessionCounts": true
             },
             "EvalAccess": [{
                 "Identifier": "PostEventSurvey",
                 "SessionTypes": ["Post Event  Survey"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "RegularSessionEvaluations",
-                "SessionTypes": [
-                    "Breakout: 45 minute",
-                    "Breakout: 75 minute",
-                    "General Session",
-                    "Microsoft Studio",
-                    "Theater",
-                    "Workshop",
-                    "MVP PreDay",
-                    "Pre-Day Training"
-                ],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteAfternoonEvaluation",
-                "SessionTypes": ["Technology Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }, {
-                "Identifier": "KeynoteMorningEvaluation",
-                "SessionTypes": ["Vision Keynote"],
-                "Mobile": true,
-                "WebSite": true
-            }],
-            "SessionSetAccess": [{
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "June26Sessions"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Session Catalog (Mktg Site)"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - Attendee"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "My Schedule - Attendee"
-                },                 
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - OnDemand"
-                },                 
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - 2018"
-                },                 
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "My Schedule - 2018"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Session Catalog - 2018"
-                },
-                {
-                    "ApplicableFrom": null,
-                    "ApplicableTo": null,
-                    "Identifier": "Session Catalog - August 2018"
-                }
-            ]
-        },
-        {
-            "Identifiers": ["Microsoft Envision Attendee"],
-            "Access": {
-                "SessionCatalog": true,
-                "MyIgnite": true,
-                "ScheduleBuilder": true,
-                "MobileApp": true,
-                "MeetingScheduler": true,
-                "MobileAppMessaging": true,
-                "LocationBasedMessaging": true
-            },
-            "VisibleAttendeeTypes": ["MSI Crew", "MSI Attendee Customer & Partner", "Microsoft Envision Attendee"],
-            "Reporting": {
-                "SessionCounts": true
-            },
-            "EvalAccess": [{
-                "Identifier": "PostEventSurvey",
-                "SessionTypes": ["Post Event  Survey"],
                 "Mobile": true,
                 "WebSite": true
             }, {
