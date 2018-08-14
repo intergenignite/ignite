@@ -107,7 +107,7 @@
               "FieldName": "CanBeFound",
               "Style": "checkbox",
               "Class": "",
-              "Path": "optins.canBefound",
+              "Path": "optins.canBeFound",
               "Value": ""
           },{
               "DisplayTitle": "Show sessions I have added to my schedule",
