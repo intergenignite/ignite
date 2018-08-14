@@ -80,30 +80,6 @@
           "Path": "detail.companySize.value",
           "Value": "",
           "OptionsPath": "companySizes"
-        },{
-          "DisplayTitle": "Community Focus",
-          "FieldName": "CommunityFocus",
-          "Style": "multiSelect",
-          "Class": "",
-          "Path": "detail.communityFocus",
-          "Value": "",
-          "OptionsPath": "communityFocus"
-        },{
-          "DisplayTitle": "Solution Area",
-          "FieldName": "SolutionArea",
-          "Style": "multiSelect",
-          "Class": "",
-          "Path": "detail.solutionArea",
-          "Value": "",
-          "OptionsPath": "solutionArea"
-        },{
-          "DisplayTitle": "Product",
-          "FieldName": "Product",
-          "Style": "multiSelect",
-          "Class": "",
-          "Path": "detail.product",
-          "Value": "",
-          "OptionsPath": "product"
         }]
       },
       {
