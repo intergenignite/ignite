@@ -1,4 +1,4 @@
-    [
+[
       {
         "HeadingTitle": "Attendee Profile",
         "ItemsToShow": [{
@@ -81,37 +81,29 @@
           "Value": "",
           "OptionsPath": "companySizes"
         },{
-          "DisplayTitle": "Customer Segment",
-          "FieldName": "CustomerSegment",
+          "DisplayTitle": "Community Focus",
+          "FieldName": "CommunityFocus",
           "Style": "multiSelect",
           "Class": "",
-          "Path": "detail.customerSegment",
+          "Path": "detail.communityFocus",
           "Value": "",
-          "OptionsPath": "customerSegments"
+          "OptionsPath": "communityFocus"
         },{
-          "DisplayTitle": "Competencies",
-          "FieldName": "Competencies",
+          "DisplayTitle": "Solution Area",
+          "FieldName": "SolutionArea",
           "Style": "multiSelect",
           "Class": "",
-          "Path": "detail.competencies",
+          "Path": "detail.solutionArea",
           "Value": "",
-          "OptionsPath": "competencies"
+          "OptionsPath": "solutionArea"
         },{
-          "DisplayTitle": "Industry Focus",
-          "FieldName": "IndustryFocus",
-          "Style": "nestedSelect",
+          "DisplayTitle": "Product",
+          "FieldName": "Product",
+          "Style": "multiSelect",
           "Class": "",
-          "Path": "detail.industryFocus",
+          "Path": "detail.product",
           "Value": "",
-          "OptionsPath": "industryFocuses"
-        },{
-          "DisplayTitle": "Business Focus",
-          "FieldName": "BusinessFocus",
-          "Style": "nestedSelect",
-          "Class": "",
-          "Path": "detail.businessFocus",
-          "Value": "",
-          "OptionsPath": "businessFocuses"
+          "OptionsPath": "product"
         }]
       },
       {
@@ -135,7 +127,7 @@
           "Class": "",
           "Path": "contacts.notification",
           "Options": [{
-              "DisplayTitle": "Make my profile searchable",
+              "DisplayTitle": "Make my profile publically available for meetings and messages",
               "FieldName": "CanBeFound",
               "Style": "checkbox",
               "Class": "",
@@ -147,13 +139,6 @@
               "Style": "checkbox",
               "Class": "",
               "Path": "optins.canShareSessions",
-              "Value": ""
-          },{
-              "DisplayTitle": "I am available for meetings",
-              "FieldName": "CanAttendMeetings",
-              "Style": "checkbox",
-              "Class": "",
-              "Path": "optins.canAttendMeetings",
               "Value": ""
           },{
               "DisplayTitle": "Make my profile publicly available",
