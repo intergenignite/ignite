@@ -145,7 +145,7 @@
                 "MobileApp": false,
                 "MeetingScheduler": false,
                 "MobileAppMessaging": false,
-                "LocationBasedMessaging": false,
+                "LocationBasedMessaging": false
             },
             "VisibleAttendeeTypes": [],
             "Reporting": {
