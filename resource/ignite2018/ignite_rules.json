@@ -9,7 +9,8 @@
                 "MobileApp": false,
                 "MeetingScheduler": false,
                 "MobileAppMessaging": false,
-                "LocationBasedMessaging": false
+                "LocationBasedMessaging": false,
+                "InPersonExperience": false
             },
             "VisibleAttendeeTypes": [],
             "Reporting": {
@@ -30,11 +31,54 @@
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
                     "Identifier": "Schedule Builder - OnDemand"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Session Catalog - August 2018"
                 }
             ]
         },
         {
-            "Identifiers": ["MSI Crew", "MSI Attendee Customer & Partner"],
+            "Identifiers": [
+                "MSI Attendee Customer & Partner",
+                "MSI Attendee Sponsor",
+                "MSI Attendee Exhibitor",
+                "MSI Attendee Microsoft",
+                "MSI Attendee Microsoft CVP Exec",
+                "MSI Attendee Student",
+                "MSI Attendee Faculty/Staff",
+                "Microsoft Envision Attendee",
+                "Microsoft Envision Attendee Microsoft",
+                "Microsoft Envision Attendee Microsoft Executive",
+                "Microsoft Envision Attendee Sponsor",
+                "MSI Staff External",
+                "MSI Staff Microsoft",
+                "MSI Staff External - GA converted",
+                "MSI Staff Microsoft - GA converted",
+                "Microsoft Envision Experiences Staff External",
+                "Microsoft Envision Experiences Staff Internal",
+                "Microsoft Envision Staff Microsoft",
+                "MSI Booth Staff Sponsor",
+                "MSI Booth Staff Exhibitor",
+                "MSI Booth Staff Microsoft",
+                "MSI Booth Staff External",
+                "MSI Speaker External",
+                "MSI Speaker Microsoft",
+                "MSI Speaker Day Pass External",
+                "MSI Speaker Day Pass Microsoft",
+                "Microsoft Envision Speaker Customer",
+                "Microsoft Envision Speaker External",
+                "Microsoft Envision Speaker Internal",
+                "MSI Media",
+                "Microsoft Envision Media",
+                "MSI Crew",
+                "Microsoft Envision Crew ",
+                "MSI Expo Only",
+                "MSI Day Pass Attendee Customer & Partner",
+                "MSI Staff Day Pass External",
+                "MSI Staff Day Pass Microsoft"
+            ],
             "Access": {
                 "SessionCatalog": true,
                 "MyIgnite": true,
@@ -42,9 +86,48 @@
                 "MobileApp": true,
                 "MeetingScheduler": true,
                 "MobileAppMessaging": true,
-                "LocationBasedMessaging": true
+                "LocationBasedMessaging": true,
+                "InPersonExperience": true
             },
-            "VisibleAttendeeTypes": ["MSI Crew", "MSI Attendee Customer & Partner"],
+            "VisibleAttendeeTypes": [
+                "MSI Attendee Customer & Partner",
+                "MSI Attendee Sponsor",
+                "MSI Attendee Exhibitor",
+                "MSI Attendee Microsoft",
+                "MSI Attendee Microsoft CVP Exec",
+                "MSI Attendee Student",
+                "MSI Attendee Faculty/Staff",
+                "Microsoft Envision Attendee",
+                "Microsoft Envision Attendee Microsoft",
+                "Microsoft Envision Attendee Microsoft Executive",
+                "Microsoft Envision Attendee Sponsor",
+                "MSI Staff External",
+                "MSI Staff Microsoft",
+                "MSI Staff External - GA converted",
+                "MSI Staff Microsoft - GA converted",
+                "Microsoft Envision Experiences Staff External",
+                "Microsoft Envision Experiences Staff Internal",
+                "Microsoft Envision Staff Microsoft",
+                "MSI Booth Staff Sponsor",
+                "MSI Booth Staff Exhibitor",
+                "MSI Booth Staff Microsoft",
+                "MSI Booth Staff External",
+                "MSI Speaker External",
+                "MSI Speaker Microsoft",
+                "MSI Speaker Day Pass External",
+                "MSI Speaker Day Pass Microsoft",
+                "Microsoft Envision Speaker Customer",
+                "Microsoft Envision Speaker External",
+                "Microsoft Envision Speaker Internal",
+                "MSI Media",
+                "Microsoft Envision Media",
+                "MSI Crew",
+                "Microsoft Envision Crew ",
+                "MSI Expo Only",
+                "MSI Day Pass Attendee Customer & Partner",
+                "MSI Staff Day Pass External",
+                "MSI Staff Day Pass Microsoft"
+            ],
             "Reporting": {
                 "SessionCounts": true
             },
@@ -91,9 +174,87 @@
                 {
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
+                    "Identifier": "Schedule Builder - Attendee"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "My Schedule - Attendee"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
                     "Identifier": "Schedule Builder - OnDemand"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Schedule Builder - 2018"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "My Schedule - 2018"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Session Catalog - 2018"
+                },
+                {
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Session Catalog - August 2018"
                 }
             ]
+        },{
+            "Identifiers": ["LearningPaths"],
+            "Access": {
+                "SessionCatalog": true,
+                "MyIgnite": false,
+                "ScheduleBuilder": false,
+                "MobileApp": false,
+                "MeetingScheduler": false,
+                "MobileAppMessaging": false,
+                "LocationBasedMessaging": false,
+                "InPersonExperience": false
+            },
+            "VisibleAttendeeTypes": [],
+            "Reporting": {
+                "SessionCounts": false
+            },
+            "EvalAccess": [],
+            "SessionSetAccess": [{
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Learning Paths"
+                }
+            ]
+        },{
+            "Identifiers": [
+                "Remote Attendee"
+            ],
+            "Access": {
+                "SessionCatalog": true,
+                "MyIgnite": true,
+                "ScheduleBuilder": true,
+                "MobileApp": false,
+                "MeetingScheduler": false,
+                "MobileAppMessaging": false,
+                "LocationBasedMessaging": false,
+                "InPersonExperience": false
+            },
+            "VisibleAttendeeTypes": [
+            ],
+            "Reporting": {
+                "SessionCounts": false
+            },
+            "EvalAccess": [],
+            "SessionSetAccess": [{
+                    "ApplicableFrom": null,
+                    "ApplicableTo": null,
+                    "Identifier": "Schedule Builder - Remote 2018"
+            }]
         }
     ]
 }
