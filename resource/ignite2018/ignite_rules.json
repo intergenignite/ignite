@@ -84,7 +84,7 @@
                 "MyIgnite": true,
                 "ScheduleBuilder": true,
                 "MobileApp": true,
-                "MeetingScheduler": true,
+                "MeetingScheduler": false,
                 "MobileAppMessaging": true,
                 "LocationBasedMessaging": true,
                 "InPersonExperience": true
@@ -227,7 +227,7 @@
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "Learning Paths"
+                    "Identifier": "Learning Path"
                 }
             ]
         },{
