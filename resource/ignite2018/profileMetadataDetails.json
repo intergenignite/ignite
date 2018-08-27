@@ -67,7 +67,7 @@
         },{
           "DisplayTitle": "Product",
           "FieldName": "Product",
-          "Style": "Options",
+          "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.products",
           "Value": "",
@@ -83,7 +83,7 @@
         },{
           "DisplayTitle": "Community Focus",
           "FieldName": "CommunityFocus",
-          "Style": "Options",
+          "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.communityFocus",
           "Value": "",
