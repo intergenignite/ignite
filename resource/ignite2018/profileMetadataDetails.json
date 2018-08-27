@@ -67,7 +67,7 @@
         },{
           "DisplayTitle": "Product",
           "FieldName": "Product",
-          "Style": "nestedSelect",
+          "Style": "Options",
           "Class": "",
           "Path": "detail.products",
           "Value": "",
