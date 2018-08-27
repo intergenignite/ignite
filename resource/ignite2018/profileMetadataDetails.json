@@ -83,7 +83,7 @@
         },{
           "DisplayTitle": "Community Focus",
           "FieldName": "CommunityFocus",
-          "Style": "nestedSelect",
+          "Style": "Options",
           "Class": "",
           "Path": "detail.communityFocus",
           "Value": "",
