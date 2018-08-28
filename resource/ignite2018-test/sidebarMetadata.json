@@ -1,8 +1,6 @@
-[
-    {
+[{
         "sidebarType": "sessions",
-        "metadata": [
-            {
+        "metadata": [{
                 "title": "Session Code",
                 "layout": "no-link",
                 "listings": "",
@@ -14,15 +12,13 @@
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "sessionType",
-                "subMetadata": [
-                    {
-                        "title": "",
-                        "layout": "no-link",
-                        "listings": "time",
-                        "subtype": "durationInMinutes",
-                        "subMetadata": []
-                    }
-                ]
+                "subMetadata": [{
+                    "title": "",
+                    "layout": "no-link",
+                    "listings": "time",
+                    "subtype": "durationInMinutes",
+                    "subMetadata": []
+                }]
             },
             {
                 "title": "Level",
@@ -49,8 +45,7 @@
     },
     {
         "sidebarType": "sponsors",
-        "metadata": [
-            {
+        "metadata": [{
                 "title": "Company Website",
                 "layout": "link",
                 "listings": "link",
@@ -96,8 +91,7 @@
     },
     {
         "sidebarType": "videos",
-        "metadata": [
-            {
+        "metadata": [{
                 "title": "Session Code",
                 "layout": "no-link",
                 "listings": "",
@@ -109,15 +103,13 @@
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "sessionType",
-                "subMetadata": [
-                    {
-                        "title": "",
-                        "layout": "no-link",
-                        "listings": "time",
-                        "subtype": "durationInMinutes",
-                        "subMetadata": []
-                    }
-                ]
+                "subMetadata": [{
+                    "title": "",
+                    "layout": "no-link",
+                    "listings": "time",
+                    "subtype": "durationInMinutes",
+                    "subMetadata": []
+                }]
             },
             {
                 "title": "Session Length",
@@ -134,82 +126,99 @@
                 "subMetadata": []
             },
         ]
-    },{
+    }, {
         "sidebarType": "attendees",
-        "metadata": [
+        "metadata": [{
+                "title": "LinkedIn",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "linkedin",
+                "subMetadata": []
+            }, 
+            {
+                "title": "Twitter",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "twitter",
+                "subMetadata": []
+            },
+            {
+                "title": "Facebook",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "facebook",
+                "subMetadata": []
+            },
+            {
+                "title": "Blog",
+                "layout": "link",
+                "listings": "link",
+                "subtype": "blog",
+                "subMetadata": []
+            },
             {
                 "title": "Company Website",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "website",
                 "subMetadata": []
-            },{
-                "title": "Twitter",
-                "layout": "link",
-                "listings": "link",
-                "subtype": "twitter",
-                "subMetadata": []
-            },{
-                "title": "LinkedIn",
-                "layout": "link",
-                "listings": "link",
-                "subtype": "linkedin",
-                "subMetadata": []
-            },{
-                "title": "Job Category",
-                "layout": "link",
-                "listings": "filters",
-                "subtype": "jobCategory",
-                "subMetadata": []
-            },{
-                "title": "Competency",
-                "layout": "link",
-                "listings": "filters",
-                "subtype": "competencies",
-                "subMetadata": []
-            },{
-                "title": "Industry Focus",
-                "layout": "link",
-                "listings": "filters",
-                "subtype": "industryFocus",
-                "subMetadata": []
-            },{
-                "title": "Business Focus",
-                "layout": "link",
-                "listings": "filters",
-                "subtype": "businessFocus",
-                "subMetadata": []
-            },{
+            }, 
+            {
                 "title": "Country",
                 "layout": "link",
                 "listings": "filters",
                 "subtype": "country",
                 "subMetadata": []
-            },{
-                "title": "Company Size",
+            },
+            {
+                "title": "Industry",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "companySize",
+                "subtype": "industry",
                 "subMetadata": []
-            },{
-                "title": "Customer Segment",
+            },
+            {
+                "title": "Job Category",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "customerSegment",
+                "subtype": "jobCategory",
                 "subMetadata": []
-            },{
-                "title": "Organization Membership",
+            },
+            {
+                "title": "Product Expertise",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "organizations",
+                "subtype": "product",
                 "subMetadata": []
-            },{
-                "title": "WPC's Attended",
+            },
+            {
+                "title": "Solution Expertise",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "wpcAttended",
+                "subtype": "solutionarea",
                 "subMetadata": []
-            }
-	    ]
+            },
+            {
+                "title": "Community Focus",
+                "layout": "link",
+                "listings": "filters",
+                "subtype": "solutionarea",
+                "subMetadata": []
+            },
+            {
+                "title": "MVP",
+                "layout": "mvp-badge",
+                "listings": "indicator",
+                "subtype": "mvp",
+                "subMetadata": []
+            },     
+            {
+                "title": "Regional Director",
+                "layout": "rd-badge",
+                "listings": "indicator",
+                "subtype": "isregionaldirector",
+                "subMetadata": []
+            }   
+        ]
     }
 ]
