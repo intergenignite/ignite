@@ -67,7 +67,7 @@
         },{
           "DisplayTitle": "Product",
           "FieldName": "Product",
-          "Style": "Options",
+          "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.products",
           "Value": "",
@@ -75,7 +75,7 @@
         },{
           "DisplayTitle": "Solution Area",
           "FieldName": "SolutionArea",
-          "Style": "Options",
+          "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.solutionArea",
           "Value": "",
@@ -83,7 +83,7 @@
         },{
           "DisplayTitle": "Community Focus",
           "FieldName": "CommunityFocus",
-          "Style": "Options",
+          "Style": "multiSelect",
           "Class": "",
           "Path": "detail.communityFocus",
           "Value": "",
