@@ -188,7 +188,7 @@
                 "title": "Product Expertise",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "product",
+                "subtype": "products",
                 "subMetadata": []
             },
             {
