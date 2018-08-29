@@ -157,7 +157,7 @@
                 "subMetadata": []
             },
             {
-                "title": "Company Website",
+                "title": "Website",
                 "layout": "link",
                 "listings": "link",
                 "subtype": "website",
@@ -206,19 +206,12 @@
                 "subMetadata": []
             },
             {
-                "title": "MVP",
-                "layout": "mvp-badge",
-                "listings": "indicator",
-                "subtype": "mvp",
+                "title": "",
+                "layout": "",
+                "listings": "indicators",
+                "subtype": "affiliations",
                 "subMetadata": []
-            },     
-            {
-                "title": "Regional Director",
-                "layout": "rd-badge",
-                "listings": "indicator",
-                "subtype": "isregionaldirector",
-                "subMetadata": []
-            }   
+            }
         ]
     }
 ]
