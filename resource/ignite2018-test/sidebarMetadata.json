@@ -195,21 +195,21 @@
                 "title": "Solution Expertise",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "solutionarea",
+                "subtype": "solutionAreas",
                 "subMetadata": []
             },
             {
                 "title": "Community Focus",
                 "layout": "link",
                 "listings": "filters",
-                "subtype": "communityfocus",
+                "subtype": "communityFocus",
                 "subMetadata": []
             },
             {
                 "title": "",
                 "layout": "",
                 "listings": "indicators",
-                "subtype": "affiliations",
+                "subtype": "affiliation",
                 "subMetadata": []
             }
         ]
