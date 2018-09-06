@@ -83,7 +83,7 @@
         },{
           "DisplayTitle": "Industry",
           "FieldName": "Industry",
-          "Style": "Options",
+          "Style": "nestedSelect",
           "Class": "",
           "Path": "detail.industry",
           "Value": "",
