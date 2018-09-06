@@ -81,6 +81,14 @@
           "Value": "",
           "OptionsPath": "countryList"
         },{
+          "DisplayTitle": "Industry",
+          "FieldName": "Industry",
+          "Style": "Options",
+          "Class": "",
+          "Path": "detail.industry",
+          "Value": "",
+          "OptionsPath": "industry"
+        },{
           "DisplayTitle": "Product",
           "FieldName": "Product",
           "Style": "nestedSelect",
