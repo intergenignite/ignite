@@ -9,13 +9,13 @@
                 "title": "View Slide Deck",
                 "layout": "link",
                 "listings": "link",
-                "subtype": "downloadVideoLink",
+                "subtype": "slideDeck",
                 "subMetadata": []
             },{
-                "title": "Download MP4",
+                "title": "Download Video",
                 "layout": "link",
                 "listings": "link",
-                "subtype": "slideDeck",
+                "subtype": "downloadVideoLink",
                 "subMetadata": []
             }]
         },
@@ -119,13 +119,13 @@
                 "title": "View Slide Deck",
                 "layout": "link",
                 "listings": "link",
-                "subtype": "downloadVideoLink",
+                "subtype": "slideDeck",
                 "subMetadata": []
             },{
-                "title": "Download MP4",
+                "title": "Download Video",
                 "layout": "link",
                 "listings": "link",
-                "subtype": "slideDeck",
+                "subtype": "downloadVideoLink",
                 "subMetadata": []
             }]
         },
