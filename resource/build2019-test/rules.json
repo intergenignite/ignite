@@ -25,30 +25,6 @@
       ]
     },
     {
-      "Identifiers": ["Non-Attending Manager"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": false,
-        "ScheduleBuilder": false,
-        "MobileApp": false,
-        "MeetingScheduler": false,
-        "MobileAppMessaging": false,
-        "LocationBasedMessaging": false
-      },
-      "VisibleAttendeeTypes": ["Non-Attending Manager"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        }
-      ]
-    },
-    {
       "Identifiers": [
         "Comp Academic",
         "Comp General Attendee",
@@ -57,7 +33,22 @@
         "Paid General Attendee Full Price",
         "Paid General Attendee Partial",
         "Student Cross Charge",
-        "Pre-Registered Attendee"
+        "Pre-Registered Attendee",
+        "Comp Microsoft Attendee",
+        "Microsoft Attendee Cross Charge",
+        "Paid Microsoft Attendee",
+        "Paid Microsoft Attendee Beyond Capacity",
+        "Staff Chaperone /ADA Support",
+        "Staff Microsoft",
+        "Financial Analyst",
+        "Speaker External",
+        "Speaker Microsoft",
+        "Staff External",
+        "Staff Partner Booths",
+        "Analyst",
+        "Press",
+        "Press Staff",
+        "Crew"
       ],
       "Access": {
         "SessionCatalog": true,
@@ -76,290 +67,23 @@
         "Paid General Attendee Full Price",
         "Paid General Attendee Partial",
         "Student Cross Charge",
-        "Pre-Registered Attendee"
-      ],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": [
+        "Pre-Registered Attendee",
         "Comp Microsoft Attendee",
         "Microsoft Attendee Cross Charge",
         "Paid Microsoft Attendee",
-        "Paid Microsoft Attendee Beyond Capacity"
+        "Paid Microsoft Attendee Beyond Capacity",
+        "Staff Chaperone /ADA Support",
+        "Staff Microsoft",
+        "Financial Analyst",
+        "Speaker External",
+        "Speaker Microsoft",
+        "Staff External",
+        "Staff Partner Booths",
+        "Analyst",
+        "Press",
+        "Press Staff",
+        "Crew"
       ],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": [
-        "Comp Microsoft Attendee",
-        "Microsoft Attendee Cross Charge",
-        "Paid Microsoft Attendee",
-        "Paid Microsoft Attendee Beyond Capacity"
-      ],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Staff Chaperone /ADA Support"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Staff Chaperone /ADA Support"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Staff Microsoft"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Staff Microsoft"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Financial Analyst"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Financial Analyst"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Speaker External", "Speaker Microsoft"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Speaker External", "Speaker Microsoft"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Staff External", "Staff Partner Booths"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Staff External", "Staff Partner Booths"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Analyst", "Press", "Press Staff"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Analyst", "Press", "Press Staff"],
-      "Reporting": {
-        "SessionCounts": false
-      },
-      "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
-    },
-    {
-      "Identifiers": ["Crew"],
-      "Access": {
-        "SessionCatalog": true,
-        "MyIgnite": true,
-        "ScheduleBuilder": true,
-        "MobileApp": true,
-        "MeetingScheduler": true,
-        "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
-      },
-      "VisibleAttendeeTypes": ["Crew"],
       "Reporting": {
         "SessionCounts": false
       },
