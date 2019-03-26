@@ -1,6 +1,5 @@
 {
   "UserAccess": [
-    // Anonymous
     {
       "Identifiers": ["Anonymous"],
       "Access": {
@@ -25,7 +24,6 @@
         }
       ]
     },
-    // Registered, but no onsite access
     {
       "Identifiers": ["Non-Attending Manager"],
       "Access": {
@@ -50,7 +48,6 @@
         }
       ]
     },
-    // Attendee
     {
       "Identifiers": [
         "Comp Academic",
@@ -103,7 +100,6 @@
         }
       ]
     },
-    // Microsoft
     {
       "Identifiers": [
         "Comp Microsoft Attendee",
@@ -148,7 +144,6 @@
         }
       ]
     },
-    // Chaperone
     {
       "Identifiers": ["Staff Chaperone /ADA Support"],
       "Access": {
@@ -160,7 +155,7 @@
         "MobileAppMessaging": true,
         "LocationBasedMessaging": true
       },
-      "VisibleAttendeeTypes": [],
+      "VisibleAttendeeTypes": ["Staff Chaperone /ADA Support"],
       "Reporting": {
         "SessionCounts": false
       },
@@ -183,7 +178,6 @@
         }
       ]
     },
-    // Staff
     {
       "Identifiers": ["Staff Microsoft"],
       "Access": {
@@ -218,7 +212,6 @@
         }
       ]
     },
-    // Financial Analyst
     {
       "Identifiers": ["Financial Analyst"],
       "Access": {
@@ -253,7 +246,6 @@
         }
       ]
     },
-    // Speaker
     {
       "Identifiers": ["Speaker External", "Speaker Microsoft"],
       "Access": {
@@ -288,7 +280,6 @@
         }
       ]
     },
-    // Partner Staff
     {
       "Identifiers": ["Staff External", "Staff Partner Booths"],
       "Access": {
@@ -323,7 +314,6 @@
         }
       ]
     },
-    // Media
     {
       "Identifiers": ["Analyst", "Press", "Press Staff"],
       "Access": {
@@ -358,7 +348,6 @@
         }
       ]
     },
-    // Crew
     {
       "Identifiers": ["Crew"],
       "Access": {
