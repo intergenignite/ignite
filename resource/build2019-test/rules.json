@@ -55,7 +55,7 @@
         "MyIgnite": true,
         "ScheduleBuilder": true,
         "MobileApp": true,
-        "MeetingScheduler": true,
+        "MeetingScheduler": false,
         "MobileAppMessaging": true,
         "LocationBasedMessaging": true
       },
@@ -88,23 +88,7 @@
         "SessionCounts": false
       },
       "EvalAccess": [],
-      "SessionSetAccess": [
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Schedule Builder"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "My Schedule"
-        }
-      ]
+      "SessionSetAccess": []
     }
   ]
 }
