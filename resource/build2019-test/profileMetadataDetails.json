@@ -16,7 +16,12 @@
                 "Style": "inputText",
                 "Class": "",
                 "Path": "detail.title",
-                "Value": ""
+                "Value": "",
+                "Options":{
+                    "Attribute":{
+                        "Required": true
+                    }
+                }                    
             },
             {
                 "DisplayTitle": "Company",
