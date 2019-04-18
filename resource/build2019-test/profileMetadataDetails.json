@@ -17,7 +17,8 @@
                 "Class": "",
                 "Path": "detail.title",
                 "Value": "",
-                "Regex": "^.{2,75}$"
+                "Regex": "^.{2,75}$",
+                "RegexValidationText": "Please ensure Job Title is between 2 and 75 characters in length."
             },
             {
                 "DisplayTitle": "Company",
@@ -26,7 +27,8 @@
                 "Class": "",
                 "Path": "detail.company",
                 "Value": "",
-                "Regex": "^.{2,75}$"
+                "Regex": "^.{2,75}$",
+                "RegexValidationText": "Please ensure Company is between 2 and 75 characters in length."
             },
             {
                 "DisplayTitle": "Biography",
