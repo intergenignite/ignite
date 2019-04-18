@@ -16,7 +16,8 @@
                 "Style": "inputText",
                 "Class": "",
                 "Path": "detail.title",
-                "Value": ""
+                "Value": "",
+                "Regex": "^.{2,75}$"
             },
             {
                 "DisplayTitle": "Company",
@@ -24,7 +25,8 @@
                 "Style": "inputText",
                 "Class": "",
                 "Path": "detail.company",
-                "Value": ""
+                "Value": "",
+                "Regex": "^.{2,75}$"
             },
             {
                 "DisplayTitle": "Biography",
