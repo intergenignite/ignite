@@ -17,7 +17,8 @@
                 "Class": "",
                 "Path": "detail.title",
                 "Value": "",
-                "Regex": "^.{2,75}$",
+                "Required": true,
+                "Regex": "^\\S{2}.{0,73}$",
                 "RegexValidationText": "Please ensure Job Title is between 2 and 75 characters in length."
             },
             {
@@ -27,7 +28,8 @@
                 "Class": "",
                 "Path": "detail.company",
                 "Value": "",
-                "Regex": "^.{2,75}$",
+                "Required": true,
+                "Regex": "^\\S{2}.{0,73}$",
                 "RegexValidationText": "Please ensure Company is between 2 and 75 characters in length."
             },
             {
@@ -45,7 +47,7 @@
                 "Class": "",
                 "Path": "social.linkedIn",
                 "Value": "",
-                "Regex": "https?://.*linkedin.com/in/.+"
+                "Regex": "http?://.*linkedin.com/in/.+"
             },
             {
                 "DisplayTitle": "Twitter",
