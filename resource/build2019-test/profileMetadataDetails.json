@@ -47,7 +47,7 @@
                 "Class": "",
                 "Path": "social.linkedIn",
                 "Value": "",
-                "Regex": "http?://.*linkedin.com/in/.+"
+                "Regex": "https?://.*linkedin.com/in/.+"
             },
             {
                 "DisplayTitle": "Twitter",
