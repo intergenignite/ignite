@@ -9,7 +9,8 @@
         "MobileApp": false,
         "MeetingScheduler": false,
         "MobileAppMessaging": false,
-        "LocationBasedMessaging": false
+        "LocationBasedMessaging": false,
+        "InPersonExperience": false
       },
       "VisibleAttendeeTypes": [],
       "Reporting": {
@@ -21,6 +22,31 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Session Catalog"
+        }
+      ]
+    },
+    {
+      "Identifiers": ["Remote Attendee"],
+      "Access": {
+        "SessionCatalog": true,
+        "MyIgnite": true,
+        "ScheduleBuilder": true,
+        "MobileApp": false,
+        "MeetingScheduler": false,
+        "MobileAppMessaging": false,
+        "LocationBasedMessaging": false,
+        "InPersonExperience": false
+      },
+      "VisibleAttendeeTypes": [],
+      "Reporting": {
+        "SessionCounts": false
+      },
+      "EvalAccess": [],
+      "SessionSetAccess": [
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Schedule Builder - Remote"
         }
       ]
     },
@@ -56,8 +82,10 @@
         "ScheduleBuilder": true,
         "MobileApp": true,
         "MeetingScheduler": false,
+        "SideMeetings": true,
         "MobileAppMessaging": true,
-        "LocationBasedMessaging": true
+        "LocationBasedMessaging": true,
+        "InPersonExperience": true
       },
       "VisibleAttendeeTypes": [
         "Comp Academic",
