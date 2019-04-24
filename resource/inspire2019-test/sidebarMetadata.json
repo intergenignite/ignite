@@ -42,7 +42,7 @@
         "title": "Resources",
         "layout": "link",
         "listings": "leafNodeLinks",
-        "subtype": "learningResourceLinks",
+        "subtype": "sessionLinks",
         "subMetadata": []
       }
     ]
