@@ -128,14 +128,19 @@
     }, {
         "Identifier": "RegularSessionEvaluations",
         "SessionTypes": [
-            "Breakout: 45 minute",
-            "Breakout: 75 minute",
-            "General Session",
-            "Microsoft Studio",
+            "Keynote",
+            "Breakout",
+            "Build Live",
+            "Technology Sneak Peeks",
             "Theater",
-            "Workshop",
-            "MVP PreDay",
-            "Pre-Day Training"
+            "Technology Keynote",
+            "Code Lab",
+            "Agenda",
+            "Pre-Record",
+            "Instructor Led Lab",
+            "Learn Lightning Talks",
+            "Tech Talk",
+            "Imagine Cup"
         ],
         "Mobile": true,
         "WebSite": true
