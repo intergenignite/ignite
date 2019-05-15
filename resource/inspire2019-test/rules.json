@@ -156,7 +156,7 @@
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - Attendee"
+                    "Identifier": "Schedule Builder"
                 },
                 {
                     "ApplicableFrom": null,
@@ -166,7 +166,7 @@
                 {
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "My Schedule - Attendee"
+                    "Identifier": "My Schedule"
                 }
             ]
         },{
@@ -255,7 +255,7 @@
             "SessionSetAccess": [{
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "Schedule Builder - Attendee"
+                    "Identifier": "Schedule Builder"
                 },
                 {
                     "ApplicableFrom": null,
@@ -265,7 +265,7 @@
                 {
                     "ApplicableFrom": null,
                     "ApplicableTo": null,
-                    "Identifier": "My Schedule - Attendee"
+                    "Identifier": "My Schedule"
                 }
             ]
         },{
