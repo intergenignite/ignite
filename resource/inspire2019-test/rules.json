@@ -1,8 +1,32 @@
 {
   "UserAccess": [
     {
+      "Identifiers": ["Anonymous"],
+      "Access": {
+        "SessionCatalog": true,
+        "MyIgnite": false,
+        "ScheduleBuilder": false,
+        "MobileApp": false,
+        "MeetingScheduler": false,
+        "MobileAppMessaging": false,
+        "LocationBasedMessaging": false,
+        "InPersonExperience": false
+      },
+      "VisibleAttendeeTypes": [],
+      "Reporting": {
+        "SessionCounts": false
+      },
+      "EvalAccess": [],
+      "SessionSetAccess": [
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Session Catalog"
+        }
+      ]
+    },
+    {
       "Identifiers": [
-        "Anonymous", 
         "Wristband Day Pass (internal use)", 
         "Substituted Attendee Partner", 
         "Substituted Attendee MS", 
@@ -58,7 +82,7 @@
         "MeetingScheduler": false,
         "MobileAppMessaging": false,
         "LocationBasedMessaging": false,
-        "InPersonExperience": false
+        "InPersonExperience": true
       },
       "VisibleAttendeeTypes": [],
       "Reporting": {
