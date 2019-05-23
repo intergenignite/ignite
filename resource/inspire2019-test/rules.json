@@ -73,8 +73,7 @@
         "Press/Analyst",
         "Speaker External",
         "Speaker External Corenote",
-        "Speaker External Day Pass",
-        "LearningPaths"
+        "Speaker External Day Pass"
       ],
       "Access": {
         "SessionCatalog": true,
@@ -101,6 +100,31 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Schedule Builder"
+        }
+      ]
+    },
+    {
+      "Identifiers": ["LearningPaths"],
+      "Access": {
+        "SessionCatalog": true,
+        "MyIgnite": false,
+        "ScheduleBuilder": false,
+        "MobileApp": false,
+        "MeetingScheduler": false,
+        "MobileAppMessaging": false,
+        "LocationBasedMessaging": false,
+        "InPersonExperience": false
+      },
+      "VisibleAttendeeTypes": [],
+      "Reporting": {
+        "SessionCounts": false
+      },
+      "EvalAccess": [],
+      "SessionSetAccess": [
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Learning Paths"
         }
       ]
     }
