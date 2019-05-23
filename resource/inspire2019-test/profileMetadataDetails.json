@@ -62,6 +62,15 @@
         "OptionsPath": "customerSegment"
       },
       {
+        "DisplayTitle": "Job Category",
+        "FieldName": "JobCategory",
+        "Style": "nestedSelect",
+        "Class": "",
+        "Path": "detail.jobCategory",
+        "Value": "",
+        "OptionsPath": "jobCategory"
+      },
+      {
         "DisplayTitle": "Business Focus",
         "FieldName": "BusinessFocus",
         "Style": "nestedSelect",
