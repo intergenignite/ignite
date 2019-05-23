@@ -11,8 +11,8 @@
       "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder", "My Schedule"]
     },
     {
-      "HubbId": 2623,
-      "SessionTypeName": "Lab",
+      "HubbId": 2626,
+      "SessionTypeName": "Build Live",
       "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder", "My Schedule"]
     },
     {
@@ -23,6 +23,46 @@
     {
       "HubbId": 2625,
       "SessionTypeName": "Technology Sneak Peeks",
+      "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2623,
+      "SessionTypeName": "Technology Keynote",
+      "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2633,
+      "SessionTypeName": "Code Lab",
+      "SessionSets": ["Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2627,
+      "SessionTypeName": "Agenda",
+      "SessionSets": ["My Schedule"]
+    },
+    {
+      "HubbId": 2637,
+      "SessionTypeName": "Pre-Record",
+      "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder"]
+    },
+    {
+      "HubbId": 2639,
+      "SessionTypeName": "Instructor Led Lab",
+      "SessionSets": ["Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2634,
+      "SessionTypeName": "Learn Lightning Talks",
+      "SessionSets": ["Session Catalog", "Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2635,
+      "SessionTypeName": "Tech Talk",
+      "SessionSets": ["Session Catalog", "Schedule Builder", "My Schedule"]
+    },
+    {
+      "HubbId": 2640,
+      "SessionTypeName": "Imagine Cup",
       "SessionSets": ["Session Catalog", "Schedule Builder - Remote", "Schedule Builder", "My Schedule"]
     }
   ]
