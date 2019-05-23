@@ -27,11 +27,12 @@
     },
     {
       "Identifiers": [
-        "Wristband Day Pass (internal use)", 
-        "Substituted Attendee Partner", 
-        "Substituted Attendee MS", 
+        "Wristband Day Pass (internal use)",
+        "Substituted Attendee Partner",
+        "Substituted Attendee MS",
         "Non-Attending Manager",
-        "Ready Attendee"],
+        "Ready Attendee"
+      ],
       "Access": {
         "SessionCatalog": true,
         "MyIgnite": false,
@@ -72,7 +73,8 @@
         "Press/Analyst",
         "Speaker External",
         "Speaker External Corenote",
-        "Speaker External Day Pass"
+        "Speaker External Day Pass",
+        "LearningPaths"
       ],
       "Access": {
         "SessionCatalog": true,
