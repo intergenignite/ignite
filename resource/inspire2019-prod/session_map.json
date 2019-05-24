@@ -113,8 +113,8 @@
     },
     {
       "HubbId": 2633,
-      "SessionTypeName": "Learning Paths",
-      "SessionSets": ["LearningPaths"]
+      "SessionTypeName": "Learning Path",
+      "SessionSets": ["Learning Path"]
     },
     {
       "HubbId": 2627,

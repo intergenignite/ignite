@@ -104,7 +104,7 @@
       ]
     },
     {
-      "Identifiers": ["LearningPaths"],
+      "Identifiers": ["Learning Paths"],
       "Access": {
         "SessionCatalog": true,
         "MyIgnite": false,
