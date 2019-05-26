@@ -55,7 +55,7 @@
       {
         "DisplayTitle": "Customer Segment",
         "FieldName": "CustomerSegment",
-        "Style": "multiSelect",
+        "Style": "selectGroup",
         "Class": "",
         "Path": "details.customerSegment",
         "Value": "",
