@@ -57,7 +57,7 @@
         "FieldName": "CustomerSegment",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "details.customerSegment",
+        "Path": "detail.customerSegment",
         "Value": "",
         "OptionsPath": "customerSegment"
       },
