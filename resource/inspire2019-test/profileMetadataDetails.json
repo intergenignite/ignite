@@ -93,7 +93,7 @@
         "FieldName": "SolutionArea",
         "Style": "nestedSelect",
         "Class": "",
-        "Path": "detail.solutionArea",
+        "Path": "detail.priorityContentAreas",
         "Value": "",
         "OptionsPath": "solutionArea"
       }
