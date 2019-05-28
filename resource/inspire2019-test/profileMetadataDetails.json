@@ -53,15 +53,6 @@
         "Regex": "@([A-Za-z0-9_]+)$"
       },
       {
-        "DisplayTitle": "Customer Segment",
-        "FieldName": "CustomerSegment",
-        "Style": "multiSelect",
-        "Class": "",
-        "Path": "detail.customerSegment",
-        "Value": "",
-        "OptionsPath": "customerSegment"
-      },
-      {
         "DisplayTitle": "Job Category",
         "FieldName": "JobCategory",
         "Style": "selectGroup",
@@ -69,6 +60,15 @@
         "Path": "detail.jobCategory",
         "Value": "",
         "OptionsPath": "jobCategory"
+      },
+      {
+        "DisplayTitle": "Customer Segment",
+        "FieldName": "CustomerSegment",
+        "Style": "multiSelect",
+        "Class": "",
+        "Path": "detail.customerSegment",
+        "Value": "",
+        "OptionsPath": "customerSegment"
       },
       {
         "DisplayTitle": "Business Focus",
@@ -95,7 +95,7 @@
         "Class": "",
         "Path": "detail.priorityContentAreas",
         "Value": "",
-        "OptionsPath": "solutionArea"
+        "OptionsPath": "priorityContentAreas"
       }
     ]
   }
