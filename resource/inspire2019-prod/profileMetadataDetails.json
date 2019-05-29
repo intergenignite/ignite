@@ -98,15 +98,6 @@
         "OptionsPath": "priorityContentAreas"
       },
       {
-        "DisplayTitle": "Solution Area",
-        "FieldName": "SolutionArea",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.solutionArea",
-        "Value": "",
-        "OptionsPath": "solutionArea"
-      },
-      {
         "HeadingTitle": "Settings",
         "ItemsToShow": [
           {
