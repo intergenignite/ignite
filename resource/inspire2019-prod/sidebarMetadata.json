@@ -53,6 +53,20 @@
         "subMetadata": []
       },
       {
+        "title": "Content area",
+        "layout": "",
+        "listings": "list-item",
+        "subtype": "contentArea",
+        "subMetadata": []
+      },
+      {
+        "title": "Products",
+        "layout": "link",
+        "listings": "leafNodeFilters",
+        "subtype": "product",
+        "subMetadata": []
+      },
+      {
         "title": "Resources",
         "layout": "link",
         "listings": "leafNodeLinks",
