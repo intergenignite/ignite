@@ -140,7 +140,7 @@
               },
               {
                 "DisplayTitle": "Display the sessions on my schedule on my profile page",
-                "FieldName": "CanShareSession",
+                "FieldName": "CanShareSessions",
                 "Style": "checkbox",
                 "Class": "",
                 "Path": "optins.canShareSessions",
@@ -163,7 +163,7 @@
                 "Value": ""
               },
               {
-                "DisplayTitle": "Send to calendar",
+                "DisplayTitle": "Please update title for 'Send to Calendar'",
                 "FieldName": "CanSendToCalendar",
                 "Style": "checkbox",
                 "Class": "",
