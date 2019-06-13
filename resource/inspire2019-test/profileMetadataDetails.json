@@ -67,15 +67,6 @@
     "HeadingTitle": "Company Profile",
     "ItemsToShow": [
       {
-        "DisplayTitle": "Solution Area",
-        "FieldName": "SolutionArea",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.priorityContentAreas",
-        "Value": "",
-        "OptionsPath": "priorityContentAreas"
-      },
-      {
         "DisplayTitle": "Job Category",
         "FieldName": "JobCategory",
         "Style": "selectGroup",
@@ -110,6 +101,15 @@
         "Path": "detail.industryFocus",
         "Value": "",
         "OptionsPath": "industryFocus"
+      },
+      {
+        "DisplayTitle": "Solution Area",
+        "FieldName": "SolutionArea",
+        "Style": "nestedSelect",
+        "Class": "",
+        "Path": "detail.priorityContentAreas",
+        "Value": "",
+        "OptionsPath": "priorityContentAreas"
       }
     ]
   },
