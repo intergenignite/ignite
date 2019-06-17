@@ -116,9 +116,9 @@
         "FieldName": "LineOfBusiness",
         "Style": "Options",
         "Class": "",
-        "Path": "detail.jobFunction",
+        "Path": "detail.lineOfBusiness",
         "Value": "",
-        "OptionsPath": "jobFunction"
+        "OptionsPath": "lineOfBusiness"
       }
     ]
   },
