@@ -226,7 +226,7 @@
       {
         "title": "Country",
         "layout": "link",
-        "listings": "link",
+        "listings": "filters",
         "subtype": "country",
         "subMetadata": []
       },
