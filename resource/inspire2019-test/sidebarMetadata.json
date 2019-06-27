@@ -227,7 +227,7 @@
         "title": "Country",
         "layout": "link",
         "listings": "filters",
-        "subtype": "country",
+        "subtype": "areaCountry",
         "subMetadata": []
       },
       {
