@@ -179,7 +179,7 @@
             "Value": ""
           },
           {
-            "DisplayTitle": "Send MyInspire schedule items to my personal calendar",
+            "DisplayTitle": "Do not send MyInspire schedule items to my personal calendar. For your convenience, you are opted in by default.",
             "FieldName": "CanSendToCalendar",
             "Style": "checkbox",
             "Class": "",
