@@ -1,67 +1,58 @@
 [{
     "sidebarType": "sessions",
-    "metadata": [{
-            "title": "Session Links",
+    "metadata": [
+      {
+        "title": "Session code",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "sessionCode",
+        "subMetadata": []
+      },
+      {
+        "title": "Session type",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "sessionType",
+        "subMetadata": [
+          {
+            "title": "",
             "layout": "no-link",
-            "listings": "",
-            "subtype": "",
-            "subMetadata": [{
-                "title": "View Slide Deck",
-                "layout": "link",
-                "listings": "link",
-                "subtype": "slideDeck",
-                "subMetadata": []
-            },{
-                "title": "Download Video",
-                "layout": "link",
-                "listings": "link",
-                "subtype": "downloadVideoLink",
-                "subMetadata": []
-            }]
-        },
-        {
-            "title": "Session Code",
-            "layout": "no-link",
-            "listings": "",
-            "subtype": "sessionCode",
+            "listings": "time",
+            "subtype": "durationInMinutes",
             "subMetadata": []
-        },
-        {
-            "title": "Session Type",
-            "layout": "link",
-            "listings": "filters",
-            "subtype": "sessionType",
-            "subMetadata": [{
-                "title": "",
-                "layout": "no-link",
-                "listings": "time",
-                "subtype": "durationInMinutes",
-                "subMetadata": []
-            }]
-        },
-        {
-            "title": "Level",
-            "layout": "link",
-            "listings": "filters",
-           "subtype": "level",
-            "subMetadata": []
-        },
-        {
-            "title": "Solution",
-            "layout": "link",
-            "listings": "leafNodeFilters",
-            "subtype": "solutionArea",
-            "subMetadata": []
-        },
-        {
-            "title": "Product",
-            "layout": "link",
-            "listings": "leafNodeFilters",
-            "subtype": "products",
-            "subMetadata": []
-        },
+          }
+        ]
+      },
+      {
+        "title": "Level",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "level",
+        "subMetadata": []
+      },
+      {
+        "title": "Target Audience",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "targetAudience",
+        "subMetadata": []
+      },
+      {
+        "title": "Business Outcome",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "businessOutcome",
+        "subMetadata": []
+      },
+      {
+        "title": "Business Outcome 2",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "businessOutcomeTwo",
+        "subMetadata": []
+      }
     ]
-},
+  },
 {
     "sidebarType": "sponsors",
     "metadata": [{
