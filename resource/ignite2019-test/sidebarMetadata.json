@@ -32,51 +32,25 @@
         "subMetadata": []
       },
       {
-        "title": "Content area",
-        "layout": "",
-        "listings": "list-item",
-        "subtype": "contentArea",
-        "subMetadata": []
-      },
-      {
-        "title": "Products",
-        "layout": "link",
-        "listings": "leafNodeFilters",
-        "subtype": "product",
-        "subMetadata": []
-      },
-      {
-        "title": "Resources",
-        "layout": "link",
-        "listings": "leafNodeLinks",
-        "subtype": "sessionLinks",
-        "subMetadata": []
-      },
-      {
-        "title": "Session Links",
+        "title": "Target Audience",
         "layout": "no-link",
         "listings": "",
-        "subtype": "",
-        "subMetadata": [
-          {
-            "title": "Trailer",
-            "layout": "link",
-            "listings": "link",
-            "subtype": "sessionTrailer",
-            "subMetadata": [
-              
-            ]
-          },
-          {
-            "title": "View Slide Deck",
-            "layout": "link",
-            "listings": "link",
-            "subtype": "slideDeck",
-            "subMetadata": [
-              
-            ]
-          }
-        ]
+        "subtype": "targetAudience",
+        "subMetadata": []
+      },
+      {
+        "title": "Business Outcome",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "businessOutcome",
+        "subMetadata": []
+      },
+      {
+        "title": "Business Outcome 2",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "businessOutcomeTwo",
+        "subMetadata": []
       }
     ]
   },
