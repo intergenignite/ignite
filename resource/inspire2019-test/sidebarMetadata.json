@@ -41,7 +41,7 @@
       {
         "title": "Business Outcome",
         "layout": "link",
-        "listings": "leafNodeFilters",
+        "listings": "leafNodeLinks",
         "subtype": "businessOutcome",
         "subMetadata": []
       },
