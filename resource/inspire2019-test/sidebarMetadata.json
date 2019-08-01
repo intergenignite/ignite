@@ -32,24 +32,24 @@
         "subMetadata": []
       },
       {
-        "title": "Content area",
+        "title": "Target Audience",
         "layout": "",
         "listings": "list-item",
-        "subtype": "contentArea",
+        "subtype": "targetAudience",
         "subMetadata": []
       },
       {
-        "title": "Products",
+        "title": "Business Outcome",
         "layout": "link",
         "listings": "leafNodeFilters",
-        "subtype": "product",
+        "subtype": "businessOutcome",
         "subMetadata": []
       },
       {
-        "title": "Resources",
+        "title": "Business Outcome 2",
         "layout": "link",
         "listings": "leafNodeLinks",
-        "subtype": "sessionLinks",
+        "subtype": "businessOutcomeTwo",
         "subMetadata": []
       }
     ]
