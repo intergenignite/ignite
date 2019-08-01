@@ -32,24 +32,24 @@
         "subMetadata": []
       },
       {
-        "title": "Target Audience",
-        "layout": "no-link",
-        "listings": "",
-        "subtype": "targetAudience",
+        "title": "Content area",
+        "layout": "",
+        "listings": "list-item",
+        "subtype": "contentArea",
         "subMetadata": []
       },
       {
-        "title": "Business Outcome",
-        "layout": "no-link",
-        "listings": "",
-        "subtype": "businessOutcome",
+        "title": "Products",
+        "layout": "link",
+        "listings": "leafNodeFilters",
+        "subtype": "product",
         "subMetadata": []
       },
       {
-        "title": "Business Outcome 2",
-        "layout": "no-link",
-        "listings": "",
-        "subtype": "businessOutcomeTwo",
+        "title": "Resources",
+        "layout": "link",
+        "listings": "leafNodeLinks",
+        "subtype": "sessionLinks",
         "subMetadata": []
       }
     ]
