@@ -33,22 +33,22 @@
       },
       {
         "title": "Target Audience",
-        "layout": "",
-        "listings": "list-item",
+        "layout": "no-link",
+        "listings": "",
         "subtype": "targetAudience",
         "subMetadata": []
       },
       {
         "title": "Business Outcome",
-        "layout": "link",
-        "listings": "leafNodeLinks",
+        "layout": "no-link",
+        "listings": "",
         "subtype": "businessOutcome",
         "subMetadata": []
       },
       {
         "title": "Business Outcome 2",
-        "layout": "link",
-        "listings": "leafNodeLinks",
+        "layout": "no-link",
+        "listings": "",
         "subtype": "businessOutcomeTwo",
         "subMetadata": []
       }
