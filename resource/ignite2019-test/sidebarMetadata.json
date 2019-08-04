@@ -41,7 +41,7 @@
       {
         "title": "translate.filters.products",
         "layout": "link",
-        "listings": "",
+        "listings": "leafNodeFilters",
         "subtype": "products",
         "subMetadata": []
       },
