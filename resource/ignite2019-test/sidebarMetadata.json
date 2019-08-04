@@ -3,14 +3,14 @@
     "sidebarType": "sessions",
     "metadata": [
       {
-        "title": "Session code",
+        "title": "translate.filters.session-code",
         "layout": "no-link",
         "listings": "",
         "subtype": "sessionCode",
         "subMetadata": []
       },
       {
-        "title": "Session type",
+        "title": "translate.filters.session-type",
         "layout": "link",
         "listings": "filters",
         "subtype": "sessionType",
@@ -25,31 +25,38 @@
         ]
       },
       {
-        "title": "Level",
-        "layout": "no-link",
+        "title": "translate.filters.learning-path",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "learningPath",
+        "subMetadata": []
+      },
+      {
+        "title": "translate.filters.level",
+        "layout": "link",
         "listings": "",
         "subtype": "level",
         "subMetadata": []
       },
       {
-        "title": "Target Audience",
-        "layout": "no-link",
+        "title": "translate.filters.products",
+        "layout": "link",
         "listings": "",
-        "subtype": "targetAudience",
+        "subtype": "products",
         "subMetadata": []
       },
       {
-        "title": "Business Outcome",
-        "layout": "no-link",
+        "title": "translate.filters.format",
+        "layout": "link",
         "listings": "",
-        "subtype": "businessOutcome",
+        "subtype": "format",
         "subMetadata": []
       },
       {
-        "title": "Business Outcome 2",
-        "layout": "no-link",
+        "title": "translate.filters.topic",
+        "layout": "link",
         "listings": "",
-        "subtype": "businessOutcomeTwo",
+        "subtype": "topic",
         "subMetadata": []
       }
     ]
