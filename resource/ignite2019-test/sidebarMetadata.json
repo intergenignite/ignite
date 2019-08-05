@@ -42,7 +42,7 @@
         "title": "translate.filters.products",
         "layout": "link",
         "listings": "link",
-        "subtype": "product",
+        "subtype": "products",
         "subMetadata": []
       },
       {
