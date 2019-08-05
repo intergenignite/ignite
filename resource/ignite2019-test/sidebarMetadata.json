@@ -48,14 +48,14 @@
       {
         "title": "translate.filters.format",
         "layout": "link",
-        "listings": "",
+        "listings": "filters",
         "subtype": "format",
         "subMetadata": []
       },
       {
         "title": "translate.filters.topic",
         "layout": "link",
-        "listings": "",
+        "listings": "filters",
         "subtype": "topic",
         "subMetadata": []
       }
