@@ -27,21 +27,21 @@
       {
         "title": "translate.filters.learning-path",
         "layout": "link",
-        "listings": "leafNodeLinks",
+        "listings": "link",
         "subtype": "learningPath",
         "subMetadata": []
       },
       {
         "title": "translate.filters.level",
         "layout": "link",
-        "listings": "",
+        "listings": "filters",
         "subtype": "level",
         "subMetadata": []
       },
       {
         "title": "translate.filters.product",
         "layout": "link",
-        "listings": "filters",
+        "listings": "link",
         "subtype": "products",
         "subMetadata": []
       },
