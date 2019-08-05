@@ -39,7 +39,7 @@
         "subMetadata": []
       },
       {
-        "title": "translate.filters.products",
+        "title": "translate.filters.product",
         "layout": "link",
         "listings": "filters",
         "subtype": "products",
