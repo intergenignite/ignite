@@ -72,7 +72,7 @@
         "subMetadata": []
       },
       {
-        "title": "translate.profile.label.linkedin",
+        "title": "translate.profile.label.linked-in",
         "layout": "link",
         "listings": "link",
         "subtype": "linkedInUrl",
