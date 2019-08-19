@@ -31,15 +31,7 @@
       ]
     },
     {
-      "Identifiers": [
-        "Pre-Registered Attendee",
-        "Non-Attending Manager",
-        "Substituted Attendee",
-        "Substituted Non Attendee",
-        "Attendee",
-        "Attendee Microsoft",
-        "Day Pass Attendee"
-      ],
+      "Identifiers": ["Attendee", "Attendee Microsoft", "Day Pass Attendee"],
       "Access": {
         "SessionCatalog": true,
         "MyIgnite": true,
