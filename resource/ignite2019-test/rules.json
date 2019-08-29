@@ -22,11 +22,6 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Session Catalog 2019"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog 2018"
         }
       ]
     },
@@ -37,7 +32,7 @@
       ],
       "Access": {
         "SessionCatalog": true,
-        "MyIgnite": true,
+        "MyIgnite": false,
         "ScheduleBuilder": false,
         "MobileApp": false,
         "MeetingScheduler": false,
@@ -57,12 +52,7 @@
         {
           "ApplicableFrom": null,
           "ApplicableTo": null,
-          "Identifier": "Session Scheduler"
-        },
-        {
-          "ApplicableFrom": null,
-          "ApplicableTo": null,
-          "Identifier": "Session Catalog 2018"
+          "Identifier": "Session Catalog 2019"
         }
       ]
     },
@@ -122,7 +112,7 @@
         {
           "ApplicableFrom": null,
           "ApplicableTo": null,
-          "Identifier": "Session Catalog 2018"
+          "Identifier": "Session Catalog 2019"
         }
       ]
     }
