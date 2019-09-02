@@ -3,52 +3,61 @@
     {
       "SessionTypeName": "Breakout: 45 Minute",
       "HubbId": 2976,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Module: 45 Minute",
       "HubbId": 2977,
-      "SessionSets": ["Session Catalog 2019", "Session Scheduler"]
+      "SessionSets": [
+        "Session Catalog 2019",
+        "Session Scheduler",
+        "My Schedule"
+      ]
     },
     {
       "SessionTypeName": "Panel: 30 Minute",
       "HubbId": 2978,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "The Opener",
       "HubbId": 2979,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Theater: 15 Minute",
       "HubbId": 2981,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Workshop: 90 Minute",
       "HubbId": 2982,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Workshop: 45 Minute",
       "HubbId": 2983,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Unconference: 15 Minute",
       "HubbId": 3226,
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "HubbId": 3227,
       "Name": "Unconference: 45 Minute",
-      "SessionSets": ["Session Scheduler"]
+      "SessionSets": ["Session Scheduler", "My Schedule"]
     },
     {
       "SessionTypeName": "Learning Path",
       "HubbId": 2967,
       "SessionSets": ["Session Catalog 2019", "Session Scheduler"]
+    },
+    {
+      "HubbId": 2980,
+      "Name": "Staffing Place Holder",
+      "SessionSets": []
     }
   ]
 }
