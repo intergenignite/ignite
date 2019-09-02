@@ -22,6 +22,11 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Session Catalog 2019"
+        },
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Session Catalog 2018"
         }
       ]
     },
@@ -53,6 +58,11 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Session Catalog 2019"
+        },
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Session Catalog 2018"
         }
       ]
     },
@@ -113,6 +123,11 @@
           "ApplicableFrom": null,
           "ApplicableTo": null,
           "Identifier": "Session Catalog 2019"
+        },
+        {
+          "ApplicableFrom": null,
+          "ApplicableTo": null,
+          "Identifier": "Session Catalog 2018"
         }
       ]
     }
