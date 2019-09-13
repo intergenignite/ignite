@@ -58,6 +58,12 @@
         "listings": "link",
         "subtype": "sessionTrailer",
         "subMetadata": []
+      },      {
+        "title": "Tech Community",
+        "layout": "link",
+        "listings": "",
+        "subtype": "techCommunityUrl",
+        "subMetadata": []
       }
     ]
   },
