@@ -53,17 +53,26 @@
         "subMetadata": []
       },
       {
-        "title": "Trailer",
-        "layout": "link",
-        "listings": "link",
-        "subtype": "sessionTrailer",
-        "subMetadata": []
-      },      {
-        "title": "Tech Community",
-        "layout": "link",
+        "title": "Session Links",
+        "layout": "no-link",
         "listings": "",
-        "subtype": "techCommunityUrl",
-        "subMetadata": []
+        "subtype": "",
+        "subMetadata": [
+          {
+            "title": "Trailer",
+            "layout": "link",
+            "listings": "link",
+            "subtype": "sessionTrailer",
+            "subMetadata": []
+          },
+          {
+            "title": "View Slide Deck",
+            "layout": "link",
+            "listings": "link",
+            "subtype": "slideDeck",
+            "subMetadata": []
+          }
+        ]
       }
     ]
   },
@@ -232,7 +241,7 @@
       {
         "title": "Country",
         "layout": "link",
-        "listings": "leafNodeFilters"
+        "listings": "leafNodeFilters",
         "subtype": "areaCountry",
         "subMetadata": []
       },
