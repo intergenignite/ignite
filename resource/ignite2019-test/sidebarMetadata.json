@@ -62,7 +62,7 @@
       {
         "title": "translate.filters.tech-community",
         "layout": "link",
-        "listings": "",
+        "listings": "filters",
         "subtype": "techCommunityUrl",
         "subMetadata": []
       }
