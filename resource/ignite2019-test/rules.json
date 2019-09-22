@@ -105,6 +105,7 @@
         "Crew",
         "Media",
         "Microsoft Customer Meeting Participant",
+        "OpenHackAttendee",
         "Speaker/Staff Microsoft",
         "Speaker/Staff External",
         "Speaker/Staff Day Pass"
@@ -146,7 +147,21 @@
         "InPersonExperience": true
       },
       "VisibleAttendeeTypes": [
-        "OpenHackAttendee"
+        "Analyst",
+        "Attendee",
+        "Attendee - Sponsor/Exhibitor",
+        "Attendee Microsoft",
+        "Booth Staff Sponsor/Exhibitor",
+        "Booth Staff Microsoft",
+        "Booth Staff Other",
+        "Communications Staff",
+        "Crew",
+        "Media",
+        "Microsoft Customer Meeting Participant",
+        "OpenHackAttendee",
+        "Speaker/Staff Microsoft",
+        "Speaker/Staff External",
+        "Speaker/Staff Day Pass"
       ],
       "Reporting": {
         "SessionCounts": true
