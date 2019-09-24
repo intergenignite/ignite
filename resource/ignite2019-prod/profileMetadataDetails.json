@@ -19,6 +19,15 @@
         "Value": ""
       },
       {
+        "DisplayTitle": "translate.profile.label.job-role",
+        "FieldName": "JobRole",
+        "Style": "selectGroup",
+        "Class": "",
+        "Path": "detail.jobRole",
+        "Value": "",
+        "OptionsPath": "jobRole"
+      },
+      {
         "DisplayTitle": "translate.profile.label.company",
         "FieldName": "Company",
         "Style": "inputText",
@@ -73,61 +82,34 @@
     ]
   },
   {
-    "HeadingTitle": "translate.profile.label.company-profile",
+    "HeadingTitle": "translate.profile.label.recommendations",
     "ItemsToShow": [
       {
-        "DisplayTitle": "translate.profile.label.job-category",
-        "FieldName": "JobCategory",
-        "Style": "selectGroup",
-        "Class": "",
-        "Path": "detail.jobCategory",
-        "Value": "",
-        "OptionsPath": "jobCategory"
-      },
-      {
-        "DisplayTitle": "translate.profile.label.customer-segment",
-        "FieldName": "CustomerSegment",
+        "DisplayTitle": "translate.profile.label.industry",
+        "FieldName": "industry",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.customerSegment",
+        "Path": "detail.industry",
         "Value": "",
-        "OptionsPath": "customerSegment"
+        "OptionsPath": "industry"
       },
       {
-        "DisplayTitle": "translate.profile.label.business-focus",
-        "FieldName": "BusinessFocus",
-        "Style": "nestedSelect",
+        "DisplayTitle": "translate.profile.label.topics-of-interest",
+        "FieldName": "topicsOfInterest",
+        "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.businessFocus",
+        "Path": "detail.topicsOfInterest",
         "Value": "",
-        "OptionsPath": "businessFocus"
+        "OptionsPath": "topicsOfInterest"
       },
       {
-        "DisplayTitle": "translate.profile.label.industry-focus",
-        "FieldName": "IndustryFocus",
-        "Style": "nestedSelect",
+        "DisplayTitle": "translate.profile.label.products-of-interest",
+        "FieldName": "productsOfInterest",
+        "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.industryFocus",
+        "Path": "detail.productsOfInterest",
         "Value": "",
-        "OptionsPath": "industryFocus"
-      },
-      {
-        "DisplayTitle": "translate.profile.label.solution-area",
-        "FieldName": "SolutionArea",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.priorityContentAreas",
-        "Value": "",
-        "OptionsPath": "priorityContentAreas"
-      },
-      {
-        "DisplayTitle": "translate.profile.label.line-of-business",
-        "FieldName": "LineOfBusiness",
-        "Style": "Options",
-        "Class": "",
-        "Path": "detail.lineOfBusiness",
-        "Value": "",
-        "OptionsPath": "lineOfBusiness"
+        "OptionsPath": "productsOfInterest"
       }
     ]
   },

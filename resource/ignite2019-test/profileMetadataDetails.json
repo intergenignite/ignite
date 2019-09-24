@@ -19,13 +19,13 @@
         "Value": ""
       },
       {
-        "DisplayTitle": "translate.profile.label.job-category",
-        "FieldName": "JobCategory",
+        "DisplayTitle": "translate.profile.label.job-role",
+        "FieldName": "JobRole",
         "Style": "selectGroup",
         "Class": "",
-        "Path": "detail.jobCategory",
+        "Path": "detail.jobRole",
         "Value": "",
-        "OptionsPath": "jobCategory"
+        "OptionsPath": "jobRole"
       },
       {
         "DisplayTitle": "translate.profile.label.company",
