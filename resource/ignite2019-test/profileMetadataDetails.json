@@ -24,7 +24,7 @@
         "Style": "selectGroup",
         "Class": "",
         "Path": "detail.jobRole",
-        "Value": "",
+        "Value": "jobRole",
         "OptionsPath": "jobRole"
       },
       {
