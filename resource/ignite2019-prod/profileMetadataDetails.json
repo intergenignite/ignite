@@ -21,7 +21,7 @@
       {
         "DisplayTitle": "translate.profile.label.job-role",
         "FieldName": "JobRole",
-        "Style": "selectGroup",
+        "Style": "Options",
         "Class": "",
         "Path": "detail.jobRole",
         "Value": "jobRole",
@@ -87,7 +87,7 @@
       {
         "DisplayTitle": "translate.profile.label.industry",
         "FieldName": "industry",
-        "Style": "multiSelect",
+        "Style": "Options",
         "Class": "",
         "Path": "detail.industry",
         "Value": "",
@@ -105,7 +105,7 @@
       {
         "DisplayTitle": "translate.profile.label.products-of-interest",
         "FieldName": "productsOfInterest",
-        "Style": "multiSelect",
+        "Style": "nestedSelect",
         "Class": "",
         "Path": "detail.productsOfInterest",
         "Value": "",
