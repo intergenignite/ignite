@@ -89,7 +89,7 @@
         ]
       },
       {
-        "title": "Resources",
+        "title": "translate.session.labels.resources",
         "layout": "link",
         "listings": "leafNodeLinks",
         "subtype": "sessionLinks",
