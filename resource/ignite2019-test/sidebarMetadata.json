@@ -69,7 +69,7 @@
       {
         "title": "translate.session.labels.links",
         "layout": "no-link",
-        "listings": "leafNodeLinks",
+        "listings": "",
         "subtype": "sessionLinks",
         "subMetadata": [
           {
