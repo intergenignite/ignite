@@ -60,7 +60,7 @@
         "subMetadata": []
       },
       {
-        "title": "translate.filters.tech-community",
+        "title": "translate.discussion.labels.related",
         "layout": "link",
         "listings": "link",
         "subtype": "techCommunityUrl",
