@@ -70,7 +70,7 @@
         "title": "translate.session.labels.links",
         "layout": "no-link",
         "listings": "",
-        "subtype": "sessionLinks",
+        "subtype": "",
         "subMetadata": [
           {
             "title": "View Slide Deck",
