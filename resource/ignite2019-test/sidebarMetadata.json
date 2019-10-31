@@ -92,7 +92,7 @@
         "title": "Resources",
         "layout": "link",
         "listings": "leafNodeLinks",
-        "subtype": "",
+        "subtype": "sessionLink",
         "subMetadata": []
       }
     ]
