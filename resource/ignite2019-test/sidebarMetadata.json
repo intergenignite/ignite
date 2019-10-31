@@ -67,10 +67,10 @@
         "subMetadata": []
       },
       {
-        "title": "Session Links",
+        "title": "translate.session.labels.links",
         "layout": "no-link",
-        "listings": "",
-        "subtype": "",
+        "listings": "leafNodeLinks",
+        "subtype": "sessionLinks",
         "subMetadata": [
           {
             "title": "View Slide Deck",
