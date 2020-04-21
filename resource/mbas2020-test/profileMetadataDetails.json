@@ -11,12 +11,31 @@
         "Value": ""
       },
       {
+        "DisplayTitle": "First Name",
+        "FieldName": "FirstName",
+        "Style": "readonly",
+        "Class": "",
+        "Path": "detail.firstName",
+        "Value": ""
+      },
+      {
+        "DisplayTitle": "Last Name",
+        "FieldName": "LastName",
+        "Style": "readonly",
+        "Class": "",
+        "Path": "detail.lastName",
+        "Value": ""
+      },
+      {
         "DisplayTitle": "Job Title",
         "FieldName": "Title",
         "Style": "inputText",
         "Class": "",
         "Path": "detail.title",
-        "Value": ""
+        "Value": "",
+        "OptionalAttributes": {
+          "MinimumLength": 2
+        }
       },
       {
         "DisplayTitle": "Company",
@@ -24,6 +43,17 @@
         "Style": "inputText",
         "Class": "",
         "Path": "detail.company",
+        "Value": "",
+        "OptionalAttributes": {
+          "MinimumLength": 2
+        }
+      },
+      {
+        "DisplayTitle": "Country of Business",
+        "FieldName": "CountryOfBusiness",
+        "Style": "inputText",
+        "Class": "",
+        "Path": "detail.businessCountry",
         "Value": ""
       },
       {
@@ -69,56 +99,38 @@
       {
         "DisplayTitle": "Job Category",
         "FieldName": "JobCategory",
-        "Style": "selectGroup",
-        "Class": "",
-        "Path": "detail.jobCategory",
-        "Value": "",
-        "OptionsPath": "jobCategory"
-      },
-      {
-        "DisplayTitle": "Customer Segment",
-        "FieldName": "CustomerSegment",
-        "Style": "multiSelect",
-        "Class": "",
-        "Path": "detail.customerSegment",
-        "Value": "",
-        "OptionsPath": "customerSegment"
-      },
-      {
-        "DisplayTitle": "Business Focus",
-        "FieldName": "BusinessFocus",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.businessFocus",
-        "Value": "",
-        "OptionsPath": "businessFocus"
-      },
-      {
-        "DisplayTitle": "Industry Focus",
-        "FieldName": "IndustryFocus",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.industryFocus",
-        "Value": "",
-        "OptionsPath": "industryFocus"
-      },
-      {
-        "DisplayTitle": "Solution Area",
-        "FieldName": "SolutionArea",
-        "Style": "nestedSelect",
-        "Class": "",
-        "Path": "detail.priorityContentAreas",
-        "Value": "",
-        "OptionsPath": "priorityContentAreas"
-      },
-      {
-        "DisplayTitle": "Line of Business",
-        "FieldName": "LineOfBusiness",
         "Style": "Options",
         "Class": "",
-        "Path": "detail.lineOfBusiness",
+        "Path": "detail.jobRole",
         "Value": "",
-        "OptionsPath": "lineOfBusiness"
+        "OptionsPath": "jobRole"
+      },
+      {
+        "DisplayTitle": "Communities",
+        "FieldName": "Communities",
+        "Style": "multiSelect",
+        "Class": "",
+        "Path": "detail.communities",
+        "Value": "",
+        "OptionsPath": "communities"
+      },
+      {
+        "DisplayTitle": "Industry",
+        "FieldName": "Industry",
+        "Style": "Options",
+        "Class": "",
+        "Path": "detail.industry",
+        "Value": "",
+        "OptionsPath": "industry"
+      },
+      {
+        "DisplayTitle": "Products",
+        "FieldName": "Products",
+        "Style": "multiSelect",
+        "Class": "",
+        "Path": "detail.productsUsed",
+        "Value": "",
+        "OptionsPath": "productsUsed"
       }
     ]
   },
@@ -140,50 +152,26 @@
         "Path": "contacts.notification"
       },
       {
-        "DisplayTitle": "Privacy",
+        "DisplayTitle": "Privacy & Notifications",
         "FieldName": "Privacy",
         "Style": "multiCheckbox",
         "Class": "",
         "Path": "contacts.notification",
         "Options": [
           {
-            "DisplayTitle": "Make my profile visible in the MyInspire directory and allow me to receive messages from other attendees",
+            "DisplayTitle": "Make my profile visible in the MyMBAS directory and allow me to receive messages and meeting invitations from other attendees",
             "FieldName": "CanBeFound",
-            "Style": "checkbox",
-            "Class": "",
-            "Path": "optins.canBeFound",
-            "Value": ""
-          },
-          {
-            "DisplayTitle": "Display the sessions on my schedule on my profile page",
-            "FieldName": "CanShareSessions",
-            "Style": "checkbox",
-            "Class": "",
-            "Path": "optins.canShareSessions",
-            "Value": ""
-          },
-          {
-            "DisplayTitle": "Allow other attendees to invite me to meetings",
-            "FieldName": "CanAttendMeetings",
-            "Style": "checkbox",
-            "Class": "",
-            "Path": "optins.canAttendMeetings",
-            "Value": ""
-          },
-          {
-            "DisplayTitle": "Make my profile publicly available for sharing outside of MyInspire",
-            "FieldName": "IsPubliclyVisible",
             "Style": "checkbox",
             "Class": "",
             "Path": "optins.isPubliclyVisible",
             "Value": ""
           },
           {
-            "DisplayTitle": "Do not send MyInspire schedule items to my personal calendar. For your convenience, you are opted in by default.",
-            "FieldName": "CanSendToCalendar",
+            "DisplayTitle": "Opt Out of receiving meetings and appointments to my personal calendar. All registrants are opted in to receive meetings and appointments on your personal calendar by default. Click this box if you no longer want to receive these calendar appointments.",
+            "FieldName": "DoNotSendToCalendarMeetingAppointments",
             "Style": "checkbox",
             "Class": "",
-            "Path": "optins.canSendToCalendar",
+            "Path": "optins.doNotSendToCalendarMeetingAppointments",
             "Value": ""
           }
         ]
