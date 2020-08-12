@@ -27,19 +27,12 @@
     },
     {
       "Identifiers": [
-        "Analyst",
         "Attendee",
-        "Booth Staff",
-        "Crew (Core Team)",
-        "Crew (Eventforce)",
-        "Crew (Vendors)",
-        "Executive Track",
-        "Microsoft Employee",
-        "Microsoft Support Staff",
-        "Press",
-        "Speaker External",
-        "Speaker Internal",
-        "Sponsor"
+        "Attendee Special Content",
+        "External Event Support",
+        "External Guests",
+        "Executive",
+        "Speaker Internal"
       ],
       "Access": {
         "SessionCatalog": true,
@@ -52,19 +45,6 @@
         "InPersonExperience": true
       },
       "VisibleAttendeeTypes": [
-        "Analyst",
-        "Attendee",
-        "Booth Staff",
-        "Crew (Core Team)",
-        "Crew (Eventforce)",
-        "Crew (Vendors)",
-        "Executive Track",
-        "Microsoft Employee",
-        "Microsoft Support Staff",
-        "Press",
-        "Speaker External",
-        "Speaker Internal",
-        "Sponsor"
       ],
       "Reporting": {
         "SessionCounts": false

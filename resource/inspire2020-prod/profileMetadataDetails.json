@@ -49,14 +49,6 @@
         }
       },
       {
-        "DisplayTitle": "Country of Business",
-        "FieldName": "CountryOfBusiness",
-        "Style": "inputText",
-        "Class": "",
-        "Path": "detail.businessCountry",
-        "Value": ""
-      },
-      {
         "DisplayTitle": "Biography",
         "FieldName": "Biography",
         "Style": "textArea",
@@ -71,7 +63,10 @@
         "Class": "",
         "Path": "social.linkedIn",
         "Value": "",
-        "Regex": "https?://.*linkedin.com/in/.+"
+        "OptionalAttributes": {
+          "Regex": "^($|((http|https)?://.*linkedin\\.com/.+$))",
+          "RegexValidationText": "Please enter in the form of 'https://www.linkedin.com/*'"
+        }
       },
       {
         "DisplayTitle": "Twitter",
@@ -80,7 +75,10 @@
         "Class": "",
         "Path": "social.twitter",
         "Value": "",
-        "Regex": "@([A-Za-z0-9_]+)$"
+        "OptionalAttributes": {
+          "Regex": "^($|((http|https)?://.*twitter\\.com/.+$))",
+          "RegexValidationText": "Please enter in the form of 'https://www.twitter.com/*'"
+        }
       },
       {
         "DisplayTitle": "Website",
@@ -89,7 +87,18 @@
         "Class": "",
         "Path": "social.website",
         "Value": "",
-        "Regex": "^https?://.+$"
+        "OptionalAttributes": {
+          "Regex": "^https?://.+$",
+          "RegexValidationText": "Please enter in the form of 'http://*' or 'http://*'"
+        }
+      },
+      {
+        "DisplayTitle": "Languages Spoken",
+        "FieldName": "LanguagesSpoken",
+        "Style": "inputText",
+        "Class": "",
+        "Path": "detail.languagesSpoken",
+        "Value": ""
       }
     ]
   },
@@ -97,40 +106,39 @@
     "HeadingTitle": "Company Profile",
     "ItemsToShow": [
       {
-        "DisplayTitle": "Job Category",
-        "FieldName": "JobCategoryGroup",
-        "Style": "selectGroup",
+        "DisplayTitle": "Country of Business",
+        "FieldName": "CountryOfBusiness",
+        "Style": "inputText",
         "Class": "",
-        "Path": "detail.jobCategoryGroup",
-        "Value": "",
-        "OptionsPath": "jobCategoryGroup"
+        "Path": "detail.country",
+        "Value": ""
       },
       {
-        "DisplayTitle": "Communities",
-        "FieldName": "Communities",
+        "DisplayTitle": "Business Focus",
+        "FieldName": "BusinessFocus",
+        "Style": "nestedSelect",
+        "Class": "",
+        "Path": "detail.businessFocus",
+        "Value": "",
+        "OptionsPath": "businessFocus"
+      },
+      {
+        "DisplayTitle": "IndustryFocus",
+        "FieldName": "IndustryFocus",
         "Style": "multiSelect",
         "Class": "",
-        "Path": "detail.communities",
+        "Path": "detail.industryFocus",
         "Value": "",
-        "OptionsPath": "communities"
+        "OptionsPath": "industryFocus"
       },
       {
-        "DisplayTitle": "Industry",
-        "FieldName": "Industry",
+        "DisplayTitle": "Customer Segment",
+        "FieldName": "CustomerSegment",
         "Style": "Options",
         "Class": "",
-        "Path": "detail.industry",
+        "Path": "detail.customerSegment",
         "Value": "",
-        "OptionsPath": "industry"
-      },
-      {
-        "DisplayTitle": "Products",
-        "FieldName": "Products",
-        "Style": "multiSelect",
-        "Class": "",
-        "Path": "detail.productsUsed",
-        "Value": "",
-        "OptionsPath": "productsUsed"
+        "OptionsPath": "customerSegment"
       }
     ]
   },
@@ -159,8 +167,24 @@
         "Path": "contacts.notification",
         "Options": [
           {
-            "DisplayTitle": "Make my profile visible in the MyMBAS directory and allow me to receive messages and meeting invitations from other attendees",
+            "DisplayTitle": "Make my profile visible in the MyInspire directory and allow me to receive messages and meeting invitations from other attendees",
             "FieldName": "CanBeFound",
+            "Style": "checkbox",
+            "Class": "",
+            "Path": "optins.canBeFound",
+            "Value": ""
+          },
+          {
+            "DisplayTitle": "Display the sessions on my schedule on my profile page",
+            "FieldName": "CanShareSessions",
+            "Style": "checkbox",
+            "Class": "",
+            "Path": "optins.canShareSessions",
+            "Value": ""
+          },
+          {
+            "DisplayTitle": "Make my profile publicly available for sharing outside of MyInspire",
+            "FieldName": "IsPubliclyVisible",
             "Style": "checkbox",
             "Class": "",
             "Path": "optins.isPubliclyVisible",
@@ -168,12 +192,12 @@
           },
           {
             "DisplayTitle": "Opt Out of receiving meetings and appointments to my personal calendar. All registrants are opted in to receive meetings and appointments on your personal calendar by default. Click this box if you no longer want to receive these calendar appointments.",
-            "FieldName": "DoNotSendToCalendarMeetingAppointments",
+            "FieldName": "SendToCalendarMeetingAppointments",
             "Style": "checkbox",
             "Class": "",
             "Path": "optins.doNotSendToCalendarMeetingAppointments",
             "Value": ""
-          }
+          },
         ]
       }
     ]

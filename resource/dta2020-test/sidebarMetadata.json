@@ -32,6 +32,34 @@
         "subMetadata": []
       },
       {
+        "title": "Topic",
+        "layout": "link",
+        "listings": "leafNodeFilters",
+        "subtype": "topic",
+        "subMetadata": []
+      },
+      {
+        "title": "Business focus",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "businessFocus",
+        "subMetadata": []
+      },
+      {
+        "title": "Line of business",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "lineOfBusiness",
+        "subMetadata": []
+      },
+      {
+        "title": "Partner outcome",
+        "layout": "no-link",
+        "listings": "",
+        "subtype": "businessOutcome",
+        "subMetadata": []
+      },
+      {
         "title": "Products",
         "layout": "link",
         "listings": "leafNodeFilters",
@@ -45,27 +73,20 @@
         "subtype": "",
         "subMetadata": [
           {
-            "title": "View Slide Deck",
+            "title": "View slide deck",
             "layout": "link",
-            "listings": "link",
+            "listings": "linkMediusAuthenticated",
             "subtype": "slideDeck",
             "subMetadata": []
           },
           {
-            "title": "Download Video",
+            "title": "Download video",
             "layout": "link",
-            "listings": "link",
+            "listings": "linkMediusAuthenticated",
             "subtype": "downloadVideoLink",
             "subMetadata": []
           }
         ]
-      },
-      {
-        "title": "Related Links",
-        "layout": "link",
-        "listings": "leafNodeLinks",
-        "subtype": "sessionLinks",
-        "subMetadata": []
       }
     ]
   },
@@ -73,7 +94,7 @@
     "sidebarType": "sponsors",
     "metadata": [
       {
-        "title": "Company Website",
+        "title": "Company website",
         "layout": "link",
         "listings": "link",
         "subtype": "website",
@@ -225,42 +246,42 @@
         "subMetadata": []
       },
       {
-        "title": "Job Category",
+        "title": "Job category",
         "layout": "link",
         "listings": "filters",
         "subtype": "jobCategory",
         "subMetadata": []
       },
       {
-        "title": "Industry",
+        "title": "Industry focus",
         "layout": "link",
         "listings": "filters",
-        "subtype": "industry",
+        "subtype": "industryFocus",
         "subMetadata": []
       },
       {
-        "title": "Business Focus",
+        "title": "Business focus",
         "layout": "link",
         "listings": "filters",
         "subtype": "businessFocus",
         "subMetadata": []
       },
       {
-        "title": "Customer Segment",
+        "title": "Customer segment",
         "layout": "link",
         "listings": "leafNodeFilters",
         "subtype": "customerSegment",
         "subMetadata": []
       },
       {
-        "title": "Solution Area",
+        "title": "Solution area",
         "layout": "link",
         "listings": "leafNodeFilters",
         "subtype": "solutionArea",
         "subMetadata": []
       },
       {
-        "title": "Products Used",
+        "title": "Products used",
         "layout": "link",
         "listings": "leafNodeFilters",
         "subtype": "productsUsed",
@@ -274,10 +295,24 @@
         "subMetadata": []
       },
       {
-        "title": "Country of Business",
+        "title": "Country of business",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "country",
+        "subMetadata": []
+      },
+      {
+        "title": "Attendee type",
+        "layout": "link",
+        "listings": "filters",
+        "subtype": "fieldCorp",
+        "subMetadata": []
+      },
+      {
+        "title": "Languages spoken",
         "layout": "no-link",
         "listings": "",
-        "subtype": "businessCountry",
+        "subtype": "languagesSpoken",
         "subMetadata": []
       }
     ]

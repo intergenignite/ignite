@@ -49,14 +49,6 @@
         }
       },
       {
-        "DisplayTitle": "Country of Business",
-        "FieldName": "CountryOfBusiness",
-        "Style": "inputText",
-        "Class": "",
-        "Path": "detail.businessCountry",
-        "Value": ""
-      },
-      {
         "DisplayTitle": "Biography",
         "FieldName": "Biography",
         "Style": "textArea",
@@ -65,31 +57,43 @@
         "Value": ""
       },
       {
-        "DisplayTitle": "LinkedIn",
-        "FieldName": "LinkedIn",
-        "Style": "inputText",
-        "Class": "",
-        "Path": "social.linkedIn",
-        "Value": "",
-        "Regex": "https?://.*linkedin.com/in/.+"
-      },
-      {
-        "DisplayTitle": "Twitter",
-        "FieldName": "Twitter",
-        "Style": "inputText",
-        "Class": "",
-        "Path": "social.twitter",
-        "Value": "",
-        "Regex": "@([A-Za-z0-9_]+)$"
-      },
-      {
         "DisplayTitle": "Website",
         "FieldName": "Website",
         "Style": "inputText",
         "Class": "",
         "Path": "social.website",
         "Value": "",
-        "Regex": "^https?://.+$"
+        "OptionalAttributes": {
+          "Regex": "^https?://.+$",
+          "RegexValidationText": "Please enter in the form of 'http://*' or 'http://*'"
+        }
+      },
+      {
+        "DisplayTitle": "Azure Expert Microsoft Solution Provider",
+        "FieldName": "",
+        "Style": "checkbox",
+        "Class": "",
+        "Path": "detail.azureSolutionProvider",
+        "Value": "",
+        "OptionsPath": "azureSolutionProvider"
+      },
+      {
+        "DisplayTitle": "Cloud Solution Provider",
+        "FieldName": "",
+        "Style": "checkbox",
+        "Class": "",
+        "Path": "detail.cloudSolutionProvider",
+        "Value": "",
+        "OptionsPath": "cloudSolutionProvider"
+      },
+      {
+        "DisplayTitle": "Partner Type",
+        "FieldName": "",
+        "Style": "Options",
+        "Class": "",
+        "Path": "detail.partnerType",
+        "Value": "",
+        "OptionsPath": "partnerType"
       }
     ]
   },
@@ -97,40 +101,49 @@
     "HeadingTitle": "Company Profile",
     "ItemsToShow": [
       {
-        "DisplayTitle": "Job Category",
-        "FieldName": "JobCategoryGroup",
-        "Style": "selectGroup",
-        "Class": "",
-        "Path": "detail.jobCategoryGroup",
-        "Value": "",
-        "OptionsPath": "jobCategoryGroup"
-      },
-      {
-        "DisplayTitle": "Communities",
-        "FieldName": "Communities",
-        "Style": "multiSelect",
-        "Class": "",
-        "Path": "detail.communities",
-        "Value": "",
-        "OptionsPath": "communities"
-      },
-      {
-        "DisplayTitle": "Industry",
-        "FieldName": "Industry",
+        "DisplayTitle": "Customer Segment",
+        "FieldName": "CustomerSegment",
         "Style": "Options",
         "Class": "",
-        "Path": "detail.industry",
+        "Path": "detail.customerSegment",
         "Value": "",
-        "OptionsPath": "industry"
+        "OptionsPath": "customerSegment"
       },
       {
-        "DisplayTitle": "Products",
-        "FieldName": "Products",
-        "Style": "multiSelect",
+        "DisplayTitle": "Industry Area",
+        "FieldName": "",
+        "Style": "Options",
         "Class": "",
-        "Path": "detail.productsUsed",
+        "Path": "detail.industryArea",
         "Value": "",
-        "OptionsPath": "productsUsed"
+        "OptionsPath": "industryArea"
+      },
+      {
+        "DisplayTitle": "Solution Area/Practice Area",
+        "FieldName": "",
+        "Style": "nestedSelect",
+        "Class": "",
+        "Path": "detail.profilePracticeArea",
+        "Value": "",
+        "OptionsPath": "profilePracticeArea"
+      },
+      {
+        "DisplayTitle": "Geographic Area",
+        "FieldName": "",
+        "Style": "Options",
+        "Class": "",
+        "Path": "detail.ouArea",
+        "Value": "",
+        "OptionsPath": "ouArea"
+      },
+      {
+        "DisplayTitle": "Microsoft Role",
+        "FieldName": "",
+        "Style": "checkbox",
+        "Class": "",
+        "Path": "detail.supportingRole",
+        "Value": "",
+        "OptionsPath": "supportingRole"
       }
     ]
   },
@@ -159,16 +172,16 @@
         "Path": "contacts.notification",
         "Options": [
           {
-            "DisplayTitle": "Make my profile visible in the MyMBAS directory and allow me to receive messages and meeting invitations from other attendees",
+            "DisplayTitle": "Make my profile visible in the MyDta directory and allow me to receive messages and meeting invitations from other attendees",
             "FieldName": "CanBeFound",
             "Style": "checkbox",
             "Class": "",
-            "Path": "optins.isPubliclyVisible",
+            "Path": "optins.canBeFound",
             "Value": ""
           },
           {
             "DisplayTitle": "Opt Out of receiving meetings and appointments to my personal calendar. All registrants are opted in to receive meetings and appointments on your personal calendar by default. Click this box if you no longer want to receive these calendar appointments.",
-            "FieldName": "DoNotSendToCalendarMeetingAppointments",
+            "FieldName": "SendToCalendarMeetingAppointments",
             "Style": "checkbox",
             "Class": "",
             "Path": "optins.doNotSendToCalendarMeetingAppointments",
